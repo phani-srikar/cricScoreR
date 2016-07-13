@@ -1,0 +1,745 @@
+            #Coefficients :
+
+            NonStrikeBatsmanA Nel          NonStrikeBatsmanC Ganapathy        NonStrikeBatsmanBW Hilfenhaus 
+                        1.0523108060                         0.9938675357                         0.9671883464 
+           NonStrikeBatsmanVRV Singh      NonStrikeBatsmanD Kalyankrishna     NonStrikeBatsmanMashrafe Mortaza 
+                        0.8374675748                         0.7624261118                         0.6883987990 
+       NonStrikeBatsmanDJ Muthuswami              NonStrikeBatsmanSB Wagh           NonStrikeBatsmanMJ Guptill 
+                        0.6326378960                         0.5987277573                         0.5951198994 
+        NonStrikeBatsmanBE Hendricks             NonStrikeBatsmanDT Patil            NonStrikeBatsmanCJ Jordan 
+                        0.5920426388                         0.5543818617                         0.5174719812 
+            NonStrikeBatsmanCJ McKay             NonStrikeBatsmanUmar Gul                NonStrikeBatsmanH Das 
+                        0.4962660692                         0.4848754924                         0.4637630220 
+       NonStrikeBatsmanTM Srivastava             NonStrikeBatsmanRS Sodhi            NonStrikeBatsmanKJ Abbott 
+                        0.4543184191                         0.4484786536                         0.4441478852 
+     NonStrikeBatsmanJ Syed Mohammad         NonStrikeBatsmanAbdur Razzak              NonStrikeBatsmanTR Birt 
+                        0.4421507483                         0.4370757622                         0.4256006148 
+          NonStrikeBatsmanAUK Pathan        NonStrikeBatsmanNJ Rimmington             NonStrikeBatsmanA Mukund 
+                        0.4198511011                         0.4007134984                         0.3875304414 
+            NonStrikeBatsmanVS Malik        NonStrikeBatsmanCK Langeveldt          NonStrikeBatsmanYounis Khan 
+                        0.3874073684                         0.3766758086                         0.3519172502 
+          NonStrikeBatsmanVVS Laxman          NonStrikeBatsmanAA Bilakhia              NonStrikeBatsmanRR Raje 
+                        0.3499218174                         0.3191582859                         0.3155427333 
+           NonStrikeBatsmanSA Abbott            NonStrikeBatsmanAB Barath            NonStrikeBatsmanJ Suchith 
+                        0.3154307451                         0.3116268583                         0.3113938096 
+        NonStrikeBatsmanShoaib Malik       NonStrikeBatsmanMJ McClenaghan             NonStrikeBatsmanBA Bhatt 
+                        0.3099822075                         0.3085517841                         0.3083346027 
+          NonStrikeBatsmanSM Harwood           NonStrikeBatsmanB Laughlin         NonStrikeBatsmanPankaj Singh 
+                        0.3004208591                         0.2975524808                         0.2896745740 
+           NonStrikeBatsmanJE Taylor             NonStrikeBatsmanL Ablish           NonStrikeBatsmanRR Rossouw 
+                        0.2886708844                         0.2816511091                         0.2673166700 
+         NonStrikeBatsmanRS Gavaskar     NonStrikeBatsmanY Gnaneswara Rao              NonStrikeBatsmanNS Naik 
+                        0.2632429403                         0.2565445643                         0.2391149727 
+NonStrikeBatsmanX Thalaivan Sargunam         NonStrikeBatsmanCRD Fernando          NonStrikeBatsmanF Behardien 
+                        0.2214415434                         0.2196326427                         0.2184241193 
+            NonStrikeBatsmanW Jaffer            NonStrikeBatsmanCA Pujara          NonStrikeBatsmanBCJ Cutting 
+                        0.2178701811                         0.2170977266                         0.2165995764 
+            NonStrikeBatsmanAS Yadav               NonStrikeBatsmanZ Khan              NonStrikeBatsmanHM Amla 
+                        0.2101620419                         0.2075863572                         0.2003389095 
+           NonStrikeBatsmanRR Sarwan          NonStrikeBatsmanJP Faulkner          NonStrikeBatsmanMDKJ Perera 
+                        0.1997055550                         0.1954773175                         0.1952844634 
+       NonStrikeBatsmanS Chanderpaul          NonStrikeBatsmanLMP Simmons              NonStrikeBatsmanS Tyagi 
+                        0.1951216599                         0.1914189066                         0.1913544746 
+           NonStrikeBatsmanSN Thakur             NonStrikeBatsmanGC Smith            NonStrikeBatsmanM Klinger 
+                        0.1878943620                         0.1868249142                         0.1821353156 
+         NonStrikeBatsmanSachin Baby               NonStrikeBatsmanM Kaif           NonStrikeBatsmanYA Abdulla 
+                        0.1816970128                         0.1792432763                         0.1788380019 
+     NonStrikeBatsmanJoginder Sharma           NonStrikeBatsmanKP Appanna          NonStrikeBatsmanCJ Anderson 
+                        0.1749480518                         0.1727428153                         0.1725979940 
+            NonStrikeBatsmanA Uniyal           NonStrikeBatsmanMG Johnson           NonStrikeBatsmanWD Parnell 
+                        0.1707624760                         0.1693468043                         0.1691833536 
+             NonStrikeBatsmanP Dogra          NonStrikeBatsmanSunny Gupta               NonStrikeBatsmanK Goel 
+                        0.1683887049                         0.1672482283                         0.1655638967 
+             NonStrikeBatsmanAP Tare       NonStrikeBatsmanSandeep Sharma              NonStrikeBatsmanM Vohra 
+                        0.1622443185                         0.1620970297                         0.1577597642 
+           NonStrikeBatsmanRS Bopara              NonStrikeBatsmanV Kohli         NonStrikeBatsmanDB Ravi Teja 
+                        0.1577209482                         0.1573294353                         0.1531070614 
+            NonStrikeBatsmanHH Gibbs             NonStrikeBatsmanTD Paine          NonStrikeBatsmanMF Maharoof 
+                        0.1523434687                         0.1503638519                         0.1495746356 
+     NonStrikeBatsmanKMDN Kulasekara        NonStrikeBatsmanPSP Handscomb          NonStrikeBatsmanBB McCullum 
+                        0.1493926137                         0.1444489854                         0.1411760907 
+            NonStrikeBatsmanFY Fazal            NonStrikeBatsmanUBT Chand           NonStrikeBatsmanTM Dilshan 
+                        0.1404340209                         0.1323367993                         0.1311713607 
+             NonStrikeBatsmanTM Head          NonStrikeBatsmanRJ Peterson        NonStrikeBatsmanYashpal Singh 
+                        0.1286135987                         0.1275042754                         0.1262687731 
+             NonStrikeBatsmanNV Ojha            NonStrikeBatsmanSB Styris              NonStrikeBatsmanC Madan 
+                        0.1251943968                         0.1202893284                         0.1201849085 
+       NonStrikeBatsmanIqbal Abdulla             NonStrikeBatsmanS Dhawan           NonStrikeBatsmanMEK Hussey 
+                        0.1177420678                         0.1147138055                         0.1135278091 
+            NonStrikeBatsmanJR Hopes      NonStrikeBatsmanKB Arun Karthik            NonStrikeBatsmanR Sathish 
+                        0.1132680452                         0.1085709485                         0.1080192263 
+       NonStrikeBatsmanLA Pomersbach           NonStrikeBatsmanDS Lehmann             NonStrikeBatsmanHV Patel 
+                        0.1059484170                         0.1057891856                         0.1035526297 
+             NonStrikeBatsmanC Munro             NonStrikeBatsmanR Shukla              NonStrikeBatsmanN Saini 
+                        0.1019189600                         0.0997942276                         0.0989855017 
+           NonStrikeBatsmanDNT Zoysa             NonStrikeBatsmanSE Marsh              NonStrikeBatsmanM Vijay 
+                        0.0978418259                         0.0978298177                         0.0977208150 
+             NonStrikeBatsmanT Kohli            NonStrikeBatsmanG Gambhir           NonStrikeBatsmanMP Stoinis 
+                        0.0953357226                         0.0937774944                         0.0935965690 
+            NonStrikeBatsmanPA Patel         NonStrikeBatsmanKP Pietersen           NonStrikeBatsmanGJ Maxwell 
+                        0.0923251555                         0.0921643690                         0.0914866474 
+         NonStrikeBatsmanPC Valthaty      NonStrikeBatsmanNM Coulter-Nile              NonStrikeBatsmanSS Iyer 
+                        0.0909123438                         0.0904311697                         0.0899694904 
+         NonStrikeBatsmanDJ Thornely            NonStrikeBatsmanMK Pandey             NonStrikeBatsmanDR Smith 
+                        0.0893950032                         0.0884053239                         0.0878550383 
+            NonStrikeBatsmanKL Rahul          NonStrikeBatsmanSW Billings           NonStrikeBatsmanRT Ponting 
+                        0.0853483499                         0.0851593184                         0.0834441397 
+       NonStrikeBatsmanKS Williamson            NonStrikeBatsmanDJ Jacobs     NonStrikeBatsmanRN ten Doeschate 
+                        0.0820208220                         0.0819725429                         0.0800519099 
+           NonStrikeBatsmanDA Miller           NonStrikeBatsmanA Flintoff              NonStrikeBatsmanMJ Lumb 
+                        0.0792799261                         0.0784428878                         0.0782742617 
+             NonStrikeBatsmanWP Saha             NonStrikeBatsmanSA Yadav          NonStrikeBatsmanAC Blizzard 
+                        0.0771954541                         0.0764268029                         0.0758161208 
+           NonStrikeBatsmanML Hayden            NonStrikeBatsmanAM Rahane          NonStrikeBatsmanSunny Singh 
+                        0.0739287395                         0.0737686455                         0.0729206247 
+       NonStrikeBatsmanMandeep Singh              NonStrikeBatsmanKK Nair            NonStrikeBatsmanJA Morkel 
+                        0.0701947415                         0.0654821595                         0.0646350489 
+          NonStrikeBatsmanFH Edwards             NonStrikeBatsmanS Narwal            NonStrikeBatsmanSR Watson 
+                        0.0630434677                         0.0616101328                         0.0612831313 
+      NonStrikeBatsmanAB de Villiers               NonStrikeBatsmanS Rana          NonStrikeBatsmanS Badrinath 
+                        0.0609130859                         0.0577416828                         0.0574160727 
+       NonStrikeBatsmanShahid Afridi            NonStrikeBatsmanMD Mishra        NonStrikeBatsmanAzhar Mahmood 
+                        0.0564393021                         0.0557971765                         0.0553066518 
+          NonStrikeBatsmanER Dwivedi            NonStrikeBatsmanDA Warner              NonStrikeBatsmanS Sohal 
+                        0.0546651504                         0.0544770827                         0.0540509580 
+          NonStrikeBatsmanSD Chitnis            NonStrikeBatsmanSB Bangar         NonStrikeBatsmanAC Gilchrist 
+                        0.0529628544                         0.0510606617                         0.0498099988 
+       NonStrikeBatsmanCR Brathwaite             NonStrikeBatsmanSK Raina             NonStrikeBatsmanDJ Bravo 
+                        0.0491254925                         0.0485910462                         0.0435959288 
+          NonStrikeBatsmanAD Russell             NonStrikeBatsmanMA Starc             NonStrikeBatsmanCL White 
+                        0.0430122897                         0.0425606455                         0.0420033656 
+          NonStrikeBatsmanKA Pollard             NonStrikeBatsmanMS Bisla           NonStrikeBatsmanM de Lange 
+                        0.0418061847                         0.0404937356                         0.0384251564 
+           NonStrikeBatsmanRJ Quiney         NonStrikeBatsmanMC Henriques            NonStrikeBatsmanSS Tiwary 
+                        0.0381569241                         0.0375917973                         0.0370852723 
+     NonStrikeBatsmanJJ van der Wath            NonStrikeBatsmanJH Kallis        NonStrikeBatsmanParvez Rasool 
+                        0.0369503779                         0.0363563875                         0.0355604670 
+          NonStrikeBatsmanJC Buttler             NonStrikeBatsmanS Sriram         NonStrikeBatsmanDT Christian 
+                        0.0348690307                         0.0340336953                         0.0332972021 
+          NonStrikeBatsmanMA Agarwal             NonStrikeBatsmanPV Tambe            NonStrikeBatsmanSV Samson 
+                        0.0298214083                         0.0289738090                         0.0272588679 
+     NonStrikeBatsmanGurkeerat Singh            NonStrikeBatsmanB Sumanth          NonStrikeBatsmanYV Takawale 
+                        0.0266565286                         0.0264323022                         0.0262985303 
+                                Over            NonStrikeBatsmanAT Rayudu         NonStrikeBatsmanF du Plessis 
+                        0.0254095204                         0.0240057261                         0.0237326091 
+            NonStrikeBatsmanAC Voges             NonStrikeBatsmanV Sehwag             NonStrikeBatsmanS Vidyut 
+                        0.0215820921                         0.0207455487                         0.0200025576 
+        NonStrikeBatsmanKamran Akmal           NonStrikeBatsmanRV Uthappa      NonStrikeBatsmanShakib Al Hasan 
+                        0.0190162472                         0.0168478269                         0.0159759552 
+          NonStrikeBatsmanAL Menaria              NonStrikeBatsmanT Taibu          NonStrikeBatsmanLRPL Taylor 
+                        0.0127137458                         0.0117604148                         0.0117345721 
+          NonStrikeBatsmanDL Vettori           NonStrikeBatsmanSM Pollock            NonStrikeBatsmanLJ Wright 
+                        0.0110519731                         0.0062103183                         0.0040526024 
+           NonStrikeBatsmanSM Katich         NonStrikeBatsmanBipul Sharma             NonStrikeBatsmanMS Dhoni 
+                        0.0039043968                         0.0034550469                         0.0031621652 
+           NonStrikeBatsmanDJ Harris         NonStrikeBatsmanSR Tendulkar            NonStrikeBatsmanJP Duminy 
+                        0.0029887559                        -0.0003967755                        -0.0010651217 
+         NonStrikeBatsmanSA Asnodkar            NonStrikeBatsmanYK Pathan         NonStrikeBatsmanDE Bollinger 
+                       -0.0025805511                        -0.0031746694                        -0.0033613625 
+             NonStrikeBatsmanP Kumar            NonStrikeBatsmanSTR Binny            NonStrikeBatsmanBJ Rohrer 
+                       -0.0035553605                        -0.0040435594                        -0.0044877178 
+             NonStrikeBatsmanD Wiese             NonStrikeBatsmanDJ Hooda              NonStrikeBatsmanSN Khan 
+                       -0.0047459573                        -0.0049923166                        -0.0054642314 
+            NonStrikeBatsmanDW Steyn           NonStrikeBatsmanKD Karthik             NonStrikeBatsmanR Ashwin 
+                       -0.0056849026                        -0.0056980903                        -0.0067385224 
+           NonStrikeBatsmanSP Narine            NonStrikeBatsmanS Kaushik            NonStrikeBatsmanDJ Hussey 
+                       -0.0068441114                        -0.0072925618                        -0.0073199710 
+             NonStrikeBatsmanOA Shah     NonStrikeBatsmanDPMD Jayawardene            NonStrikeBatsmanKH Pandya 
+                       -0.0073895933                        -0.0090912664                        -0.0091881040 
+      NonStrikeBatsmanP Parameswaran            NonStrikeBatsmanRG Sharma      NonStrikeBatsmanMohammad Hafeez 
+                       -0.0098302856                        -0.0102976993                        -0.0133601712 
+             NonStrikeBatsmanJ Yadav              NonStrikeBatsmanM Rawat             NonStrikeBatsmanCH Gayle 
+                       -0.0136464576                        -0.0153144034                        -0.0167130018 
+           NonStrikeBatsmanGJ Bailey           NonStrikeBatsmanPJ Sangwan      NonStrikeBatsmanY Venugopal Rao 
+                       -0.0169437601                        -0.0171952181                        -0.0184925944 
+             NonStrikeBatsmanP Awana              NonStrikeBatsmanJ Botha             NonStrikeBatsmanI Sharma 
+                       -0.0202237880                        -0.0224558368                        -0.0250574294 
+           NonStrikeBatsmanMK Tiwary            NonStrikeBatsmanMC Juneja             NonStrikeBatsmanR Dravid 
+                       -0.0258078404                        -0.0264275482                        -0.0274693841 
+             NonStrikeBatsmanPR Shah           NonStrikeBatsmanSC Ganguly            NonStrikeBatsmanCM Gautam 
+                       -0.0276621905                        -0.0301979404                        -0.0305082017 
+           NonStrikeBatsmanHH Pandya             NonStrikeBatsmanSB Joshi            NonStrikeBatsmanMJ Clarke 
+                       -0.0309962644                        -0.0316402341                        -0.0317118975 
+         NonStrikeBatsmanAB McDonald             NonStrikeBatsmanAJ Finch      NonStrikeBatsmanAA Jhunjhunwala 
+                       -0.0319837822                        -0.0324524466                        -0.0344136355 
+               NonStrikeBatsmanB Lee         NonStrikeBatsmanYuvraj Singh            NonStrikeBatsmanMM Sharma 
+                       -0.0357006971                        -0.0369454824                        -0.0370767918 
+           NonStrikeBatsmanSPD Smith             NonStrikeBatsmanBJ Hodge              NonStrikeBatsmanY Nagar 
+                       -0.0371878117                        -0.0381906096                        -0.0388849302 
+             NonStrikeBatsmanB Akhil           NonStrikeBatsmanEJG Morgan            NonStrikeBatsmanQ de Kock 
+                       -0.0404290024                        -0.0407760680                        -0.0412822230 
+            NonStrikeBatsmanAN Ahmed       NonStrikeBatsmanAD Mascarenhas            NonStrikeBatsmanCH Morris 
+                       -0.0414785101                        -0.0452451490                        -0.0455455005 
+            NonStrikeBatsmanTL Suman        NonStrikeBatsmanKC Sangakkara               NonStrikeBatsmanVH Zol 
+                       -0.0464097275                        -0.0492981365                        -0.0511380659 
+          NonStrikeBatsmanUT Khawaja             NonStrikeBatsmanAM Nayar             NonStrikeBatsmanJD Ryder 
+                       -0.0527072255                        -0.0531204512                        -0.0544376194 
+             NonStrikeBatsmanCA Lynn              NonStrikeBatsmanAD Nath           NonStrikeBatsmanMN van Wyk 
+                       -0.0550536638                        -0.0565548165                        -0.0585025219 
+            NonStrikeBatsmanND Doshi            NonStrikeBatsmanAC Thomas       NonStrikeBatsmanMohammed Shami 
+                       -0.0631613849                        -0.0639541173                        -0.0665605718 
+           NonStrikeBatsmanR McLaren           NonStrikeBatsmanSP Goswami      NonStrikeBatsmanHarbhajan Singh 
+                       -0.0666259945                        -0.0679632595                        -0.0701263053 
+           NonStrikeBatsmanGH Vihari             NonStrikeBatsmanMR Marsh            NonStrikeBatsmanIK Pathan 
+                       -0.0736439576                        -0.0739976724                        -0.0756023533 
+            NonStrikeBatsmanA Chopra                          (Intercept)            NonStrikeBatsmanPP Chawla 
+                       -0.0780114772                        -0.0814615363                        -0.0832304303 
+           NonStrikeBatsmanKM Jadhav           NonStrikeBatsmanAD Mathews           NonStrikeBatsmanMV Boucher 
+                       -0.0835468277                        -0.0868217076                        -0.0882728381 
+           NonStrikeBatsmanKV Sharma          NonStrikeBatsmanNLTC Perera              NonStrikeBatsmanRR Pant 
+                       -0.0895456817                        -0.0900220512                        -0.0911949783 
+            NonStrikeBatsmanM Manhas            NonStrikeBatsmanRA Jadeja               NonStrikeBatsmanP Negi 
+                       -0.0971508995                        -0.1021126851                        -0.1052810989 
+    NonStrikeBatsmanRE van der Merwe             NonStrikeBatsmanIR Jaggi             NonStrikeBatsmanRP Singh 
+                       -0.1066966613                        -0.1074130102                        -0.1107011665 
+            NonStrikeBatsmanR Bhatia           NonStrikeBatsmanSP Fleming               NonStrikeBatsmanS Kaul 
+                       -0.1117720278                        -0.1126403320                        -0.1133887196 
+       NonStrikeBatsmanMisbah-ul-Haq          NonStrikeBatsmanCJ Ferguson       NonStrikeBatsmanPD Collingwood 
+                       -0.1150295178                        -0.1151400259                        -0.1160127090 
+          NonStrikeBatsmanTG Southee             NonStrikeBatsmanR Dhawan          NonStrikeBatsmanAP Majumdar 
+                       -0.1190272420                        -0.1191451530                        -0.1195348986 
+             NonStrikeBatsmanGB Hogg             NonStrikeBatsmanA Mishra            NonStrikeBatsmanDH Yagnik 
+                       -0.1204458800                        -0.1205230584                        -0.1226341511 
+          NonStrikeBatsmanS Anirudha            NonStrikeBatsmanA Symonds              NonStrikeBatsmanWA Mota 
+                       -0.1298350464                        -0.1310552673                        -0.1334686053 
+       NonStrikeBatsmanCK Kapugedera             NonStrikeBatsmanM Kartik           NonStrikeBatsmanMN Samuels 
+                       -0.1340500552                        -0.1414032872                        -0.1421239216 
+      NonStrikeBatsmanM Muralitharan             NonStrikeBatsmanA Kumble        NonStrikeBatsmanLA Carseldine 
+                       -0.1445406232                        -0.1477839230                        -0.1500571756 
+           NonStrikeBatsmanRJ Harris            NonStrikeBatsmanR Bishnoi              NonStrikeBatsmanMS Wade 
+                       -0.1502412852                        -0.1518631876                        -0.1557061446 
+      NonStrikeBatsmanJaskaran Singh              NonStrikeBatsmanRE Levi            NonStrikeBatsmanLR Shukla 
+                       -0.1572998942                        -0.1597075649                        -0.1616545045 
+            NonStrikeBatsmanAR Patel            NonStrikeBatsmanDJG Sammy           NonStrikeBatsmanAB Agarkar 
+                       -0.1627845711                        -0.1650065389                        -0.1687108590 
+             NonStrikeBatsmanAS Raut              NonStrikeBatsmanAP Dole           NonStrikeBatsmanSK Trivedi 
+                       -0.1693670161                        -0.1790388135                        -0.1829493107 
+          NonStrikeBatsmanBAW Mendis        NonStrikeBatsmanST Jayasuriya         NonStrikeBatsmanJEC Franklin 
+                       -0.1849776347                        -0.1862182204                        -0.1894701321 
+             NonStrikeBatsmanJM Kemp              NonStrikeBatsmanA Nehra             NonStrikeBatsmanPA Reddy 
+                       -0.1937048757                        -0.1941358513                        -0.1952259696 
+       NonStrikeBatsmanHarmeet Singh           NonStrikeBatsmanD du Preez        NonStrikeBatsmanSJ Srivastava 
+                       -0.1958743763                        -0.1982473292                        -0.2024962137 
+     NonStrikeBatsmanSMSM Senanayake            NonStrikeBatsmanR Rampaul              NonStrikeBatsmanB Kumar 
+                       -0.2034376541                        -0.2073879505                        -0.2076917197 
+       NonStrikeBatsmanR Vinay Kumar        NonStrikeBatsmanAnirudh Singh             NonStrikeBatsmanRV Gomez 
+                       -0.2108444787                        -0.2130546692                        -0.2137964880 
+         NonStrikeBatsmanAG Paunikar           NonStrikeBatsmanWPUJC Vaas         NonStrikeBatsmanIshan Kishan 
+                       -0.2169179343                        -0.2183511879                        -0.2286241747 
+             NonStrikeBatsmanMS Gony          NonStrikeBatsmanS Sreesanth          NonStrikeBatsmanBMAJ Mendis 
+                       -0.2287913051                        -0.2386643573                        -0.2410183508 
+            NonStrikeBatsmanB Chipli         NonStrikeBatsmanBB Samantray             NonStrikeBatsmanJDP Oram 
+                       -0.2446704999                        -0.2451645550                        -0.2456101381 
+          NonStrikeBatsmanI Malhotra             NonStrikeBatsmanJ Theron          NonStrikeBatsmanJDS Neesham 
+                       -0.2459808031                        -0.2481626668                        -0.2498989894 
+      NonStrikeBatsmanHarpreet Singh            NonStrikeBatsmanSB Jakati            NonStrikeBatsmanBJ Haddin 
+                       -0.2538682233                        -0.2578298300                        -0.2583125786 
+         NonStrikeBatsmanDS Kulkarni             NonStrikeBatsmanMA Khote            NonStrikeBatsmanAA Chavan 
+                       -0.2585263781                        -0.2665161530                        -0.2690647355 
+         NonStrikeBatsmanKC Cariappa            NonStrikeBatsmanJO Holder               NonStrikeBatsmanN Rana 
+                       -0.2710292720                        -0.2720166281                        -0.2761266467 
+              NonStrikeBatsmanDB Das            NonStrikeBatsmanYS Chahal             NonStrikeBatsmanR Sharma 
+                       -0.2769576383                        -0.2809549828                        -0.2881547063 
+            NonStrikeBatsmanAB Dinda             NonStrikeBatsmanVR Aaron             NonStrikeBatsmanUT Yadav 
+                       -0.2899703380                        -0.2937359278                        -0.3002906673 
+            NonStrikeBatsmanSK Warne            NonStrikeBatsmanKK Cooper        NonStrikeBatsmanSohail Tanvir 
+                       -0.3004363747                        -0.3021959204                        -0.3089906676 
+          NonStrikeBatsmanAG Murtaza             NonStrikeBatsmanNK Patel          NonStrikeBatsmanSalman Butt 
+                       -0.3096232265                        -0.3124759178                        -0.3130908678 
+          NonStrikeBatsmanSL Malinga             NonStrikeBatsmanM Morkel           NonStrikeBatsmanD Salunkhe 
+                       -0.3193858683                        -0.3270035745                        -0.3527608072 
+           NonStrikeBatsmanCA Ingram             NonStrikeBatsmanRR Powar             NonStrikeBatsmanS Nadeem 
+                       -0.3554425678                        -0.3573931732                        -0.3759595343 
+            NonStrikeBatsmanS Randiv        NonStrikeBatsmanShoaib Akhtar            NonStrikeBatsmanDR Martyn 
+                       -0.3784507821                        -0.3861933452                        -0.3890137475 
+       NonStrikeBatsmanDAJ Bracewell           NonStrikeBatsmanAS Rajpoot              NonStrikeBatsmanPP Ojha 
+                       -0.3891099475                        -0.3892078121                        -0.4012749872 
+          NonStrikeBatsmanK Upadhyay          NonStrikeBatsmanNL McCullum        NonStrikeBatsmanSwapnil Singh 
+                       -0.4014327147                        -0.4088642372                        -0.4102134896 
+           NonStrikeBatsmanLPC Silva   NonStrikeBatsmanSandeep Sharma (1)     NonStrikeBatsmanPM Sarvesh Kumar 
+                       -0.4137759391                        -0.4140241106                        -0.4165650627 
+            NonStrikeBatsmanA Mithun         NonStrikeBatsmanAnkit Sharma             NonStrikeBatsmanUA Birla 
+                       -0.4273305973                        -0.4350329383                        -0.4459576367 
+           NonStrikeBatsmanAA Noffke              NonStrikeBatsmanBR Dunk            NonStrikeBatsmanGR Napier 
+                       -0.4477518961                        -0.4755108915                        -0.4925278984 
+           NonStrikeBatsmanKAJ Roach            NonStrikeBatsmanS Aravind         NonStrikeBatsmanNJ Maddinson 
+                       -0.4978325068                        -0.5023396535                        -0.5060966550 
+          NonStrikeBatsmanJD Unadkat        NonStrikeBatsmanKW Richardson              NonStrikeBatsmanS Gopal 
+                       -0.5440575720                        -0.5520025421                        -0.5630329222 
+         NonStrikeBatsmanKamran Khan            NonStrikeBatsmanJJ Bumrah              NonStrikeBatsmanBB Sran 
+                       -0.5988741634                        -0.6015154252                        -0.6126274742 
+     NonStrikeBatsmanKaranveer Singh            NonStrikeBatsmanR Tewatia            NonStrikeBatsmanVY Mahesh 
+                       -0.6346630188                        -0.6375761558                        -0.6440871413 
+       NonStrikeBatsmanAnureet Singh             NonStrikeBatsmanMM Patel           NonStrikeBatsmanT Thushara 
+                       -0.6451637395                        -0.6558208859                        -0.6764582527 
+              NonStrikeBatsmanP Sahu          NonStrikeBatsmanImran Tahir          NonStrikeBatsmanJ Arunkumar 
+                       -0.7215858706                        -0.7230729988                        -0.7932819411 
+            NonStrikeBatsmanL Balaji             NonStrikeBatsmanL Ronchi        NonStrikeBatsmanMohammad Asif 
+                       -0.8240285051                        -0.8338293954                        -0.8781643654 
+             NonStrikeBatsmanSW Tait             NonStrikeBatsmanAN Ghosh              NonStrikeBatsmanA Singh 
+                       -0.9046527014                        -0.9672220895                        -1.0361383687 
+             NonStrikeBatsmanR Ninan              NonStrikeBatsmanM Ntini    NonStrikeBatsmanMohammad Ashraful 
+                       -1.0735542889                        -1.0873461501                        -1.1060862258 
+             NonStrikeBatsmanSE Bond          NonStrikeBatsmanT Henderson           NonStrikeBatsmanA Chandila 
+                       -1.2332367587                        -1.2633254025                        -1.3297125796 
+           NonStrikeBatsmanSS Shaikh              NonStrikeBatsmanS Ladda           NonStrikeBatsmanRR Bhatkal 
+                       -1.4291731687                        -1.4711249274                        -1.5050156953 
+             NonStrikeBatsmanRG More           NonStrikeBatsmanGD McGrath            NonStrikeBatsmanDP Nannes 
+                       -1.5101040558                        -1.6086804975                        -1.6709282938 
+       NonStrikeBatsmanDP Vijaykumar         NonStrikeBatsmanShoaib Ahmed         NonStrikeBatsmanTP Sudhindra 
+                       -2.0224489988                        -9.5794259057                        -9.6556263548
+
+# Summary :
+
+Call:
+glm(formula = RunsScored ~ NonStrikeBatsman + Over, family = poisson, 
+    data = FinalDataFrame)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.4510  -1.4862  -0.3199   0.0037   4.1726  
+
+Coefficients:
+                                       Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                          -0.0814615  0.0702783  -1.159 0.246404    
+NonStrikeBatsmanA Chandila           -1.3297126  0.4526086  -2.938 0.003305 ** 
+NonStrikeBatsmanA Chopra             -0.0780115  0.1260586  -0.619 0.536015    
+NonStrikeBatsmanA Flintoff            0.0784429  0.1448806   0.541 0.588210    
+NonStrikeBatsmanA Kumble             -0.1477839  0.1335730  -1.106 0.268558    
+NonStrikeBatsmanA Mishra             -0.1205231  0.0877271  -1.374 0.169491    
+NonStrikeBatsmanA Mithun             -0.4273306  0.2290738  -1.865 0.062115 .  
+NonStrikeBatsmanA Mukund              0.3875304  0.1678199   2.309 0.020932 *  
+NonStrikeBatsmanA Nehra              -0.1941359  0.1240216  -1.565 0.117504    
+NonStrikeBatsmanA Nel                 1.0523108  0.2859705   3.680 0.000233 ***
+NonStrikeBatsmanA Singh              -1.0361384  0.7105311  -1.458 0.144769    
+NonStrikeBatsmanA Symonds            -0.1310553  0.0785952  -1.667 0.095421 .  
+NonStrikeBatsmanA Uniyal              0.1707625  0.2290721   0.745 0.455998    
+NonStrikeBatsmanAA Bilakhia           0.3191583  0.1131510   2.821 0.004793 ** 
+NonStrikeBatsmanAA Chavan            -0.2690647  0.3238126  -0.831 0.406015    
+NonStrikeBatsmanAA Jhunjhunwala      -0.0344136  0.0937475  -0.367 0.713553    
+NonStrikeBatsmanAA Noffke            -0.4477519  0.4141711  -1.081 0.279662    
+NonStrikeBatsmanAB Agarkar           -0.1687109  0.0985336  -1.712 0.086857 .  
+NonStrikeBatsmanAB Barath             0.3116269  0.1508373   2.066 0.038830 *  
+NonStrikeBatsmanAB de Villiers        0.0609131  0.0721433   0.844 0.398482    
+NonStrikeBatsmanAB Dinda             -0.2899703  0.2046742  -1.417 0.156559    
+NonStrikeBatsmanAB McDonald          -0.0319838  0.1184499  -0.270 0.787145    
+NonStrikeBatsmanAbdur Razzak          0.4370758  0.2761964   1.582 0.113540    
+NonStrikeBatsmanAC Blizzard           0.0758161  0.1302404   0.582 0.560483    
+NonStrikeBatsmanAC Gilchrist          0.0498100  0.0743316   0.670 0.502790    
+NonStrikeBatsmanAC Thomas            -0.0639541  0.2397625  -0.267 0.789670    
+NonStrikeBatsmanAC Voges              0.0215821  0.1022004   0.211 0.832751    
+NonStrikeBatsmanAD Mascarenhas       -0.0452451  0.1177496  -0.384 0.700794    
+NonStrikeBatsmanAD Mathews           -0.0868217  0.0795723  -1.091 0.275227    
+NonStrikeBatsmanAD Nath              -0.0565548  0.1710251  -0.331 0.740885    
+NonStrikeBatsmanAD Russell            0.0430123  0.0885533   0.486 0.627164    
+NonStrikeBatsmanAG Murtaza           -0.3096232  0.3094587  -1.001 0.317053    
+NonStrikeBatsmanAG Paunikar          -0.2169179  0.1662687  -1.305 0.192021    
+NonStrikeBatsmanAJ Finch             -0.0324524  0.0759773  -0.427 0.669282    
+NonStrikeBatsmanAL Menaria            0.0127137  0.0837645   0.152 0.879361    
+NonStrikeBatsmanAM Nayar             -0.0531205  0.0780878  -0.680 0.496336    
+NonStrikeBatsmanAM Rahane             0.0737686  0.0721587   1.022 0.306633    
+NonStrikeBatsmanAN Ahmed             -0.0414785  0.1476614  -0.281 0.778785    
+NonStrikeBatsmanAN Ghosh             -0.9672221  0.7105590  -1.361 0.173446    
+NonStrikeBatsmanAnirudh Singh        -0.2130547  0.1399088  -1.523 0.127806    
+NonStrikeBatsmanAnkit Sharma         -0.4350329  0.1552073  -2.803 0.005064 ** 
+NonStrikeBatsmanAnureet Singh        -0.6451637  0.2081247  -3.100 0.001936 ** 
+NonStrikeBatsmanAP Dole              -0.1790388  0.2342102  -0.764 0.444607    
+NonStrikeBatsmanAP Majumdar          -0.1195349  0.1300906  -0.919 0.358169    
+NonStrikeBatsmanAP Tare               0.1622443  0.0901374   1.800 0.071866 .  
+NonStrikeBatsmanAR Patel             -0.1627846  0.0861819  -1.889 0.058912 .  
+NonStrikeBatsmanAS Rajpoot           -0.3892078  0.3405379  -1.143 0.253072    
+NonStrikeBatsmanAS Raut              -0.1693670  0.1012932  -1.672 0.094515 .  
+NonStrikeBatsmanAS Yadav              0.2101620  0.1406405   1.494 0.135092    
+NonStrikeBatsmanAT Rayudu             0.0240057  0.0725941   0.331 0.740883    
+NonStrikeBatsmanAUK Pathan            0.4198511  0.2457884   1.708 0.087603 .  
+NonStrikeBatsmanAzhar Mahmood         0.0553067  0.0865716   0.639 0.522918    
+NonStrikeBatsmanB Akhil              -0.0404290  0.1289162  -0.314 0.753820    
+NonStrikeBatsmanB Chipli             -0.2446705  0.0942319  -2.596 0.009419 ** 
+NonStrikeBatsmanB Kumar              -0.2076917  0.1041281  -1.995 0.046089 *  
+NonStrikeBatsmanB Laughlin            0.2975525  0.1926486   1.545 0.122459    
+NonStrikeBatsmanB Lee                -0.0357007  0.1157648  -0.308 0.757786    
+NonStrikeBatsmanB Sumanth             0.0264323  0.1335717   0.198 0.843132    
+NonStrikeBatsmanBA Bhatt              0.3083346  0.2969649   1.038 0.299137    
+NonStrikeBatsmanBAW Mendis           -0.1849776  0.3094575  -0.598 0.550008    
+NonStrikeBatsmanBB McCullum           0.1411761  0.0728173   1.939 0.052529 .  
+NonStrikeBatsmanBB Samantray         -0.2451646  0.1181253  -2.075 0.037944 *  
+NonStrikeBatsmanBB Sran              -0.6126275  0.3405394  -1.799 0.072020 .  
+NonStrikeBatsmanBCJ Cutting           0.2165996  0.1457667   1.486 0.137297    
+NonStrikeBatsmanBE Hendricks          0.5920426  0.1954207   3.030 0.002449 ** 
+NonStrikeBatsmanBipul Sharma          0.0034550  0.1048301   0.033 0.973708    
+NonStrikeBatsmanBJ Haddin            -0.2583126  0.2675563  -0.965 0.334319    
+NonStrikeBatsmanBJ Hodge             -0.0381906  0.0749077  -0.510 0.610166    
+NonStrikeBatsmanBJ Rohrer            -0.0044877  0.1115168  -0.040 0.967900    
+NonStrikeBatsmanBMAJ Mendis          -0.2410184  0.1954514  -1.233 0.217525    
+NonStrikeBatsmanBR Dunk              -0.4755109  0.2675602  -1.777 0.075534 .  
+NonStrikeBatsmanBW Hilfenhaus         0.9671883  0.5048330   1.916 0.055383 .  
+NonStrikeBatsmanC Ganapathy           0.9938675  0.3603541   2.758 0.005815 ** 
+NonStrikeBatsmanC Madan               0.1201849  0.2458991   0.489 0.625014    
+NonStrikeBatsmanC Munro               0.1019190  0.1927058   0.529 0.596886    
+NonStrikeBatsmanCA Ingram            -0.3554426  0.2243709  -1.584 0.113154    
+NonStrikeBatsmanCA Lynn              -0.0550537  0.1223607  -0.450 0.652761    
+NonStrikeBatsmanCA Pujara             0.2170977  0.0822954   2.638 0.008339 ** 
+NonStrikeBatsmanCH Gayle             -0.0167130  0.0727887  -0.230 0.818395    
+NonStrikeBatsmanCH Morris            -0.0455455  0.1008639  -0.452 0.651590    
+NonStrikeBatsmanCJ Anderson           0.1725980  0.0866976   1.991 0.046502 *  
+NonStrikeBatsmanCJ Ferguson          -0.1151400  0.1158252  -0.994 0.320182    
+NonStrikeBatsmanCJ Jordan             0.5174720  0.3238137   1.598 0.110031    
+NonStrikeBatsmanCJ McKay              0.4962661  0.2118025   2.343 0.019126 *  
+NonStrikeBatsmanCK Kapugedera        -0.1340501  0.2046741  -0.655 0.512504    
+NonStrikeBatsmanCK Langeveldt         0.3766758  0.2457855   1.533 0.125390    
+NonStrikeBatsmanCL White              0.0420034  0.0768166   0.547 0.584516    
+NonStrikeBatsmanCM Gautam            -0.0305082  0.1047284  -0.291 0.770816    
+NonStrikeBatsmanCR Brathwaite         0.0491255  0.1765513   0.278 0.780820    
+NonStrikeBatsmanCRD Fernando          0.2196326  0.2674368   0.821 0.411504    
+NonStrikeBatsmanD du Preez           -0.1982473  0.2290708  -0.865 0.386797    
+NonStrikeBatsmanD Kalyankrishna       0.7624261  0.1926462   3.958 7.57e-05 ***
+NonStrikeBatsmanD Salunkhe           -0.3527608  0.1954179  -1.805 0.071049 .  
+NonStrikeBatsmanD Wiese              -0.0047460  0.1154527  -0.041 0.967210    
+NonStrikeBatsmanDA Miller             0.0792799  0.0744925   1.064 0.287208    
+NonStrikeBatsmanDA Warner             0.0544771  0.0726010   0.750 0.453037    
+NonStrikeBatsmanDAJ Bracewell        -0.3891099  0.3405379  -1.143 0.253191    
+NonStrikeBatsmanDB Das               -0.2769576  0.0968619  -2.859 0.004246 ** 
+NonStrikeBatsmanDB Ravi Teja          0.1531071  0.0826241   1.853 0.063874 .  
+NonStrikeBatsmanDE Bollinger         -0.0033614  0.1785559  -0.019 0.984981    
+NonStrikeBatsmanDH Yagnik            -0.1226342  0.1117516  -1.097 0.272475    
+NonStrikeBatsmanDJ Bravo              0.0435959  0.0753039   0.579 0.562634    
+NonStrikeBatsmanDJ Harris             0.0029888  0.1255775   0.024 0.981012    
+NonStrikeBatsmanDJ Hooda             -0.0049923  0.0888718  -0.056 0.955203    
+NonStrikeBatsmanDJ Hussey            -0.0073200  0.0747227  -0.098 0.921963    
+NonStrikeBatsmanDJ Jacobs             0.0819725  0.1400623   0.585 0.558374    
+NonStrikeBatsmanDJ Muthuswami         0.6326379  0.2761953   2.291 0.021990 *  
+NonStrikeBatsmanDJ Thornely           0.0893950  0.1415467   0.632 0.527676    
+NonStrikeBatsmanDJG Sammy            -0.1650065  0.0911342  -1.811 0.070205 .  
+NonStrikeBatsmanDL Vettori            0.0110520  0.0954468   0.116 0.907817    
+NonStrikeBatsmanDNT Zoysa             0.0978418  0.1926460   0.508 0.611535    
+NonStrikeBatsmanDP Nannes            -1.6709283  0.5048310  -3.310 0.000933 ***
+NonStrikeBatsmanDP Vijaykumar        -2.0224490  1.0024251  -2.018 0.043637 *  
+NonStrikeBatsmanDPMD Jayawardene     -0.0090913  0.0736326  -0.123 0.901737    
+NonStrikeBatsmanDR Martyn            -0.3890137  0.1806760  -2.153 0.031311 *  
+NonStrikeBatsmanDR Smith              0.0878550  0.0740265   1.187 0.235305    
+NonStrikeBatsmanDS Kulkarni          -0.2585264  0.1258707  -2.054 0.039985 *  
+NonStrikeBatsmanDS Lehmann            0.1057892  0.1807161   0.585 0.558286    
+NonStrikeBatsmanDT Christian          0.0332972  0.0836831   0.398 0.690706    
+NonStrikeBatsmanDT Patil              0.5543819  0.2243104   2.471 0.013455 *  
+NonStrikeBatsmanDW Steyn             -0.0056849  0.1001792  -0.057 0.954746    
+NonStrikeBatsmanEJG Morgan           -0.0407761  0.0785280  -0.519 0.603583    
+NonStrikeBatsmanER Dwivedi            0.0546652  0.3843346   0.142 0.886896    
+NonStrikeBatsmanF Behardien           0.2184241  0.1875033   1.165 0.244056    
+NonStrikeBatsmanF du Plessis          0.0237326  0.0751040   0.316 0.752005    
+NonStrikeBatsmanFH Edwards            0.0630435  0.3603550   0.175 0.861120    
+NonStrikeBatsmanFY Fazal              0.1404340  0.0952528   1.474 0.140393    
+NonStrikeBatsmanG Gambhir             0.0937775  0.0717358   1.307 0.191123    
+NonStrikeBatsmanGB Hogg              -0.1204459  0.1676623  -0.718 0.472521    
+NonStrikeBatsmanGC Smith              0.1868249  0.0768434   2.431 0.015047 *  
+NonStrikeBatsmanGD McGrath           -1.6086805  0.7105311  -2.264 0.023571 *  
+NonStrikeBatsmanGH Vihari            -0.0736440  0.0865128  -0.851 0.394631    
+NonStrikeBatsmanGJ Bailey            -0.0169438  0.0794020  -0.213 0.831021    
+NonStrikeBatsmanGJ Maxwell            0.0914866  0.0808347   1.132 0.257729    
+NonStrikeBatsmanGR Napier            -0.4925279  0.3603574  -1.367 0.171695    
+NonStrikeBatsmanGurkeerat Singh       0.0266565  0.0897444   0.297 0.766446    
+NonStrikeBatsmanH Das                 0.4637630  0.3843331   1.207 0.227559    
+NonStrikeBatsmanHarbhajan Singh      -0.0701263  0.0799120  -0.878 0.380191    
+NonStrikeBatsmanHarmeet Singh        -0.1958744  0.2523461  -0.776 0.437623    
+NonStrikeBatsmanHarpreet Singh       -0.2538682  0.1828273  -1.389 0.164964    
+NonStrikeBatsmanHH Gibbs              0.1523435  0.0757600   2.011 0.044339 *  
+NonStrikeBatsmanHH Pandya            -0.0309963  0.1082002  -0.286 0.774517    
+NonStrikeBatsmanHM Amla               0.2003389  0.1046086   1.915 0.055476 .  
+NonStrikeBatsmanHV Patel              0.1035526  0.1258708   0.823 0.410684    
+NonStrikeBatsmanI Malhotra           -0.2459808  0.3843339  -0.640 0.522161    
+NonStrikeBatsmanI Sharma             -0.0250574  0.1164057  -0.215 0.829565    
+NonStrikeBatsmanIK Pathan            -0.0756024  0.0752374  -1.005 0.314969    
+NonStrikeBatsmanImran Tahir          -0.7230730  0.3405371  -2.123 0.033726 *  
+NonStrikeBatsmanIqbal Abdulla         0.1177421  0.1114910   1.056 0.290937    
+NonStrikeBatsmanIR Jaggi             -0.1074130  0.1497296  -0.717 0.473140    
+NonStrikeBatsmanIshan Kishan         -0.2286242  0.1693164  -1.350 0.176927    
+NonStrikeBatsmanJ Arunkumar          -0.7932819  0.3239188  -2.449 0.014325 *  
+NonStrikeBatsmanJ Botha              -0.0224558  0.0825242  -0.272 0.785536    
+NonStrikeBatsmanJ Suchith             0.3113938  0.1191645   2.613 0.008971 ** 
+NonStrikeBatsmanJ Syed Mohammad       0.4421507  0.1383478   3.196 0.001394 ** 
+NonStrikeBatsmanJ Theron             -0.2481627  0.2595279  -0.956 0.338967    
+NonStrikeBatsmanJ Yadav              -0.0136465  0.2046741  -0.067 0.946841    
+NonStrikeBatsmanJA Morkel             0.0646350  0.0761178   0.849 0.395800    
+NonStrikeBatsmanJaskaran Singh       -0.1572999  0.2046740  -0.769 0.442167    
+NonStrikeBatsmanJC Buttler            0.0348690  0.0963568   0.362 0.717446    
+NonStrikeBatsmanJD Ryder             -0.0544376  0.0826072  -0.659 0.509900    
+NonStrikeBatsmanJD Unadkat           -0.5440576  0.4526085  -1.202 0.229345    
+NonStrikeBatsmanJDP Oram             -0.2456101  0.1136656  -2.161 0.030710 *  
+NonStrikeBatsmanJDS Neesham          -0.2498990  0.1926512  -1.297 0.194577    
+NonStrikeBatsmanJE Taylor             0.2886709  0.2457868   1.174 0.240204    
+NonStrikeBatsmanJEC Franklin         -0.1894701  0.0891736  -2.125 0.033609 *  
+NonStrikeBatsmanJH Kallis             0.0363564  0.0724288   0.502 0.615695    
+NonStrikeBatsmanJJ Bumrah            -0.6015154  0.2674343  -2.249 0.024499 *  
+NonStrikeBatsmanJJ van der Wath       0.0369504  0.2198475   0.168 0.866526    
+NonStrikeBatsmanJM Kemp              -0.1937049  0.2081637  -0.931 0.352091    
+NonStrikeBatsmanJO Holder            -0.2720166  0.1954175  -1.392 0.163929    
+NonStrikeBatsmanJoginder Sharma       0.1749481  0.1564040   1.119 0.263326    
+NonStrikeBatsmanJP Duminy            -0.0010651  0.0730391  -0.015 0.988365    
+NonStrikeBatsmanJP Faulkner           0.1954773  0.0818092   2.389 0.016875 *  
+NonStrikeBatsmanJR Hopes              0.1132680  0.0844890   1.341 0.180042    
+NonStrikeBatsmanK Goel                0.1655639  0.0902646   1.834 0.066623 .  
+NonStrikeBatsmanK Upadhyay           -0.4014327  0.4526096  -0.887 0.375117    
+NonStrikeBatsmanKA Pollard            0.0418062  0.0736901   0.567 0.570494    
+NonStrikeBatsmanKAJ Roach            -0.4978325  0.4526091  -1.100 0.271368    
+NonStrikeBatsmanKamran Akmal          0.0190162  0.1289995   0.147 0.882806    
+NonStrikeBatsmanKamran Khan          -0.5988742  0.5815397  -1.030 0.303100    
+NonStrikeBatsmanKaranveer Singh      -0.6346630  0.2674342  -2.373 0.017637 *  
+NonStrikeBatsmanKB Arun Karthik       0.1085709  0.1222946   0.888 0.374658    
+NonStrikeBatsmanKC Cariappa          -0.2710293  0.2761987  -0.981 0.326453    
+NonStrikeBatsmanKC Sangakkara        -0.0492981  0.0743837  -0.663 0.507488    
+NonStrikeBatsmanKD Karthik           -0.0056981  0.0725725  -0.079 0.937418    
+NonStrikeBatsmanKH Pandya            -0.0091881  0.1105059  -0.083 0.933736    
+NonStrikeBatsmanKJ Abbott             0.4441479  0.2342102   1.896 0.057912 .  
+NonStrikeBatsmanKK Cooper            -0.3021959  0.1589515  -1.901 0.057278 .  
+NonStrikeBatsmanKK Nair               0.0654822  0.0772798   0.847 0.396806    
+NonStrikeBatsmanKL Rahul              0.0853483  0.0794054   1.075 0.282445    
+NonStrikeBatsmanKM Jadhav            -0.0835468  0.0802865  -1.041 0.298057    
+NonStrikeBatsmanKMDN Kulasekara       0.1493926  0.3843345   0.389 0.697495    
+NonStrikeBatsmanKP Appanna            0.1727428  0.3405396   0.507 0.611971    
+NonStrikeBatsmanKP Pietersen          0.0921644  0.0772088   1.194 0.232594    
+NonStrikeBatsmanKS Williamson         0.0820208  0.0968829   0.847 0.397219    
+NonStrikeBatsmanKV Sharma            -0.0895457  0.0891142  -1.005 0.314973    
+NonStrikeBatsmanKW Richardson        -0.5520025  0.1806490  -3.056 0.002246 ** 
+NonStrikeBatsmanL Ablish              0.2816511  0.2761965   1.020 0.307847    
+NonStrikeBatsmanL Balaji             -0.8240285  0.2290712  -3.597 0.000322 ***
+NonStrikeBatsmanL Ronchi             -0.8338294  0.3844289  -2.169 0.030082 *  
+NonStrikeBatsmanLA Carseldine        -0.1500572  0.1458219  -1.029 0.303459    
+NonStrikeBatsmanLA Pomersbach         0.1059484  0.0867333   1.222 0.221881    
+NonStrikeBatsmanLJ Wright             0.0040526  0.1355414   0.030 0.976147    
+NonStrikeBatsmanLMP Simmons           0.1914189  0.0771041   2.483 0.013043 *  
+NonStrikeBatsmanLPC Silva            -0.4137759  0.2458125  -1.683 0.092317 .  
+NonStrikeBatsmanLR Shukla            -0.1616545  0.0869090  -1.860 0.062879 .  
+NonStrikeBatsmanLRPL Taylor           0.0117346  0.0762398   0.154 0.877676    
+NonStrikeBatsmanM de Lange            0.0384252  0.4141511   0.093 0.926078    
+NonStrikeBatsmanM Kaif                0.1792433  0.0898866   1.994 0.046141 *  
+NonStrikeBatsmanM Kartik             -0.1414033  0.1061350  -1.332 0.182763    
+NonStrikeBatsmanM Klinger             0.1821353  0.1109379   1.642 0.100636    
+NonStrikeBatsmanM Manhas             -0.0971509  0.0814842  -1.192 0.233156    
+NonStrikeBatsmanM Morkel             -0.3270036  0.1240204  -2.637 0.008372 ** 
+NonStrikeBatsmanM Muralitharan       -0.1445406  0.1926485  -0.750 0.453085    
+NonStrikeBatsmanM Ntini              -1.0873462  0.5815397  -1.870 0.061516 .  
+NonStrikeBatsmanM Rawat              -0.0153144  0.1191661  -0.129 0.897743    
+NonStrikeBatsmanM Vijay               0.0977208  0.0727424   1.343 0.179149    
+NonStrikeBatsmanM Vohra               0.1577598  0.0782256   2.017 0.043724 *  
+NonStrikeBatsmanMA Agarwal            0.0298214  0.0796648   0.374 0.708154    
+NonStrikeBatsmanMA Khote             -0.2665162  0.1900120  -1.403 0.160728    
+NonStrikeBatsmanMA Starc              0.0425606  0.1014365   0.420 0.674793    
+NonStrikeBatsmanMandeep Singh         0.0701947  0.0770682   0.911 0.362394    
+NonStrikeBatsmanMashrafe Mortaza      0.6883988  0.4141528   1.662 0.096476 .  
+NonStrikeBatsmanMC Henriques          0.0375918  0.0779641   0.482 0.629687    
+NonStrikeBatsmanMC Juneja            -0.0264275  0.1023985  -0.258 0.796341    
+NonStrikeBatsmanMD Mishra             0.0557972  0.0927383   0.602 0.547399    
+NonStrikeBatsmanMDKJ Perera           0.1952845  0.3844231   0.508 0.611458    
+NonStrikeBatsmanMEK Hussey            0.1135278  0.0730381   1.554 0.120097    
+NonStrikeBatsmanMF Maharoof           0.1495746  0.1084076   1.380 0.167666    
+NonStrikeBatsmanMG Johnson            0.1693468  0.0972768   1.741 0.081705 .  
+NonStrikeBatsmanMisbah-ul-Haq        -0.1150295  0.1236256  -0.930 0.352129    
+NonStrikeBatsmanMJ Clarke            -0.0317119  0.1189919  -0.267 0.789851    
+NonStrikeBatsmanMJ Guptill            0.5951199  0.1135230   5.242 1.59e-07 ***
+NonStrikeBatsmanMJ Lumb               0.0782743  0.1075543   0.728 0.466758    
+NonStrikeBatsmanMJ McClenaghan        0.3085518  0.1589427   1.941 0.052225 .  
+NonStrikeBatsmanMK Pandey             0.0884053  0.0732724   1.207 0.227614    
+NonStrikeBatsmanMK Tiwary            -0.0258078  0.0745259  -0.346 0.729122    
+NonStrikeBatsmanML Hayden             0.0739287  0.0768842   0.962 0.336271    
+NonStrikeBatsmanMM Patel             -0.6558209  0.1746309  -3.755 0.000173 ***
+NonStrikeBatsmanMM Sharma            -0.0370768  0.1167322  -0.318 0.750771    
+NonStrikeBatsmanMN Samuels           -0.1421239  0.1145902  -1.240 0.214872    
+NonStrikeBatsmanMN van Wyk           -0.0585025  0.1009167  -0.580 0.562110    
+NonStrikeBatsmanMohammad Ashraful    -1.1060862  1.0024510  -1.103 0.269861    
+NonStrikeBatsmanMohammad Asif        -0.8781644  0.3405387  -2.579 0.009916 ** 
+NonStrikeBatsmanMohammad Hafeez      -0.0133602  0.1317737  -0.101 0.919243    
+NonStrikeBatsmanMohammed Shami       -0.0665606  0.1660787  -0.401 0.688584    
+NonStrikeBatsmanMP Stoinis            0.0935966  0.1061867   0.881 0.378083    
+NonStrikeBatsmanMR Marsh             -0.0739977  0.0962429  -0.769 0.441974    
+NonStrikeBatsmanMS Bisla              0.0404937  0.0789226   0.513 0.607894    
+NonStrikeBatsmanMS Dhoni              0.0031622  0.0721226   0.044 0.965029    
+NonStrikeBatsmanMS Gony              -0.2287913  0.1355282  -1.688 0.091383 .  
+NonStrikeBatsmanMS Wade              -0.1557061  0.2014755  -0.773 0.439623    
+NonStrikeBatsmanMV Boucher           -0.0882728  0.0878329  -1.005 0.314893    
+NonStrikeBatsmanN Rana               -0.2761266  0.1423284  -1.940 0.052372 .  
+NonStrikeBatsmanN Saini               0.0989855  0.1078845   0.918 0.358874    
+NonStrikeBatsmanND Doshi             -0.0631614  0.3603531  -0.175 0.860862    
+NonStrikeBatsmanNJ Maddinson         -0.5060967  0.2970889  -1.704 0.088471 .  
+NonStrikeBatsmanNJ Rimmington         0.4007135  0.3405392   1.177 0.239314    
+NonStrikeBatsmanNK Patel             -0.3124759  0.1330331  -2.349 0.018831 *  
+NonStrikeBatsmanNL McCullum          -0.4088642  0.2014168  -2.030 0.042362 *  
+NonStrikeBatsmanNLTC Perera          -0.0900221  0.0887016  -1.015 0.310160    
+NonStrikeBatsmanNM Coulter-Nile       0.0904312  0.1311490   0.690 0.490490    
+NonStrikeBatsmanNS Naik               0.2391150  0.1589479   1.504 0.132489    
+NonStrikeBatsmanNV Ojha               0.1251944  0.0740089   1.692 0.090720 .  
+NonStrikeBatsmanOA Shah              -0.0073896  0.0824332  -0.090 0.928571    
+NonStrikeBatsmanP Awana              -0.0202238  0.1710137  -0.118 0.905863    
+NonStrikeBatsmanP Dogra               0.1683887  0.0976199   1.725 0.084538 .  
+NonStrikeBatsmanP Kumar              -0.0035554  0.0855420  -0.042 0.966847    
+NonStrikeBatsmanP Negi               -0.1052811  0.0988967  -1.065 0.287077    
+NonStrikeBatsmanP Parameswaran       -0.0098303  0.5815406  -0.017 0.986513    
+NonStrikeBatsmanP Sahu               -0.7215859  0.4526089  -1.594 0.110873    
+NonStrikeBatsmanPA Patel              0.0923252  0.0731747   1.262 0.207053    
+NonStrikeBatsmanPA Reddy             -0.1952260  0.1042897  -1.872 0.061212 .  
+NonStrikeBatsmanPankaj Singh          0.2896746  0.2242991   1.291 0.196542    
+NonStrikeBatsmanParvez Rasool         0.0355605  0.1676632   0.212 0.832033    
+NonStrikeBatsmanPC Valthaty           0.0909123  0.0841548   1.080 0.280009    
+NonStrikeBatsmanPD Collingwood       -0.1160127  0.1019199  -1.138 0.255006    
+NonStrikeBatsmanPJ Sangwan           -0.0171952  0.1576534  -0.109 0.913147    
+NonStrikeBatsmanPM Sarvesh Kumar     -0.4165651  1.0024252  -0.416 0.677734    
+NonStrikeBatsmanPP Chawla            -0.0832304  0.0816271  -1.020 0.307898    
+NonStrikeBatsmanPP Ojha              -0.4012750  0.1496619  -2.681 0.007336 ** 
+NonStrikeBatsmanPR Shah              -0.0276622  0.1155124  -0.239 0.810738    
+NonStrikeBatsmanPSP Handscomb         0.1444490  0.3843476   0.376 0.707044    
+NonStrikeBatsmanPV Tambe              0.0289738  0.1398581   0.207 0.835880    
+NonStrikeBatsmanQ de Kock            -0.0412822  0.0835559  -0.494 0.621259    
+NonStrikeBatsmanR Ashwin             -0.0067385  0.0894453  -0.075 0.939947    
+NonStrikeBatsmanR Bhatia             -0.1117720  0.0850298  -1.315 0.188677    
+NonStrikeBatsmanR Bishnoi            -0.1518632  0.2860222  -0.531 0.595454    
+NonStrikeBatsmanR Dhawan             -0.1191452  0.1077553  -1.106 0.268856    
+NonStrikeBatsmanR Dravid             -0.0274694  0.0732611  -0.375 0.707696    
+NonStrikeBatsmanR McLaren            -0.0666260  0.0932977  -0.714 0.475151    
+NonStrikeBatsmanR Ninan              -1.0735543  0.7105313  -1.511 0.130809    
+NonStrikeBatsmanR Rampaul            -0.2073880  0.1616520  -1.283 0.199517    
+NonStrikeBatsmanR Sathish             0.1080192  0.0867319   1.245 0.212970    
+NonStrikeBatsmanR Sharma             -0.2881547  0.1414425  -2.037 0.041624 *  
+NonStrikeBatsmanR Shukla              0.0997942  0.1828274   0.546 0.585177    
+NonStrikeBatsmanR Tewatia            -0.6375762  0.3094625  -2.060 0.039373 *  
+NonStrikeBatsmanR Vinay Kumar        -0.2108445  0.0898321  -2.347 0.018920 *  
+NonStrikeBatsmanRA Jadeja            -0.1021127  0.0738741  -1.382 0.166894    
+NonStrikeBatsmanRE Levi              -0.1597076  0.1468986  -1.087 0.276950    
+NonStrikeBatsmanRE van der Merwe     -0.1066967  0.1079987  -0.988 0.323180    
+NonStrikeBatsmanRG More              -1.5101041  1.0024250  -1.506 0.131951    
+NonStrikeBatsmanRG Sharma            -0.0102977  0.0717008  -0.144 0.885800    
+NonStrikeBatsmanRJ Harris            -0.1502413  0.1104868  -1.360 0.173889    
+NonStrikeBatsmanRJ Peterson           0.1275043  0.1551978   0.822 0.411327    
+NonStrikeBatsmanRJ Quiney             0.0381569  0.1127009   0.339 0.734935    
+NonStrikeBatsmanRN ten Doeschate      0.0800519  0.0892281   0.897 0.369634    
+NonStrikeBatsmanRP Singh             -0.1107012  0.1231441  -0.899 0.368676    
+NonStrikeBatsmanRR Bhatkal           -1.5050157  1.0024249  -1.501 0.133259    
+NonStrikeBatsmanRR Pant              -0.0911950  0.0997519  -0.914 0.360603    
+NonStrikeBatsmanRR Powar             -0.3573932  0.1439708  -2.482 0.013050 *  
+NonStrikeBatsmanRR Raje               0.3155427  0.1564069   2.017 0.043649 *  
+NonStrikeBatsmanRR Rossouw            0.2673167  0.1245610   2.146 0.031867 *  
+NonStrikeBatsmanRR Sarwan             0.1997056  0.1255166   1.591 0.111594    
+NonStrikeBatsmanRS Bopara             0.1577209  0.0788807   1.999 0.045556 *  
+NonStrikeBatsmanRS Gavaskar           0.2632429  0.3603664   0.730 0.465093    
+NonStrikeBatsmanRS Sodhi              0.4484787  0.3843338   1.167 0.243251    
+NonStrikeBatsmanRT Ponting            0.0834441  0.1050154   0.795 0.426852    
+NonStrikeBatsmanRV Gomez             -0.2137965  0.1414423  -1.512 0.130649    
+NonStrikeBatsmanRV Uthappa            0.0168478  0.0721808   0.233 0.815442    
+NonStrikeBatsmanS Anirudha           -0.1298350  0.1105084  -1.175 0.240039    
+NonStrikeBatsmanS Aravind            -0.5023397  0.2761939  -1.819 0.068943 .  
+NonStrikeBatsmanS Badrinath           0.0574161  0.0741945   0.774 0.439014    
+NonStrikeBatsmanS Chanderpaul         0.1951217  0.1712094   1.140 0.254425    
+NonStrikeBatsmanS Dhawan              0.1147138  0.0719408   1.595 0.110811    
+NonStrikeBatsmanS Gopal              -0.5630329  0.2859696  -1.969 0.048970 *  
+NonStrikeBatsmanS Kaul               -0.1133887  0.2342123  -0.484 0.628295    
+NonStrikeBatsmanS Kaushik            -0.0072926  0.4141529  -0.018 0.985951    
+NonStrikeBatsmanS Ladda              -1.4711249  0.5048326  -2.914 0.003567 ** 
+NonStrikeBatsmanS Nadeem             -0.3759595  0.1300107  -2.892 0.003831 ** 
+NonStrikeBatsmanS Narwal              0.0616101  0.2523484   0.244 0.807117    
+NonStrikeBatsmanS Rana                0.0577417  0.1075465   0.537 0.591337    
+NonStrikeBatsmanS Randiv             -0.3784508  1.0024244  -0.378 0.705776    
+NonStrikeBatsmanS Sohal               0.0540510  0.0928800   0.582 0.560604    
+NonStrikeBatsmanS Sreesanth          -0.2386644  0.1431084  -1.668 0.095372 .  
+NonStrikeBatsmanS Sriram              0.0340337  0.1617712   0.210 0.833370    
+NonStrikeBatsmanS Tyagi               0.1913545  0.2342129   0.817 0.413922    
+NonStrikeBatsmanS Vidyut              0.0200026  0.1260292   0.159 0.873894    
+NonStrikeBatsmanSA Abbott             0.3154307  0.2198471   1.435 0.151352    
+NonStrikeBatsmanSA Asnodkar          -0.0025806  0.0863425  -0.030 0.976157    
+NonStrikeBatsmanSA Yadav              0.0764268  0.0836720   0.913 0.361027    
+NonStrikeBatsmanSachin Baby           0.1816970  0.1031270   1.762 0.078090 .  
+NonStrikeBatsmanSalman Butt          -0.3130909  0.1200443  -2.608 0.009104 ** 
+NonStrikeBatsmanSandeep Sharma        0.1620970  0.1693054   0.957 0.338353    
+NonStrikeBatsmanSandeep Sharma (1)   -0.4140241  1.0024251  -0.413 0.679590    
+NonStrikeBatsmanSB Bangar             0.0510607  0.1283894   0.398 0.690850    
+NonStrikeBatsmanSB Jakati            -0.2578298  0.1765535  -1.460 0.144194    
+NonStrikeBatsmanSB Joshi             -0.0316402  0.2674422  -0.118 0.905825    
+NonStrikeBatsmanSB Styris             0.1202893  0.0984709   1.222 0.221870    
+NonStrikeBatsmanSB Wagh               0.5987278  0.2595280   2.307 0.021056 *  
+NonStrikeBatsmanSC Ganguly           -0.0301979  0.0744954  -0.405 0.685208    
+NonStrikeBatsmanSD Chitnis            0.0529629  0.1100105   0.481 0.630208    
+NonStrikeBatsmanSE Bond              -1.2332368  0.5815430  -2.121 0.033953 *  
+NonStrikeBatsmanSE Marsh              0.0978298  0.0730277   1.340 0.180367    
+NonStrikeBatsmanShahid Afridi         0.0564393  0.1324152   0.426 0.669940    
+NonStrikeBatsmanShakib Al Hasan       0.0159760  0.0810512   0.197 0.843742    
+NonStrikeBatsmanShoaib Ahmed         -9.5794259 36.6708389  -0.261 0.793917    
+NonStrikeBatsmanShoaib Akhtar        -0.3861933  0.3603575  -1.072 0.283857    
+NonStrikeBatsmanShoaib Malik          0.3099822  0.1349088   2.298 0.021578 *  
+NonStrikeBatsmanSJ Srivastava        -0.2024962  0.2595301  -0.780 0.435249    
+NonStrikeBatsmanSK Raina              0.0485910  0.0716213   0.678 0.497490    
+NonStrikeBatsmanSK Trivedi           -0.1829493  0.1457676  -1.255 0.209452    
+NonStrikeBatsmanSK Warne             -0.3004364  0.0986544  -3.045 0.002324 ** 
+NonStrikeBatsmanSL Malinga           -0.3193859  0.1180912  -2.705 0.006839 ** 
+NonStrikeBatsmanSM Harwood            0.3004209  0.2081265   1.443 0.148893    
+NonStrikeBatsmanSM Katich             0.0039044  0.0967270   0.040 0.967802    
+NonStrikeBatsmanSM Pollock            0.0062103  0.1161214   0.053 0.957348    
+NonStrikeBatsmanSMSM Senanayake      -0.2034377  0.2117892  -0.961 0.336770    
+NonStrikeBatsmanSN Khan              -0.0054642  0.1102453  -0.050 0.960470    
+NonStrikeBatsmanSN Thakur             0.1878944  0.3405385   0.552 0.581115    
+NonStrikeBatsmanSohail Tanvir        -0.3089907  0.1926728  -1.604 0.108779    
+NonStrikeBatsmanSP Fleming           -0.1126403  0.1043747  -1.079 0.280502    
+NonStrikeBatsmanSP Goswami           -0.0679633  0.0962550  -0.706 0.480142    
+NonStrikeBatsmanSP Narine            -0.0068441  0.1376197  -0.050 0.960336    
+NonStrikeBatsmanSPD Smith            -0.0371878  0.0763015  -0.487 0.625989    
+NonStrikeBatsmanSR Tendulkar         -0.0003968  0.0726247  -0.005 0.995641    
+NonStrikeBatsmanSR Watson             0.0612831  0.0731958   0.837 0.402452    
+NonStrikeBatsmanSS Iyer               0.0899695  0.0844231   1.066 0.286560    
+NonStrikeBatsmanSS Shaikh            -1.4291732  0.7105409  -2.011 0.044285 *  
+NonStrikeBatsmanSS Tiwary             0.0370853  0.0745106   0.498 0.618683    
+NonStrikeBatsmanST Jayasuriya        -0.1862182  0.0837076  -2.225 0.026106 *  
+NonStrikeBatsmanSTR Binny            -0.0040436  0.0789883  -0.051 0.959173    
+NonStrikeBatsmanSunny Gupta           0.1672482  0.3603547   0.464 0.642561    
+NonStrikeBatsmanSunny Singh           0.0729206  0.1540468   0.473 0.635952    
+NonStrikeBatsmanSV Samson             0.0272589  0.0762734   0.357 0.720804    
+NonStrikeBatsmanSW Billings           0.0851593  0.1170884   0.727 0.467037    
+NonStrikeBatsmanSW Tait              -0.9046527  0.2397631  -3.773 0.000161 ***
+NonStrikeBatsmanSwapnil Singh        -0.4102135  0.7105321  -0.577 0.563715    
+NonStrikeBatsmanT Henderson          -1.2633254  0.3843775  -3.287 0.001014 ** 
+NonStrikeBatsmanT Kohli               0.0953357  0.1900163   0.502 0.615862    
+NonStrikeBatsmanT Taibu               0.0117604  0.2046868   0.057 0.954182    
+NonStrikeBatsmanT Thushara           -0.6764583  0.2969651  -2.278 0.022732 *  
+NonStrikeBatsmanTD Paine              0.1503639  0.1830057   0.822 0.411285    
+NonStrikeBatsmanTG Southee           -0.1190272  0.1806439  -0.659 0.509957    
+NonStrikeBatsmanTL Suman             -0.0464097  0.0801079  -0.579 0.562360    
+NonStrikeBatsmanTM Dilshan            0.1311714  0.0746229   1.758 0.078783 .  
+NonStrikeBatsmanTM Head               0.1286136  0.1342104   0.958 0.337912    
+NonStrikeBatsmanTM Srivastava         0.4543184  0.2674359   1.699 0.089358 .  
+NonStrikeBatsmanTP Sudhindra         -9.6556264 63.5160829  -0.152 0.879172    
+NonStrikeBatsmanTR Birt               0.4256006  0.1181085   3.603 0.000314 ***
+NonStrikeBatsmanUA Birla             -0.4459576  0.4142038  -1.077 0.281631    
+NonStrikeBatsmanUBT Chand             0.1323368  0.0854898   1.548 0.121626    
+NonStrikeBatsmanUmar Gul              0.4848755  0.2014167   2.407 0.016070 *  
+NonStrikeBatsmanUT Khawaja           -0.0527072  0.1204989  -0.437 0.661815    
+NonStrikeBatsmanUT Yadav             -0.3002907  0.1289170  -2.329 0.019841 *  
+NonStrikeBatsmanV Kohli               0.1573294  0.0714789   2.201 0.027732 *  
+NonStrikeBatsmanV Sehwag              0.0207455  0.0733306   0.283 0.777250    
+NonStrikeBatsmanVH Zol               -0.0511381  0.1807773  -0.283 0.777270    
+NonStrikeBatsmanVR Aaron             -0.2937359  0.1589429  -1.848 0.064594 .  
+NonStrikeBatsmanVRV Singh             0.8374676  0.3843348   2.179 0.029331 *  
+NonStrikeBatsmanVS Malik              0.3874074  0.1746307   2.218 0.026525 *  
+NonStrikeBatsmanVVS Laxman            0.3499218  0.0828528   4.223 2.41e-05 ***
+NonStrikeBatsmanVY Mahesh            -0.6440871  0.2457843  -2.621 0.008779 ** 
+NonStrikeBatsmanW Jaffer              0.2178702  0.1052570   2.070 0.038463 *  
+NonStrikeBatsmanWA Mota              -0.1334686  0.1160938  -1.150 0.250283    
+NonStrikeBatsmanWD Parnell            0.1691834  0.1174024   1.441 0.149569    
+NonStrikeBatsmanWP Saha               0.0771955  0.0748509   1.031 0.302389    
+NonStrikeBatsmanWPUJC Vaas           -0.2183512  0.1362099  -1.603 0.108924    
+NonStrikeBatsmanX Thalaivan Sargunam  0.2214415  0.2046873   1.082 0.279318    
+NonStrikeBatsmanY Gnaneswara Rao      0.2565446  0.2860620   0.897 0.369818    
+NonStrikeBatsmanY Nagar              -0.0388849  0.0886025  -0.439 0.660756    
+NonStrikeBatsmanY Venugopal Rao      -0.0184926  0.0762643  -0.242 0.808408    
+NonStrikeBatsmanYA Abdulla            0.1788380  0.3405391   0.525 0.599471    
+NonStrikeBatsmanYashpal Singh         0.1262688  0.1497007   0.843 0.398963    
+NonStrikeBatsmanYK Pathan            -0.0031747  0.0728258  -0.044 0.965229    
+NonStrikeBatsmanYounis Khan           0.3519173  0.2343260   1.502 0.133142    
+NonStrikeBatsmanYS Chahal            -0.2809550  0.3094572  -0.908 0.363933    
+NonStrikeBatsmanYuvraj Singh         -0.0369455  0.0732046  -0.505 0.613778    
+NonStrikeBatsmanYV Takawale           0.0262985  0.1062785   0.247 0.804561    
+NonStrikeBatsmanZ Khan                0.2075864  0.0965332   2.150 0.031522 *  
+Over                                  0.0254095  0.0005385  47.182  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 258478  on 136020  degrees of freedom
+Residual deviance: 254250  on 135589  degrees of freedom
+AIC: 451170
+
+Number of Fisher Scoring iterations: 7

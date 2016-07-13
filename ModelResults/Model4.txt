@@ -1,0 +1,75 @@
+#Coefficients sorted in descending order.
+
+ (Intercept)             TeamKings XI Punjab TeamRoyal Challengers Bangalore 
+                     0.22831783                     -0.02273501                     -0.03147231 
+            TeamDeccan Chargers            TeamDelhi Daredevils            TeamRajasthan Royals 
+                    -0.04092998                     -0.04863557                     -0.05091806 
+             TeamMumbai Indians       TeamKolkata Knight Riders        TeamKochi Tuskers Kerala 
+                    -0.06535838                     -0.09883157                     -0.12010424 
+              TeamPune Warriors         TeamSunrisers Hyderabad 
+                    -0.12155686                     -0.14034526
+
+
+# Coefficients weight data frame.
+
+                                unique.glmipl4.weights. glmipl4.coefficients
+(Intercept)                                    1.138345           0.22831783
+TeamDeccan Chargers                            1.217672          -0.04092998
+TeamDelhi Daredevils                           1.256558          -0.04863557
+TeamKings XI Punjab                            1.228333          -0.02273501
+TeamKochi Tuskers Kerala                       1.194207          -0.12010424
+TeamKolkata Knight Riders                      1.196919          -0.09883157
+TeamMumbai Indians                             1.177098          -0.06535838
+TeamPune Warriors                              1.206186          -0.12155686
+TeamRajasthan Royals                           1.114403          -0.05091806
+TeamRoyal Challengers Bangalore                1.112772          -0.03147231
+TeamSunrisers Hyderabad                        1.092024          -0.14034526
+
+# Predictor Coefficients data frame
+
+                                unique.glmipl4.linear.predictors. glmipl4.coefficients
+(Intercept)                                            0.12948627           0.22831783
+TeamDeccan Chargers                                    0.19684552          -0.04092998
+TeamDelhi Daredevils                                   0.22831783          -0.04863557
+TeamKings XI Punjab                                    0.20558282          -0.02273501
+TeamKochi Tuskers Kerala                               0.17739977          -0.12010424
+TeamKolkata Knight Riders                              0.17968227          -0.09883157
+TeamMumbai Indians                                     0.16295946          -0.06535838
+TeamPune Warriors                                      0.18738786          -0.12155686
+TeamRajasthan Royals                                   0.10821359          -0.05091806
+TeamRoyal Challengers Bangalore                        0.10676098          -0.03147231
+TeamSunrisers Hyderabad                                0.08797257          -0.14034526
+
+#Summary of model 
+
+Call:
+glm(formula = RunsScored ~ Team, family = poisson, data = FinalDataFrame)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.5852  -1.5454  -0.2129  -0.1087   3.2603  
+
+Coefficients:
+                                 Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                      0.228318   0.008007  28.516  < 2e-16 ***
+TeamDeccan Chargers             -0.040930   0.012503  -3.274  0.00106 ** 
+TeamDelhi Daredevils            -0.048636   0.011779  -4.129 3.65e-05 ***
+TeamKings XI Punjab             -0.022735   0.011664  -1.949  0.05127 .  
+TeamKochi Tuskers Kerala        -0.120104   0.025176  -4.771 1.84e-06 ***
+TeamKolkata Knight Riders       -0.098832   0.011955  -8.267  < 2e-16 ***
+TeamMumbai Indians              -0.065358   0.011579  -5.645 1.66e-08 ***
+TeamPune Warriors               -0.121557   0.015160  -8.018 1.07e-15 ***
+TeamRajasthan Royals            -0.050918   0.011727  -4.342 1.41e-05 ***
+TeamRoyal Challengers Bangalore -0.031472   0.011610  -2.711  0.00671 ** 
+TeamSunrisers Hyderabad         -0.140345   0.019858  -7.067 1.58e-12 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 188366  on 99999  degrees of freedom
+Residual deviance: 188212  on 99989  degrees of freedom
+AIC: 330445
+
+Number of Fisher Scoring iterations: 5
+

@@ -1,0 +1,28 @@
+
+# Summary of Zero Inflated model 5.
+
+Call:
+zeroinfl(formula = RunsScored ~ Inning, data = FinalDataFrame)
+
+Pearson residuals:
+    Min      1Q  Median      3Q     Max 
+-1.3223 -0.8951 -0.1592 -0.1326  3.6799 
+
+Count model coefficients (poisson with log link):
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  0.498044   0.005145  96.807  < 2e-16 ***
+Inning2     -0.003910   0.007451  -0.525   0.5997    
+Inning3      0.397329   0.139498   2.848   0.0044 ** 
+Inning4      0.577019   0.135852   4.247 2.16e-05 ***
+
+Zero-inflation model coefficients (binomial with logit link):
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -1.02120    0.01576 -64.812  < 2e-16 ***
+Inning2      0.09561    0.02219   4.310 1.64e-05 ***
+Inning3     -0.99918    0.80071  -1.248    0.212    
+Inning4     -0.73912    0.66995  -1.103    0.270    
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1 
+
+Number of iterations in BFGS optimization: 18 
+Log-likelihood: -1.592e+05 on 8 Df

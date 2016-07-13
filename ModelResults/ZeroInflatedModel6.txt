@@ -1,0 +1,21 @@
+Call:
+zeroinfl(formula = RunsScored ~ Extras, data = FinalDataFrame)
+
+Pearson residuals:
+    Min      1Q  Median      3Q     Max 
+-0.9521 -0.9521 -0.1943 -0.1943 10.4560 
+
+Count model coefficients (poisson with log link):
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept) 0.496143   0.003728 133.077   <2e-16 ***
+Extras      0.119272   0.052271   2.282   0.0225 *  
+
+Zero-inflation model coefficients (binomial with logit link):
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -1.18041    0.01257  -93.89   <2e-16 ***
+Extras       3.88699    0.06873   56.56   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1 
+
+Number of iterations in BFGS optimization: 16 
+Log-likelihood: -1.553e+05 on 4 Df

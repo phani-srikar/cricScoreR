@@ -1,0 +1,36 @@
+#Coefficients
+
+(Intercept)      Extras 
+   0.228310   -2.391903
+
+#Weights data frame
+
+ 1.256475e+00 1.149585e-01 8.055476e-06 8.804480e-05 1.051789e-02 9.623128e-04 6.743203e-08
+
+ #Predictors data frame
+
+  0.228310  -2.163593 -11.731206  -9.339303  -4.555496  -6.947400 -16.515012
+
+  #Summary model
+
+  Call:
+glm(formula = RunsScored ~ Extras, family = poisson, data = FinalDataFrame)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.5852  -1.5852  -0.2373  -0.2373   5.9745  
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  0.228310   0.002902   78.67   <2e-16 ***
+Extras      -2.391903   0.042049  -56.88   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 188366  on 99999  degrees of freedom
+Residual deviance: 178688  on 99998  degrees of freedom
+AIC: 320903
+
+Number of Fisher Scoring iterations: 6

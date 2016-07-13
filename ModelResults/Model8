@@ -1,0 +1,98 @@
+# Coefficients in descending order.
+
+     Over19      Over18      Over17      Over16      Over15      Over14      Over13       Over5 
+  0.6179992   0.5628767   0.5428726   0.4950949   0.4495469   0.4167453   0.3683140   0.3486392 
+      Over4      Over11       Over3      Over12      Over10       Over2       Over8       Over9 
+  0.3481785   0.3382778   0.3375563   0.3306082   0.3089310   0.2724382   0.2581539   0.2469149 
+      Over7       Over1       Over6 (Intercept) 
+  0.2289372   0.1626570   0.1420164  -0.1444103 
+
+  # Coefficients and weights data frame.
+
+              unique.glmipl8.weights. glmipl8.coefficients
+(Intercept)               0.8655328           -0.1444103
+Over1                     1.0184143            0.1626570
+Over2                     1.1365847            0.2724382
+Over3                     1.2130599            0.3375563
+Over4                     1.2260140            0.3481785
+Over5                     1.2265789            0.3486392
+Over6                     0.9976090            0.1420164
+Over7                     1.0882021            0.2289372
+Over8                     1.1204649            0.2581539
+Over9                     1.1079424            0.2469149
+Over10                    1.1788279            0.3089310
+Over11                    1.2139354            0.3382778
+Over12                    1.2046606            0.3306082
+Over13                    1.2509506            0.3683140
+Over14                    1.3130268            0.4167453
+Over15                    1.3568103            0.4495469
+Over16                    1.4200394            0.4950949
+Over17                    1.4895325            0.5428726
+Over18                    1.5196293            0.5628767
+Over19                    1.6057467            0.6179992
+
+#Coefficients and predictor data frame.
+
+            unique.glmipl8.linear.predictors. glmipl8.coefficients
+(Intercept)                      -0.144410303           -0.1444103
+Over1                             0.018246694            0.1626570
+Over2                             0.128027878            0.2724382
+Over3                             0.193145976            0.3375563
+Over4                             0.203768245            0.3481785
+Over5                             0.204228921            0.3486392
+Over6                            -0.002393862            0.1420164
+Over7                             0.084526874            0.2289372
+Over8                             0.113743646            0.2581539
+Over9                             0.102504595            0.2469149
+Over10                            0.164520659            0.3089310
+Over11                            0.193867456            0.3382778
+Over12                            0.186197857            0.3306082
+Over13                            0.223903719            0.3683140
+Over14                            0.272334978            0.4167453
+Over15                            0.305136601            0.4495469
+Over16                            0.350684626            0.4950949
+Over17                            0.398462315            0.5428726
+Over18                            0.418466435            0.5628767
+Over19                            0.473588868            0.6179992
+
+#Summary of model -:
+
+Call:
+glm(formula = RunsScored ~ Over, family = poisson, data = FinalDataFrame)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.7921  -1.5077  -0.2853   0.0024   3.6007  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -0.14441    0.01307 -11.046  < 2e-16 ***
+Over1        0.16266    0.01749   9.301  < 2e-16 ***
+Over2        0.27244    0.01712  15.912  < 2e-16 ***
+Over3        0.33756    0.01691  19.962  < 2e-16 ***
+Over4        0.34818    0.01688  20.625  < 2e-16 ***
+Over5        0.34864    0.01688  20.649  < 2e-16 ***
+Over6        0.14202    0.01766   8.041 8.88e-16 ***
+Over7        0.22894    0.01734  13.205  < 2e-16 ***
+Over8        0.25815    0.01725  14.970  < 2e-16 ***
+Over9        0.24691    0.01731  14.265  < 2e-16 ***
+Over10       0.30893    0.01711  18.055  < 2e-16 ***
+Over11       0.33828    0.01702  19.873  < 2e-16 ***
+Over12       0.33061    0.01706  19.379  < 2e-16 ***
+Over13       0.36831    0.01697  21.710  < 2e-16 ***
+Over14       0.41675    0.01684  24.750  < 2e-16 ***
+Over15       0.44955    0.01678  26.790  < 2e-16 ***
+Over16       0.49509    0.01666  29.712  < 2e-16 ***
+Over17       0.54287    0.01663  32.642  < 2e-16 ***
+Over18       0.56288    0.01679  33.531  < 2e-16 ***
+Over19       0.61800    0.01711  36.126  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 258478  on 136020  degrees of freedom
+Residual deviance: 255165  on 136001  degrees of freedom
+AIC: 451261
+
+Number of Fisher Scoring iterations: 6

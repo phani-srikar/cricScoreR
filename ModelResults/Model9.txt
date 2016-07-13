@@ -1,0 +1,1593 @@
+        #Coefficients sorted in descending order.
+
+            BowlerLPC Silva                  BowlerI Malhotra 
+                     9.172655e-01                      8.227233e-01 
+              BowlerCK Kapugedera                BowlerF du Plessis 
+                     7.768735e-01                      7.424586e-01 
+                  BowlerV Shankar                    BowlerB Chipli 
+                     7.209849e-01                      6.829614e-01 
+                 BowlerRR Bhatkal                           Inning4 
+                     6.764131e-01                      6.709954e-01 
+                   BowlerS Sriram                  BowlerP Prasanth 
+                     6.435570e-01                      6.225483e-01 
+                      (Intercept)             StrikeBatsmanRS Sodhi 
+                     5.318641e-01                      5.248487e-01 
+                  BowlerSPD Smith                 BowlerC Ganapathy 
+                     4.908144e-01                      4.688161e-01 
+       StrikeBatsmanCR Brathwaite                 BowlerSunny Gupta 
+                     4.495786e-01                      4.431941e-01 
+                          Inning3                    BowlerMG Neser 
+                     4.241888e-01                      4.021035e-01 
+            StrikeBatsmanUmar Gul            StrikeBatsmanKH Pandya 
+                     4.006074e-01                      3.157085e-01 
+                   BowlerRW Price                   BowlerSN Thakur 
+                     3.110615e-01                      2.993290e-01 
+                 BowlerP Amarnath                    BowlerB Geeves 
+                     2.936208e-01                      2.775273e-01 
+                   BowlerFY Fazal                       BowlerA Nel 
+                     2.633145e-01                      2.608614e-01 
+               BowlerTP Sudhindra            StrikeBatsmanLJ Wright 
+                     2.451098e-01                      2.450119e-01 
+                    BowlerRR Bose                 BowlerLMP Simmons 
+                     2.407145e-01                      2.345001e-01 
+                    BowlerR Ninan            BowlerMashrafe Mortaza 
+                     2.280428e-01                      2.269050e-01 
+                  BowlerMB Parmar                   BowlerRA Shaikh 
+                     2.206362e-01                      2.172897e-01 
+       StrikeBatsmanShivam Sharma       StrikeBatsmanMJ McClenaghan 
+                     2.091513e-01                      2.088596e-01 
+                  BowlerMK Tiwary                    BowlerCL White 
+                     2.087315e-01                      2.086238e-01 
+                   BowlerV Sehwag                    BowlerS Narwal 
+                     2.082410e-01                      2.028517e-01 
+            BowlerD Kalyankrishna            StrikeBatsmanKK Cooper 
+                     1.903935e-01                      1.789639e-01 
+          StrikeBatsmanER Dwivedi                    BowlerMA Khote 
+                     1.716587e-01                      1.691207e-01 
+                  BowlerBJ Rohrer            StrikeBatsmanCH Morris 
+                     1.684578e-01                      1.658037e-01 
+             StrikeBatsmanSN Khan                BowlerAbdur Razzak 
+                     1.630450e-01                      1.621227e-01 
+         StrikeBatsmanBCJ Cutting                    BowlerA Uniyal 
+                     1.611943e-01                      1.593096e-01 
+          StrikeBatsmanAD Russell      StrikeBatsmanKMDN Kulasekara 
+                     1.592307e-01                      1.568304e-01 
+                    BowlerS Ladda        StrikeBatsmanHarmeet Singh 
+                     1.541288e-01                      1.460401e-01 
+            BowlerGagandeep Singh                  BowlerA Flintoff 
+                     1.442788e-01                      1.415666e-01 
+        StrikeBatsmanKamran Akmal                     BowlerY Nagar 
+                     1.412501e-01                      1.351699e-01 
+                  BowlerGS Sandhu             BowlerJJ van der Wath 
+                     1.342131e-01                      1.338516e-01 
+                  BowlerSA Abbott        StrikeBatsmanShahid Afridi 
+                     1.294652e-01                      1.289690e-01 
+                 BowlerK Santokie            StrikeBatsmanJ Suchith 
+                     1.234296e-01                      1.164301e-01 
+               BowlerSR Tendulkar                 BowlerVS Yeligati 
+                     1.105310e-01                      1.101793e-01 
+                    BowlerAA Kazi                 BowlerLRPL Taylor 
+                     1.068839e-01                      1.054495e-01 
+        StrikeBatsmanBipul Sharma                    BowlerSB Joshi 
+                     1.053537e-01                      1.036479e-01 
+                  BowlerR Sathish                    BowlerAJ Finch 
+                     1.035628e-01                      1.004493e-01 
+             StrikeBatsmanAP Dole           StrikeBatsmanGJ Maxwell 
+                     1.002843e-01                      9.979751e-02 
+                  BowlerKJ Abbott                    BowlerL Ablish 
+                     9.979310e-02                      9.759083e-02 
+               BowlerDB Ravi Teja           StrikeBatsmanI Malhotra 
+                     9.432583e-02                      8.717263e-02 
+                  BowlerKAJ Roach               BowlerSwapnil Singh 
+                     8.286840e-02                      8.129785e-02 
+                  BowlerAA Noffke             BowlerY Venugopal Rao 
+                     8.104385e-02                      8.022863e-02 
+            StrikeBatsmanV Sehwag          StrikeBatsmanMF Maharoof 
+                     7.483085e-02                      6.668293e-02 
+           StrikeBatsmanKJ Abbott              BowlerJaskaran Singh 
+                     6.642454e-02                      6.536599e-02 
+           StrikeBatsmanBJ Haddin                   BowlerSS Sarkar 
+                     6.414227e-02                      6.311496e-02 
+                   BowlerS Vidyut             BowlerJoginder Sharma 
+                     6.193707e-02                      5.841964e-02 
+               BowlerShoaib Ahmed                 BowlerCJ Anderson 
+                     5.419414e-02                      5.030569e-02 
+                   BowlerJDP Oram                   BowlerDNT Zoysa 
+                     4.870114e-02                      4.538663e-02 
+              BowlerMohammad Asif                    BowlerND Doshi 
+                     4.506984e-02                      4.499519e-02 
+                  BowlerVRV Singh                    BowlerAF Milne 
+                     4.404409e-02                      4.289529e-02 
+                    BowlerAS Raut               StrikeBatsmanP Sahu 
+                     4.091338e-02                      3.985410e-02 
+          StrikeBatsmanKA Pollard                    BowlerA Mithun 
+                     3.923251e-02                      3.863387e-02 
+                   BowlerJR Hopes                  BowlerGJ Maxwell 
+                     3.481351e-02                      3.468519e-02 
+              TeamDeccan Chargers           StrikeBatsmanTG Southee 
+                     2.710180e-02                      2.586379e-02 
+                BowlerJDS Neesham   TeamRoyal Challengers Bangalore 
+                     2.398457e-02                      2.383507e-02 
+                   BowlerR Shukla       StrikeBatsmanAB de Villiers 
+                     2.216755e-02                      1.769044e-02 
+           StrikeBatsmanDA Warner             StrikeBatsmanCH Gayle 
+                     1.622983e-02                      1.513663e-02 
+                 BowlerAUK Pathan                    BowlerT Shamsi 
+                     1.511083e-02                      1.366972e-02 
+                    BowlerRG More                   BowlerLJ Wright 
+                     1.278268e-02                      1.246487e-02 
+            BowlerJ Syed Mohammad          StrikeBatsmanCJ Anderson 
+                     1.142437e-02                      9.903010e-03 
+             StrikeBatsmanRR Pant                BowlerPankaj Singh 
+                     9.037619e-03                      9.016339e-03 
+                BowlerKC Cariappa          StrikeBatsmanAC Blizzard 
+                     8.958632e-03                      7.877164e-03 
+      TeamRising Pune Supergiants              StrikeBatsmanMJ Lumb 
+                     7.546301e-03                      6.749293e-03 
+             TeamRajasthan Royals                     BowlerRR Raje 
+                     5.193326e-03                      4.419364e-03 
+           StrikeBatsmanYK Pathan           StrikeBatsmanAUK Pathan 
+                     4.156946e-03                     -4.503489e-04 
+                BowlerAB McDonald               TeamKings XI Punjab 
+                    -1.189059e-03                     -2.039384e-03 
+                  BowlerHH Pandya                   BowlerDJ Harris 
+                    -3.658284e-03                     -4.493261e-03 
+     StrikeBatsmanHarbhajan Singh     StrikeBatsmanRN ten Doeschate 
+                    -5.264449e-03                     -6.466131e-03 
+                    BowlerAP Dole           StrikeBatsmanJC Buttler 
+                    -7.754949e-03                     -8.844148e-03 
+                TeamGujarat Lions             BowlerAA Jhunjhunwala 
+                    -8.855170e-03                     -9.668075e-03 
+                  BowlerR McLaren            StrikeBatsmanDA Miller 
+                    -9.856580e-03                     -1.107933e-02 
+            StrikeBatsmanM Morkel                  BowlerB Laughlin 
+                    -1.158845e-02                     -1.209959e-02 
+                  BowlerDJ Hussey              BowlerP Parameswaran 
+                    -1.211199e-02                     -1.412192e-02 
+         StrikeBatsmanSW Billings             BowlerKaranveer Singh 
+                    -1.417558e-02                     -1.470391e-02 
+            StrikeBatsmanJD Ryder                BowlerJEC Franklin 
+                    -1.625513e-02                     -1.703866e-02 
+              BowlerShivam Sharma                   BowlerVY Mahesh 
+                    -1.711352e-02                     -1.718459e-02 
+                          Inning2                    BowlerCJ McKay 
+                    -1.782105e-02                     -2.072275e-02 
+          TeamSunrisers Hyderabad                  BowlerK Upadhyay 
+                    -2.122382e-02                     -2.289039e-02 
+             BowlerV Pratap Singh                  BowlerAB Agarkar 
+                    -2.619523e-02                     -2.740698e-02 
+                  BowlerSB Bangar           StrikeBatsmanK Upadhyay 
+                    -2.987192e-02                     -3.101587e-02 
+                 BowlerTM Dilshan            StrikeBatsmanQ de Kock 
+                    -3.148224e-02                     -3.179401e-02 
+           StrikeBatsmanBJ Rohrer                BowlerBE Hendricks 
+                    -3.215432e-02                     -3.227784e-02 
+                     BowlerK Goel                   BowlerDJG Sammy 
+                    -3.406502e-02                     -3.554508e-02 
+                BowlerRS Gavaskar         TeamKolkata Knight Riders 
+                    -3.582208e-02                     -3.792095e-02 
+                 BowlerSD Chitnis            StrikeBatsmanKM Jadhav 
+                    -3.968199e-02                     -4.047619e-02 
+                 BowlerYA Abdulla          StrikeBatsmanSunny Singh 
+                    -4.142245e-02                     -4.142881e-02 
+                    BowlerV Kohli                 BowlerNLTC Perera 
+                    -4.225991e-02                     -4.295327e-02 
+        StrikeBatsmanKP Pietersen         StrikeBatsmanCRD Fernando 
+                    -4.443601e-02                     -4.466129e-02 
+       StrikeBatsmanST Jayasuriya                  BowlerJD Unadkat 
+                    -4.689789e-02                     -4.815828e-02 
+                BowlerRJ Peterson            StrikeBatsmanSPD Smith 
+                    -4.832050e-02                     -4.909342e-02 
+                    BowlerMS Gony                TeamMumbai Indians 
+                    -4.962099e-02                     -5.216534e-02 
+                 BowlerM de Lange                    BowlerRV Gomez 
+                    -5.275360e-02                     -5.439494e-02 
+                   BowlerBA Bhatt                   BowlerJ Suchith 
+                    -5.485784e-02                     -5.530039e-02 
+               BowlerShoaib Malik                    BowlerAC Voges 
+                    -5.681060e-02                     -5.847833e-02 
+              BowlerR Vinay Kumar             StrikeBatsmanSA Yadav 
+                    -5.853601e-02                     -5.881044e-02 
+           StrikeBatsmanSR Watson               BowlerSJ Srivastava 
+                    -6.099350e-02                     -6.143944e-02 
+            BowlerB Brainder Sran            BowlerPM Sarvesh Kumar 
+                    -6.203196e-02                     -6.329338e-02 
+                 BowlerSC Ganguly          StrikeBatsmanSachin Baby 
+                    -6.351058e-02                     -6.491544e-02 
+         StrikeBatsmanJP Faulkner          TeamKochi Tuskers Kerala 
+                    -6.529286e-02                     -6.575337e-02 
+         StrikeBatsmanLMP Simmons              StrikeBatsmanHM Amla 
+                    -6.589459e-02                     -6.611527e-02 
+                     BowlerP Sahu                   BowlerLR Shukla 
+                    -6.645958e-02                     -6.677217e-02 
+            StrikeBatsmanAN Ahmed             StrikeBatsmanDR Smith 
+                    -6.683901e-02                     -6.728446e-02 
+           StrikeBatsmanJA Morkel              TeamDelhi Daredevils 
+                    -6.742052e-02                     -6.786248e-02 
+            StrikeBatsmanJR Hopes            StrikeBatsmanVRV Singh 
+                    -6.870032e-02                     -6.981836e-02 
+             StrikeBatsmanTR Birt                  BowlerPJ Sangwan 
+                    -7.022221e-02                     -7.105930e-02 
+            StrikeBatsmanA Mithun                    BowlerS Dhawan 
+                    -7.111695e-02                     -7.176471e-02 
+                   BowlerDR Smith                     BowlerS Tyagi 
+                    -7.186308e-02                     -7.242218e-02 
+              StrikeBatsmanN Rana        StrikeBatsmanDAJ Bracewell 
+                    -7.308572e-02                     -7.348809e-02 
+                BowlerPC Valthaty         StrikeBatsmanAC Gilchrist 
+                    -7.447169e-02                     -7.464622e-02 
+                 BowlerD Salunkhe             StrikeBatsmanSK Raina 
+                    -7.602350e-02                     -7.603732e-02 
+                TeamPune Warriors             StrikeBatsmanMS Dhoni 
+                    -7.710081e-02                     -7.747599e-02 
+           StrikeBatsmanRG Sharma               BowlerST Jayasuriya 
+                    -7.798673e-02                     -7.833068e-02 
+           StrikeBatsmanML Hayden           StrikeBatsmanMP Stoinis 
+                    -7.858207e-02                     -7.965789e-02 
+                  BowlerJO Holder                     BowlerD Wiese 
+                    -8.005471e-02                     -8.125678e-02 
+         StrikeBatsmanNLTC Perera                  BowlerKA Pollard 
+                    -8.149917e-02                     -8.171369e-02 
+                  BowlerSB Jakati           StrikeBatsmanMN van Wyk 
+                    -8.217115e-02                     -8.367050e-02 
+           StrikeBatsmanS Aravind                     BowlerC Munro 
+                    -8.378436e-02                     -8.435992e-02 
+                   BowlerAM Nayar                     BowlerA Singh 
+                    -8.640232e-02                     -8.708265e-02 
+           StrikeBatsmanLPC Silva              StrikeBatsmanMS Gony 
+                    -8.778147e-02                     -8.792346e-02 
+             StrikeBatsmanD Wiese        StrikeBatsmanMisbah-ul-Haq 
+                    -8.796256e-02                     -8.874634e-02 
+           BowlerY Gnaneswara Rao              StrikeBatsmanWP Saha 
+                    -8.973113e-02                     -9.181560e-02 
+                 BowlerD du Preez           StrikeBatsmanRV Uthappa 
+                    -9.295794e-02                     -9.299063e-02 
+          StrikeBatsmanD Salunkhe       StrikeBatsmanPD Collingwood 
+                    -9.577025e-02                     -9.755087e-02 
+     StrikeBatsmanShakib Al Hasan               BowlerKS Williamson 
+                    -9.777790e-02                     -9.891055e-02 
+              BowlerParvez Rasool           StrikeBatsmanAD Mathews 
+                    -9.975824e-02                     -1.000116e-01 
+              BowlerKW Richardson                      BowlerS Kaul 
+                    -1.002037e-01                     -1.002173e-01 
+            StrikeBatsmanDJ Hooda                    BowlerHV Patel 
+                    -1.006651e-01                     -1.020239e-01 
+             StrikeBatsmanAP Tare            StrikeBatsmanJO Holder 
+                    -1.025972e-01                     -1.031437e-01 
+        StrikeBatsmanYuvraj Singh            StrikeBatsmanAT Rayudu 
+                    -1.036781e-01                     -1.041634e-01 
+                 BowlerAD Russell                  BowlerAD Mathews 
+                    -1.043000e-01                     -1.049159e-01 
+                     BowlerP Negi                     BowlerP Awana 
+                    -1.051162e-01                     -1.051577e-01 
+                    BowlerS Gopal                   BowlerCJ Jordan 
+                    -1.054435e-01                     -1.054944e-01 
+                   BowlerAM Salvi                    BowlerAN Ahmed 
+                    -1.070310e-01                     -1.085011e-01 
+                BowlerJP Faulkner              StrikeBatsmanKK Nair 
+                    -1.085721e-01                     -1.089199e-01 
+                   BowlerTL Suman               BowlerAnureet Singh 
+                    -1.095783e-01                     -1.106332e-01 
+                   BowlerL Balaji                    BowlerBJ Hodge 
+                    -1.112616e-01                     -1.127836e-01 
+         StrikeBatsmanBB McCullum                    BowlerJD Ryder 
+                    -1.139024e-01                     -1.140277e-01 
+              BowlerDP Vijaykumar              StrikeBatsmanM Vohra 
+                    -1.144573e-01                     -1.152446e-01 
+                 BowlerKP Appanna                   BowlerSB Styris 
+                    -1.162121e-01                     -1.163541e-01 
+            StrikeBatsmanSE Marsh             StrikeBatsmanAJ Finch 
+                    -1.172165e-01                     -1.174172e-01 
+                  BowlerJA Morkel                  BowlerMP Stoinis 
+                    -1.177441e-01                     -1.182606e-01 
+             BowlerMohammed Shami                     BowlerWA Mota 
+                    -1.188715e-01                     -1.191183e-01 
+                  BowlerRS Bopara                    BowlerUT Yadav 
+                    -1.197012e-01                     -1.198335e-01 
+              BowlerHarmeet Singh                BowlerDT Christian 
+                    -1.200882e-01                     -1.201800e-01 
+                  BowlerA Symonds            StrikeBatsmanSTR Binny 
+                    -1.204544e-01                     -1.212449e-01 
+                BowlerKamran Khan                   BowlerRG Sharma 
+                    -1.215191e-01                     -1.216253e-01 
+             StrikeBatsmanRE Levi                    BowlerVR Aaron 
+                    -1.228900e-01                     -1.231044e-01 
+             StrikeBatsmanBR Dunk            StrikeBatsmanJP Duminy 
+                    -1.249624e-01                     -1.251568e-01 
+     StrikeBatsmanGurkeerat Singh                 BowlerImran Tahir 
+                    -1.251791e-01                     -1.255954e-01 
+             StrikeBatsmanOA Shah                    BowlerMR Marsh 
+                    -1.276368e-01                     -1.281215e-01 
+            StrikeBatsmanR Bhatia          StrikeBatsmanAP Majumdar 
+                    -1.295301e-01                     -1.303019e-01 
+         StrikeBatsmanAB McDonald                   BowlerJJ Bumrah 
+                    -1.303515e-01                     -1.304480e-01 
+          StrikeBatsmanKD Karthik                BowlerBipul Sharma 
+                    -1.306052e-01                     -1.320341e-01 
+                  BowlerAA Chavan                    BowlerAB Dinda 
+                    -1.327549e-01                     -1.334937e-01 
+                   BowlerDJ Bravo                   BowlerIK Pathan 
+                    -1.338395e-01                     -1.338880e-01 
+                   BowlerMM Patel                 BowlerBMAJ Mendis 
+                    -1.339505e-01                     -1.341272e-01 
+                    BowlerBB Sran                  BowlerTG Southee 
+                    -1.341955e-01                     -1.348628e-01 
+             StrikeBatsmanTM Head          StrikeBatsmanNL McCullum 
+                    -1.351282e-01                     -1.356754e-01 
+            StrikeBatsmanAC Voges                    BowlerI Sharma 
+                    -1.360667e-01                     -1.362574e-01 
+               StrikeBatsmanB Lee            StrikeBatsmanG Gambhir 
+                    -1.365775e-01                     -1.367432e-01 
+                   BowlerM Ashwin             StrikeBatsmanBJ Hodge 
+                    -1.368620e-01                     -1.369261e-01 
+                  BowlerJE Taylor                    BowlerS Randiv 
+                    -1.372044e-01                     -1.375324e-01 
+              StrikeBatsmanP Negi            StrikeBatsmanDH Yagnik 
+                    -1.382897e-01                     -1.394092e-01 
+        StrikeBatsmanMC Henriques                  BowlerPJ Cummins 
+                    -1.394959e-01                     -1.399243e-01 
+              BowlerShahid Afridi                     BowlerP Suyal 
+                    -1.399931e-01                     -1.400433e-01 
+                  BowlerS Kaushik        StrikeBatsmanAzhar Mahmood 
+                    -1.421852e-01                     -1.423546e-01 
+                  BowlerJH Kallis           StrikeBatsmanUT Khawaja 
+                    -1.424225e-01                     -1.431443e-01 
+             StrikeBatsmanV Kohli                   BowlerMM Sharma 
+                    -1.437142e-01                     -1.438442e-01 
+                 BowlerAL Menaria          StrikeBatsmanKC Cariappa 
+                    -1.439622e-01                     -1.442850e-01 
+        StrikeBatsmanF du Plessis               BowlerAzhar Mahmood 
+                    -1.444999e-01                     -1.455361e-01 
+                  BowlerAC Thomas                   BowlerS Aravind 
+                    -1.461604e-01                     -1.467634e-01 
+              BowlerKuldeep Yadav                  BowlerMG Johnson 
+                    -1.469262e-01                     -1.477674e-01 
+                 BowlerWPUJC Vaas                   BowlerKV Sharma 
+                    -1.493863e-01                     -1.501133e-01 
+     StrikeBatsmanJoginder Sharma                     BowlerSB Wagh 
+                    -1.501630e-01                     -1.507927e-01 
+             StrikeBatsmanSS Iyer     StrikeBatsmanDPMD Jayawardene 
+                    -1.512664e-01                     -1.514689e-01 
+               BowlerMC Henriques                    BowlerRP Singh 
+                    -1.517803e-01                     -1.520544e-01 
+                BowlerShami Ahmed                     BowlerM Vijay 
+                    -1.521893e-01                     -1.527263e-01 
+                BowlerNL McCullum                   BowlerKK Cooper 
+                    -1.530496e-01                     -1.537994e-01 
+           StrikeBatsmanHH Pandya                     BowlerB Akhil 
+                    -1.538199e-01                     -1.543207e-01 
+                  BowlerSM Boland             StrikeBatsmanHV Patel 
+                    -1.546011e-01                     -1.549316e-01 
+             StrikeBatsmanT Taibu             StrikeBatsmanDJ Bravo 
+                    -1.554072e-01                     -1.556229e-01 
+                   BowlerVS Malik                  BowlerAS Rajpoot 
+                    -1.569027e-01                     -1.572214e-01 
+                  BowlerYS Chahal            StrikeBatsmanGJ Bailey 
+                    -1.573234e-01                     -1.578952e-01 
+            StrikeBatsmanCL White          StrikeBatsmanMDKJ Perera 
+                    -1.584322e-01                     -1.588259e-01 
+          StrikeBatsmanSM Pollock           StrikeBatsmanEJG Morgan 
+                    -1.592371e-01                     -1.601112e-01 
+                   BowlerJ Theron        StrikeBatsmanMandeep Singh 
+                    -1.607480e-01                     -1.608938e-01 
+                  BowlerPP Chawla            StrikeBatsmanDNT Zoysa 
+                    -1.622968e-01                     -1.632425e-01 
+           StrikeBatsmanA Symonds             StrikeBatsmanKL Rahul 
+                    -1.632449e-01                     -1.641741e-01 
+          StrikeBatsmanMA Agarwal                  BowlerMN Samuels 
+                    -1.642214e-01                     -1.644520e-01 
+                    BowlerA Nehra                     BowlerJM Kemp 
+                    -1.648819e-01                     -1.650993e-01 
+           StrikeBatsmanDJG Sammy                    BowlerR Bhatia 
+                    -1.656548e-01                     -1.668395e-01 
+           StrikeBatsmanSM Katich             StrikeBatsmanS Vidyut 
+                    -1.671196e-01                     -1.690415e-01 
+             StrikeBatsmanM Vijay          BowlerSandeep Sharma (1) 
+                    -1.693852e-01                     -1.708408e-01 
+                BowlerS Sreesanth                    BowlerCH Gayle 
+                    -1.719512e-01                     -1.724509e-01 
+           StrikeBatsmanMM Sharma               StrikeBatsmanDB Das 
+                    -1.726025e-01                     -1.726351e-01 
+       StrikeBatsmanLA Pomersbach                  BowlerSK Trivedi 
+                    -1.727310e-01                     -1.732539e-01 
+            StrikeBatsmanMR Marsh            StrikeBatsmanR Tewatia 
+                    -1.753326e-01                     -1.753983e-01 
+                   BowlerDJ Hooda             StrikeBatsmanS Narwal 
+                    -1.762830e-01                     -1.766270e-01 
+           StrikeBatsmanIK Pathan          StrikeBatsmanLRPL Taylor 
+                    -1.767821e-01                     -1.773346e-01 
+               BowlerYuvraj Singh                   BowlerRA Jadeja 
+                    -1.775084e-01                     -1.799988e-01 
+              BowlerCR Brathwaite            StrikeBatsmanSA Abbott 
+                    -1.805571e-01                     -1.813865e-01 
+                   BowlerPV Tambe            StrikeBatsmanKAJ Roach 
+                    -1.816664e-01                     -1.819145e-01 
+            StrikeBatsmanAR Patel              BowlerMJ McClenaghan 
+                    -1.819583e-01                     -1.823468e-01 
+                  BowlerSTR Binny           StrikeBatsmanMEK Hussey 
+                    -1.824999e-01                     -1.828329e-01 
+                     BowlerZ Khan                    BowlerTA Boult 
+                    -1.836137e-01                     -1.838818e-01 
+           StrikeBatsmanSV Samson           StrikeBatsmanMV Boucher 
+                    -1.839912e-01                     -1.855909e-01 
+                    BowlerPP Ojha                 BowlerBCJ Cutting 
+                    -1.858740e-01                     -1.864589e-01 
+                BowlerAnand Rajan                     BowlerM Ntini 
+                    -1.865285e-01                     -1.865689e-01 
+           StrikeBatsmanMK Pandey            StrikeBatsmanDJ Hussey 
+                    -1.869736e-01                     -1.869746e-01 
+            StrikeBatsmanAS Yadav                   BowlerIC Pandey 
+                    -1.877875e-01                     -1.879021e-01 
+                   BowlerSK Warne                     BowlerP Kumar 
+                    -1.892735e-01                     -1.897187e-01 
+              BowlerBW Hilfenhaus             StrikeBatsmanS Dhawan 
+                    -1.907332e-01                     -1.909006e-01 
+                  BowlerRJ Harris                     BowlerSE Bond 
+                    -1.923747e-01                     -1.926695e-01 
+           StrikeBatsmanRA Jadeja                 BowlerDS Kulkarni 
+                    -1.937549e-01                     -1.946671e-01 
+           StrikeBatsmanR Sathish            StrikeBatsmanSN Thakur 
+                    -1.946847e-01                     -1.947770e-01 
+        StrikeBatsmanSR Tendulkar          StrikeBatsmanPC Valthaty 
+                    -1.953229e-01                     -1.960349e-01 
+                      BowlerB Lee                     BowlerGB Hogg 
+                    -1.967029e-01                     -1.968289e-01 
+                   BowlerR Dhawan            StrikeBatsmanLR Shukla 
+                    -1.993989e-01                     -1.994632e-01 
+           StrikeBatsmanAM Rahane                BowlerCRD Fernando 
+                    -2.004836e-01                     -2.009987e-01 
+             StrikeBatsmanNV Ojha                    BowlerM Morkel 
+                    -2.014621e-01                     -2.015379e-01 
+         StrikeBatsmanSalman Butt                  BowlerGD McGrath 
+                    -2.016781e-01                     -2.040738e-01 
+             BowlerPD Collingwood                    BowlerA Mishra 
+                    -2.040878e-01                     -2.077414e-01 
+                   BowlerSK Raina               BowlerDAJ Bracewell 
+                    -2.085828e-01                     -2.094008e-01 
+          StrikeBatsmanAB Agarkar     StrikeBatsmanY Gnaneswara Rao 
+                    -2.095743e-01                     -2.101899e-01 
+                  BowlerSR Watson             StrikeBatsmanAM Nayar 
+                    -2.107296e-01                     -2.107482e-01 
+              BowlerDJ Muthuswami            StrikeBatsmanRS Bopara 
+                    -2.108119e-01                     -2.108358e-01 
+             BowlerAD Mascarenhas                    BowlerM Kartik 
+                    -2.114872e-01                     -2.124125e-01 
+           StrikeBatsmanSS Tiwary             StrikeBatsmanTL Suman 
+                    -2.133307e-01                     -2.136552e-01 
+              BowlerIqbal Abdulla             StrikeBatsmanR Dhawan 
+                    -2.155290e-01                     -2.164392e-01 
+                   BowlerR Sharma        StrikeBatsmanKC Sangakkara 
+                    -2.171241e-01                     -2.172590e-01 
+                BowlerT Henderson                   BowlerYK Pathan 
+                    -2.174800e-01                     -2.175748e-01 
+           StrikeBatsmanCM Gautam                   BowlerDP Nannes 
+                    -2.181099e-01                     -2.189395e-01 
+                 BowlerDL Vettori      StrikeBatsmanY Venugopal Rao 
+                    -2.189869e-01                     -2.203840e-01 
+                 BowlerBAW Mendis                 BowlerMF Maharoof 
+                    -2.205525e-01                     -2.207155e-01 
+                 BowlerAG Murtaza              BowlerSandeep Sharma 
+                    -2.209705e-01                     -2.209946e-01 
+         StrikeBatsmanSA Asnodkar                BowlerKP Pietersen 
+                    -2.216228e-01                     -2.219193e-01 
+             StrikeBatsmanS Sohal            StrikeBatsmanMK Tiwary 
+                    -2.220656e-01                     -2.227747e-01 
+                 BowlerSM Pollock              StrikeBatsmanB Akhil 
+                    -2.239039e-01                     -2.251011e-01 
+        StrikeBatsmanJEC Franklin                    BowlerRR Powar 
+                    -2.251907e-01                     -2.263859e-01 
+                   BowlerS Nadeem            StrikeBatsmanKV Sharma 
+                    -2.276798e-01                     -2.289417e-01 
+               BowlerDE Bollinger              StrikeBatsmanJ Botha 
+                    -2.291083e-01                     -2.310269e-01 
+            StrikeBatsmanMS Bisla        StrikeBatsmanLA Carseldine 
+                    -2.316710e-01                     -2.325394e-01 
+            StrikeBatsmanPA Patel            StrikeBatsmanPP Chawla 
+                    -2.329547e-01                     -2.336811e-01 
+          StrikeBatsmanMJ Guptill                     BowlerJ Botha 
+                    -2.348168e-01                     -2.358335e-01 
+             StrikeBatsmanRR Raje          StrikeBatsmanS Badrinath 
+                    -2.370327e-01                     -2.372394e-01 
+           StrikeBatsmanMJ Clarke             BowlerNM Coulter-Nile 
+                    -2.387360e-01                     -2.394368e-01 
+                   BowlerUmar Gul                    BowlerAR Patel 
+                    -2.396758e-01                     -2.401688e-01 
+                  BowlerCH Morris                   BowlerR Tewatia 
+                    -2.406659e-01                     -2.419960e-01 
+            StrikeBatsmanM Kartik         StrikeBatsmanDB Ravi Teja 
+                    -2.434388e-01                     -2.440855e-01 
+          StrikeBatsmanS Anirudha            StrikeBatsmanAC Thomas 
+                    -2.443742e-01                     -2.450190e-01 
+            StrikeBatsmanM Manhas            StrikeBatsmanMD Mishra 
+                    -2.450828e-01                     -2.451780e-01 
+                 BowlerWD Parnell                   BowlerJP Duminy 
+                    -2.454824e-01                     -2.468100e-01 
+                  BowlerGR Napier           StrikeBatsmanTM Dilshan 
+                    -2.484063e-01                     -2.489446e-01 
+          StrikeBatsmanSP Fleming             StrikeBatsmanR Dravid 
+                    -2.497233e-01                     -2.501542e-01 
+                   BowlerS Badree               BowlerNJ Rimmington 
+                    -2.502309e-01                     -2.535658e-01 
+             StrikeBatsmanY Nagar              StrikeBatsmanAS Raut 
+                    -2.538511e-01                     -2.550040e-01 
+            BowlerShakib Al Hasan               BowlerCK Langeveldt 
+                    -2.556870e-01                     -2.563098e-01 
+        StrikeBatsmanShoaib Malik           StrikeBatsmanA Flintoff 
+                    -2.580641e-01                     -2.590641e-01 
+                  BowlerKH Pandya          StrikeBatsmanYV Takawale 
+                    -2.594365e-01                     -2.598528e-01 
+    StrikeBatsmanRE van der Merwe        StrikeBatsmanSohail Tanvir 
+                    -2.601086e-01                     -2.603919e-01 
+                  BowlerDL Chahar              StrikeBatsmanCA Lynn 
+                    -2.613157e-01                     -2.631089e-01 
+            StrikeBatsmanUT Yadav             BowlerKMDN Kulasekara 
+                    -2.632096e-01                     -2.635336e-01 
+              BowlerShoaib Akhtar           StrikeBatsmanAL Menaria 
+                    -2.666528e-01                     -2.681812e-01 
+        StrikeBatsmanDT Christian             BowlerGurkeerat Singh 
+                    -2.701065e-01                     -2.705551e-01 
+            BowlerHarbhajan Singh                BowlerAnkit Sharma 
+                    -2.706991e-01                     -2.713045e-01 
+              StrikeBatsmanVH Zol         StrikeBatsmanBB Samantray 
+                    -2.731302e-01                     -2.743524e-01 
+            StrikeBatsmanMA Khote         StrikeBatsmanAnkit Sharma 
+                    -2.764921e-01                     -2.770099e-01 
+           BowlerRE van der Merwe                    BowlerMA Starc 
+                    -2.795493e-01                     -2.808313e-01 
+                    BowlerSW Tait        StrikeBatsmanNJ Rimmington 
+                    -2.816068e-01                     -2.843424e-01 
+                 BowlerT Thushara              StrikeBatsmanBB Sran 
+                    -2.846175e-01                     -2.852668e-01 
+              StrikeBatsmanS Rana            BowlerRN ten Doeschate 
+                    -2.854949e-01                     -2.855047e-01 
+                     BowlerS Rana                     BowlerB Kumar 
+                    -2.858130e-01                     -2.892364e-01 
+                    BowlerC Nanda        StrikeBatsmanSJ Srivastava 
+                    -2.895253e-01                     -2.895445e-01 
+       StrikeBatsmanR Vinay Kumar           StrikeBatsmanRR Rossouw 
+                    -2.913641e-01                     -2.924807e-01 
+         StrikeBatsmanRJ Peterson        StrikeBatsmanIqbal Abdulla 
+                    -2.941599e-01                     -2.953003e-01 
+             BowlerM Muralitharan              StrikeBatsmanB Kumar 
+                    -2.966971e-01                     -3.000092e-01 
+            StrikeBatsmanGC Smith          StrikeBatsmanF Behardien 
+                    -3.001822e-01                     -3.010850e-01 
+          StrikeBatsmanSC Ganguly            StrikeBatsmanAA Chavan 
+                    -3.020901e-01                     -3.022315e-01 
+                   BowlerA Kumble                   BowlerR Rampaul 
+                    -3.036297e-01                     -3.054048e-01 
+                 BowlerA Chandila            StrikeBatsmanDJ Harris 
+                    -3.064767e-01                     -3.070559e-01 
+     StrikeBatsmanJ Syed Mohammad            StrikeBatsmanJH Kallis 
+                    -3.074449e-01                     -3.098101e-01 
+           StrikeBatsmanR Bishnoi             StrikeBatsmanRR Powar 
+                    -3.124781e-01                     -3.139258e-01 
+            StrikeBatsmanHH Gibbs              StrikeBatsmanP Kumar 
+                    -3.154992e-01                     -3.170557e-01 
+          BowlerMustafizur Rahman                     BowlerA Zampa 
+                    -3.177293e-01                     -3.188861e-01 
+                   BowlerM Manhas           StrikeBatsmanSD Chitnis 
+                    -3.229435e-01                     -3.230987e-01 
+          StrikeBatsmanWPUJC Vaas             StrikeBatsmanB Chipli 
+                    -3.236025e-01                     -3.240827e-01 
+            BowlerSMSM Senanayake                    BowlerDW Steyn 
+                    -3.286265e-01                     -3.296460e-01 
+       StrikeBatsmanKS Williamson              StrikeBatsmanJM Kemp 
+                    -3.299572e-01                     -3.305554e-01 
+                BowlerJW Hastings        StrikeBatsmanDP Vijaykumar 
+                    -3.309871e-01                     -3.334034e-01 
+            StrikeBatsmanVS Malik                    BowlerR Ashwin 
+                    -3.345687e-01                     -3.380924e-01 
+                 BowlerFH Edwards      StrikeBatsmanNM Coulter-Nile 
+                    -3.407870e-01                     -3.414189e-01 
+                BowlerDJ Thornely                   BowlerMJ Clarke 
+                    -3.426334e-01                     -3.428635e-01 
+                 BowlerSL Malinga        StrikeBatsmanKW Richardson 
+                    -3.437052e-01                     -3.442834e-01 
+           StrikeBatsmanUBT Chand           StrikeBatsmanDL Vettori 
+                    -3.445091e-01                     -3.457308e-01 
+     StrikeBatsmanJJ van der Wath             StrikeBatsmanPA Reddy 
+                    -3.481667e-01                     -3.490296e-01 
+            StrikeBatsmanFY Fazal              StrikeBatsmanGB Hogg 
+                    -3.513377e-01                     -3.523590e-01 
+            StrikeBatsmanRV Gomez         StrikeBatsmanIshan Kishan 
+                    -3.528619e-01                     -3.541598e-01 
+          StrikeBatsmanVVS Laxman             StrikeBatsmanDW Steyn 
+                    -3.543491e-01                     -3.563841e-01 
+           StrikeBatsmanRJ Harris              StrikeBatsmanC Munro 
+                    -3.569158e-01                     -3.571398e-01 
+            StrikeBatsmanDT Patil                   BowlerGH Vihari 
+                    -3.582929e-01                     -3.596847e-01 
+              BowlerSohail Tanvir            StrikeBatsmanRJ Quiney 
+                    -3.636180e-01                     -3.649558e-01 
+                  BowlerSP Narine                     BowlerJ Yadav 
+                    -3.676469e-01                     -3.677307e-01 
+           StrikeBatsmanGR Napier           StrikeBatsmanMG Johnson 
+                    -3.679872e-01                     -3.699495e-01 
+            StrikeBatsmanL Ronchi     StrikeBatsmanMashrafe Mortaza 
+                    -3.706629e-01                     -3.734888e-01 
+        StrikeBatsmanNJ Maddinson           StrikeBatsmanMN Samuels 
+                    -3.760240e-01                     -3.762363e-01 
+            StrikeBatsmanMM Patel            StrikeBatsmanSB Jakati 
+                    -3.782529e-01                     -3.782620e-01 
+              StrikeBatsmanM Kaif            StrikeBatsmanMC Juneja 
+                    -3.795882e-01                     -3.821575e-01 
+                BowlerSachin Baby          StrikeBatsmanJDS Neesham 
+                    -3.834300e-01                     -3.856720e-01 
+         StrikeBatsmanJ Arunkumar      StrikeBatsmanAA Jhunjhunwala 
+                    -3.937712e-01                     -3.937849e-01 
+           StrikeBatsmanCA Pujara            StrikeBatsmanM Klinger 
+                    -3.951903e-01                     -4.023436e-01 
+      StrikeBatsmanAD Mascarenhas             StrikeBatsmanMA Starc 
+                    -4.048724e-01                     -4.053716e-01 
+           StrikeBatsmanR Rampaul            StrikeBatsmanSS Shaikh 
+                    -4.062552e-01                     -4.079648e-01 
+           StrikeBatsmanDJ Jacobs            StrikeBatsmanSB Styris 
+                    -4.095608e-01                     -4.116267e-01 
+       StrikeBatsmanParvez Rasool          StrikeBatsmanDS Kulkarni 
+                    -4.119287e-01                     -4.141299e-01 
+             StrikeBatsmanN Saini             StrikeBatsmanNK Patel 
+                    -4.180391e-01                     -4.193655e-01 
+            BowlerMohammad Hafeez             StrikeBatsmanR Ashwin 
+                    -4.194574e-01                     -4.194774e-01 
+            StrikeBatsmanBA Bhatt              StrikeBatsmanPR Shah 
+                    -4.198349e-01                     -4.216895e-01 
+           StrikeBatsmanAB Barath             StrikeBatsmanVR Aaron 
+                    -4.236817e-01                     -4.255622e-01 
+             StrikeBatsmanRG More         StrikeBatsmanDE Bollinger 
+                    -4.275641e-01                     -4.277006e-01 
+            StrikeBatsmanJDP Oram            StrikeBatsmanCA Ingram 
+                    -4.284769e-01                     -4.319829e-01 
+            StrikeBatsmanR Shukla          StrikeBatsmanCJ Ferguson 
+                    -4.369795e-01                     -4.435532e-01 
+            StrikeBatsmanW Jaffer             StrikeBatsmanA Mishra 
+                    -4.464355e-01                     -4.478779e-01 
+           StrikeBatsmanR McLaren      StrikeBatsmanKB Arun Karthik 
+                    -4.535762e-01                     -4.539662e-01 
+           StrikeBatsmanB Sumanth          StrikeBatsmanBMAJ Mendis 
+                    -4.555296e-01                     -4.564604e-01 
+           StrikeBatsmanGH Vihari               StrikeBatsmanK Goel 
+                    -4.606076e-01                     -4.621031e-01 
+          StrikeBatsmanDS Lehmann               StrikeBatsmanZ Khan 
+                    -4.677887e-01                     -4.706450e-01 
+          StrikeBatsmanSP Goswami        StrikeBatsmanAnirudh Singh 
+                    -4.742330e-01                     -4.771884e-01 
+                 BowlerSM Harwood           StrikeBatsmanWD Parnell 
+                    -4.816268e-01                     -4.937746e-01 
+           StrikeBatsmanSP Narine             StrikeBatsmanR Sharma 
+                    -4.952896e-01                     -5.001576e-01 
+              StrikeBatsmanS Kaul          StrikeBatsmanVS Yeligati 
+                    -5.021718e-01                     -5.059218e-01 
+                  BowlerAM Rahane           StrikeBatsmanGD McGrath 
+                    -5.093621e-01                     -5.115275e-01 
+         StrikeBatsmanImran Tahir            StrikeBatsmanCJ Jordan 
+                    -5.132927e-01                     -5.150306e-01 
+      StrikeBatsmanHarpreet Singh           StrikeBatsmanFH Edwards 
+                    -5.156820e-01                     -5.169728e-01 
+            StrikeBatsmanI Sharma           StrikeBatsmanSL Malinga 
+                    -5.214576e-01                     -5.215060e-01 
+           StrikeBatsmanRR Sarwan        StrikeBatsmanCK Langeveldt 
+                    -5.215637e-01                     -5.215665e-01 
+             StrikeBatsmanP Dogra             StrikeBatsmanSK Warne 
+                    -5.243521e-01                     -5.356351e-01 
+                  BowlerSS Mundhe             StrikeBatsmanAN Ghosh 
+                    -5.407111e-01                     -5.429041e-01 
+                   BowlerSA Yadav          StrikeBatsmanAG Paunikar 
+                    -5.468345e-01                     -5.469514e-01 
+             StrikeBatsmanSW Tait            StrikeBatsmanJE Taylor 
+                    -5.497650e-01                     -5.612021e-01 
+            StrikeBatsmanA Mukund             StrikeBatsmanS Sriram 
+                    -5.661689e-01                     -5.907891e-01 
+           StrikeBatsmanSB Bangar              StrikeBatsmanSB Wagh 
+                    -6.046530e-01                     -6.047056e-01 
+          StrikeBatsmanAG Murtaza              StrikeBatsmanAD Nath 
+                    -6.127576e-01                     -6.178108e-01 
+         StrikeBatsmanAA Bilakhia             StrikeBatsmanJ Theron 
+                    -6.323195e-01                     -6.343941e-01 
+             StrikeBatsmanM Rawat            StrikeBatsmanDR Martyn 
+                    -6.417403e-01                     -6.420346e-01 
+       StrikeBatsmanS Chanderpaul       StrikeBatsmanJaskaran Singh 
+                    -6.481526e-01                     -6.495401e-01 
+          StrikeBatsmanRT Ponting      StrikeBatsmanKaranveer Singh 
+                    -6.629580e-01                     -6.645977e-01 
+             StrikeBatsmanS Tyagi              StrikeBatsmanWA Mota 
+                    -6.655955e-01                     -6.657020e-01 
+             StrikeBatsmanNS Naik             StrikeBatsmanL Balaji 
+                    -6.787283e-01                     -6.801466e-01 
+     StrikeBatsmanMohammad Hafeez           StrikeBatsmanPJ Sangwan 
+                    -6.804353e-01                     -7.022642e-01 
+       StrikeBatsmanYashpal Singh              StrikeBatsmanMS Wade 
+                    -7.032501e-01                     -7.063647e-01 
+         StrikeBatsmanDJ Thornely       StrikeBatsmanSandeep Sharma 
+                    -7.176693e-01                     -7.225330e-01 
+            StrikeBatsmanA Chopra             StrikeBatsmanRP Singh 
+                    -7.234791e-01                     -7.278220e-01 
+          StrikeBatsmanD du Preez        StrikeBatsmanTM Srivastava 
+                    -7.307491e-01                     -7.323637e-01 
+             StrikeBatsmanA Nehra             StrikeBatsmanIR Jaggi 
+                    -7.340694e-01                     -7.347320e-01 
+            StrikeBatsmanA Kumble          StrikeBatsmanT Henderson 
+                    -7.438001e-01                     -7.499096e-01 
+       StrikeBatsmanCK Kapugedera           StrikeBatsmanSK Trivedi 
+                    -7.548513e-01                     -7.649381e-01 
+      StrikeBatsmanM Muralitharan               BowlerLA Carseldine 
+                    -7.698641e-01                     -7.709438e-01 
+           StrikeBatsmanYS Chahal            StrikeBatsmanAA Noffke 
+                    -7.814943e-01                     -7.862629e-01 
+          StrikeBatsmanT Thushara            StrikeBatsmanJJ Bumrah 
+                    -7.926782e-01                     -7.983368e-01 
+             StrikeBatsmanM Ntini      StrikeBatsmanSMSM Senanayake 
+                    -8.010624e-01                     -8.183963e-01 
+          StrikeBatsmanSM Harwood          StrikeBatsmanS Sreesanth 
+                    -8.272866e-01                     -8.629743e-01 
+StrikeBatsmanX Thalaivan Sargunam             StrikeBatsmanS Randiv 
+                    -8.630176e-01                     -8.634851e-01 
+         StrikeBatsmanKamran Khan        StrikeBatsmanAnureet Singh 
+                    -8.808813e-01                     -8.814484e-01 
+             StrikeBatsmanJ Yadav              StrikeBatsmanSE Bond 
+                    -8.940470e-01                     -9.214096e-01 
+           StrikeBatsmanVY Mahesh         StrikeBatsmanPankaj Singh 
+                    -9.234352e-01                     -9.407457e-01 
+             StrikeBatsmanC Madan           StrikeBatsmanA Chandila 
+                    -9.442581e-01                     -9.511464e-01 
+             StrikeBatsmanS Gopal           StrikeBatsmanBAW Mendis 
+                    -9.696896e-01                     -9.781736e-01 
+       StrikeBatsmanMohammad Asif             StrikeBatsmanCJ McKay 
+                    -9.787364e-01                     -9.812145e-01 
+             StrikeBatsmanT Kohli           StrikeBatsmanM de Lange 
+                    -9.859984e-01                     -9.891026e-01 
+             StrikeBatsmanR Ninan             StrikeBatsmanUA Birla 
+                    -9.900283e-01                     -9.978116e-01 
+    StrikeBatsmanPM Sarvesh Kumar             StrikeBatsmanA Uniyal 
+                    -1.026551e+00                     -1.038839e+00 
+      StrikeBatsmanMohammed Shami           StrikeBatsmanB Laughlin 
+                    -1.048124e+00                     -1.054822e+00 
+       StrikeBatsmanPSP Handscomb           StrikeBatsmanKP Appanna 
+                    -1.055973e+00                     -1.076272e+00 
+            StrikeBatsmanAB Dinda                      BowlerN Rana 
+                    -1.076736e+00                     -1.083517e+00 
+            StrikeBatsmanPV Tambe             StrikeBatsmanS Nadeem 
+                    -1.102070e+00                     -1.193478e+00 
+         StrikeBatsmanYounis Khan           StrikeBatsmanJD Unadkat 
+                    -1.221918e+00                     -1.225170e+00 
+               StrikeBatsmanH Das              StrikeBatsmanPP Ojha 
+                    -1.297271e+00                     -1.338693e+00 
+            StrikeBatsmanTD Paine             StrikeBatsmanSB Joshi 
+                    -1.356996e+00                     -1.375478e+00 
+             StrikeBatsmanP Awana        StrikeBatsmanDJ Muthuswami 
+                    -1.377939e+00                     -1.467560e+00 
+        StrikeBatsmanBE Hendricks           StrikeBatsmanAS Rajpoot 
+                    -1.475165e+00                     -1.487603e+00 
+           StrikeBatsmanDP Nannes      StrikeBatsmanD Kalyankrishna 
+                    -1.493678e+00                     -1.500410e+00 
+      StrikeBatsmanP Parameswaran          StrikeBatsmanRS Gavaskar 
+                    -1.625567e+00                     -1.635898e+00 
+       StrikeBatsmanShoaib Akhtar              StrikeBatsmanA Singh 
+                    -1.662250e+00                     -1.994175e+00 
+        StrikeBatsmanShoaib Ahmed    StrikeBatsmanMohammad Ashraful 
+                    -2.135114e+00                     -2.141074e+00 
+           StrikeBatsmanS Kaushik         StrikeBatsmanAbdur Razzak 
+                    -1.142434e+01                     -1.147685e+01 
+      StrikeBatsmanV Pratap Singh            StrikeBatsmanIC Pandey 
+                    -1.151785e+01                     -1.156708e+01 
+          StrikeBatsmanPJ Cummins           StrikeBatsmanRR Bhatkal 
+                    -1.162888e+01                     -1.162918e+01 
+             StrikeBatsmanC Nanda              StrikeBatsmanA Zampa 
+                    -1.163051e+01                     -1.165929e+01 
+             StrikeBatsmanS Ladda          StrikeBatsmanSunny Gupta 
+                    -1.165962e+01                     -1.166659e+01 
+            StrikeBatsmanL Ablish             StrikeBatsmanND Doshi 
+                    -1.166783e+01                     -1.169932e+01 
+              StrikeBatsmanU Kaul        StrikeBatsmanSwapnil Singh 
+                    -1.170333e+01                     -1.171029e+01 
+            StrikeBatsmanM Ashwin                BowlerAC Gilchrist 
+                    -1.172397e+01                     -1.175920e+01 
+          StrikeBatsmanYA Abdulla   StrikeBatsmanSandeep Sharma (1) 
+                    -1.176135e+01                     -1.177904e+01 
+
+#Summary of model 
+
+Call:
+glm(formula = RunsScored ~ StrikeBatsman + Bowler + Team + Inning, 
+    family = poisson, data = FinalDataFrame)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.5820  -1.5155  -0.2958   0.0431   4.2870  
+
+Coefficients:
+                                    Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                        5.319e-01  8.175e-02   6.506 7.71e-11 ***
+StrikeBatsmanA Chandila           -9.511e-01  5.044e-01  -1.886 0.059313 .  
+StrikeBatsmanA Chopra             -7.235e-01  1.517e-01  -4.769 1.86e-06 ***
+StrikeBatsmanA Flintoff           -2.591e-01  1.427e-01  -1.816 0.069370 .  
+StrikeBatsmanA Kumble             -7.438e-01  1.806e-01  -4.120 3.80e-05 ***
+StrikeBatsmanA Mishra             -4.479e-01  8.448e-02  -5.302 1.15e-07 ***
+StrikeBatsmanA Mithun             -7.112e-02  1.831e-01  -0.388 0.697758    
+StrikeBatsmanA Mukund             -5.662e-01  2.443e-01  -2.317 0.020492 *  
+StrikeBatsmanA Nehra              -7.341e-01  1.681e-01  -4.366 1.27e-05 ***
+StrikeBatsmanA Singh              -1.994e+00  7.101e-01  -2.808 0.004978 ** 
+StrikeBatsmanA Symonds            -1.632e-01  7.011e-02  -2.328 0.019891 *  
+StrikeBatsmanA Uniyal             -1.039e+00  5.055e-01  -2.055 0.039875 *  
+StrikeBatsmanA Zampa              -1.166e+01  1.727e+02  -0.068 0.946160    
+StrikeBatsmanAA Bilakhia          -6.323e-01  1.358e-01  -4.656 3.23e-06 ***
+StrikeBatsmanAA Chavan            -3.022e-01  2.962e-01  -1.020 0.307506    
+StrikeBatsmanAA Jhunjhunwala      -3.938e-01  9.273e-02  -4.246 2.17e-05 ***
+StrikeBatsmanAA Noffke            -7.863e-01  3.402e-01  -2.311 0.020841 *  
+StrikeBatsmanAB Agarkar           -2.096e-01  9.796e-02  -2.139 0.032398 *  
+StrikeBatsmanAB Barath            -4.237e-01  1.677e-01  -2.527 0.011510 *  
+StrikeBatsmanAB de Villiers        1.769e-02  6.476e-02   0.273 0.784728    
+StrikeBatsmanAB Dinda             -1.077e+00  2.379e-01  -4.526 6.00e-06 ***
+StrikeBatsmanAB McDonald          -1.304e-01  1.100e-01  -1.186 0.235809    
+StrikeBatsmanAbdur Razzak         -1.148e+01  1.221e+02  -0.094 0.925104    
+StrikeBatsmanAC Blizzard           7.877e-03  1.115e-01   0.071 0.943688    
+StrikeBatsmanAC Gilchrist         -7.465e-02  6.577e-02  -1.135 0.256383    
+StrikeBatsmanAC Thomas            -2.450e-01  2.332e-01  -1.051 0.293441    
+StrikeBatsmanAC Voges             -1.361e-01  9.784e-02  -1.391 0.164317    
+StrikeBatsmanAD Mascarenhas       -4.049e-01  1.293e-01  -3.131 0.001739 ** 
+StrikeBatsmanAD Mathews           -1.000e-01  7.318e-02  -1.367 0.171752    
+StrikeBatsmanAD Nath              -6.178e-01  2.335e-01  -2.645 0.008157 ** 
+StrikeBatsmanAD Russell            1.592e-01  7.554e-02   2.108 0.035030 *  
+StrikeBatsmanAG Murtaza           -6.128e-01  3.228e-01  -1.898 0.057677 .  
+StrikeBatsmanAG Paunikar          -5.470e-01  1.565e-01  -3.494 0.000475 ***
+StrikeBatsmanAJ Finch             -1.174e-01  6.758e-02  -1.737 0.082315 .  
+StrikeBatsmanAL Menaria           -2.682e-01  8.117e-02  -3.304 0.000953 ***
+StrikeBatsmanAM Nayar             -2.107e-01  7.329e-02  -2.876 0.004033 ** 
+StrikeBatsmanAM Rahane            -2.005e-01  6.589e-02  -3.043 0.002345 ** 
+StrikeBatsmanAN Ahmed             -6.684e-02  1.786e-01  -0.374 0.708244    
+StrikeBatsmanAN Ghosh             -5.429e-01  3.834e-01  -1.416 0.156802    
+StrikeBatsmanAnirudh Singh        -4.772e-01  1.422e-01  -3.356 0.000789 ***
+StrikeBatsmanAnkit Sharma         -2.770e-01  1.506e-01  -1.840 0.065836 .  
+StrikeBatsmanAnureet Singh        -8.814e-01  2.441e-01  -3.611 0.000305 ***
+StrikeBatsmanAP Dole               1.003e-01  1.831e-01   0.548 0.583948    
+StrikeBatsmanAP Majumdar          -1.303e-01  1.256e-01  -1.037 0.299589    
+StrikeBatsmanAP Tare              -1.026e-01  8.421e-02  -1.218 0.223093    
+StrikeBatsmanAR Patel             -1.820e-01  8.136e-02  -2.236 0.025330 *  
+StrikeBatsmanAS Rajpoot           -1.488e+00  7.103e-01  -2.094 0.036226 *  
+StrikeBatsmanAS Raut              -2.550e-01  9.601e-02  -2.656 0.007908 ** 
+StrikeBatsmanAS Yadav             -1.878e-01  1.566e-01  -1.199 0.230486    
+StrikeBatsmanAT Rayudu            -1.042e-01  6.642e-02  -1.568 0.116809    
+StrikeBatsmanAUK Pathan           -4.503e-04  1.726e-01  -0.003 0.997918    
+StrikeBatsmanAzhar Mahmood        -1.424e-01  8.083e-02  -1.761 0.078223 .  
+StrikeBatsmanB Akhil              -2.251e-01  1.373e-01  -1.639 0.101184    
+StrikeBatsmanB Chipli             -3.241e-01  8.641e-02  -3.751 0.000176 ***
+StrikeBatsmanB Kumar              -3.000e-01  1.019e-01  -2.945 0.003227 ** 
+StrikeBatsmanB Laughlin           -1.055e+00  5.042e-01  -2.092 0.036443 *  
+StrikeBatsmanB Lee                -1.366e-01  1.096e-01  -1.246 0.212907    
+StrikeBatsmanB Sumanth            -4.555e-01  1.806e-01  -2.523 0.011637 *  
+StrikeBatsmanBA Bhatt             -4.198e-01  4.133e-01  -1.016 0.309773    
+StrikeBatsmanBAW Mendis           -9.782e-01  5.809e-01  -1.684 0.092215 .  
+StrikeBatsmanBB McCullum          -1.139e-01  6.573e-02  -1.733 0.083133 .  
+StrikeBatsmanBB Samantray         -2.744e-01  1.081e-01  -2.538 0.011147 *  
+StrikeBatsmanBB Sran              -2.853e-01  5.065e-01  -0.563 0.573291    
+StrikeBatsmanBCJ Cutting           1.612e-01  1.325e-01   1.216 0.223865    
+StrikeBatsmanBE Hendricks         -1.475e+00  1.002e+00  -1.472 0.141012    
+StrikeBatsmanBipul Sharma          1.054e-01  1.012e-01   1.041 0.297861    
+StrikeBatsmanBJ Haddin             6.414e-02  2.458e-01   0.261 0.794149    
+StrikeBatsmanBJ Hodge             -1.369e-01  6.812e-02  -2.010 0.044428 *  
+StrikeBatsmanBJ Rohrer            -3.215e-02  9.545e-02  -0.337 0.736216    
+StrikeBatsmanBMAJ Mendis          -4.565e-01  2.178e-01  -2.096 0.036115 *  
+StrikeBatsmanBR Dunk              -1.250e-01  1.707e-01  -0.732 0.464114    
+StrikeBatsmanC Madan              -9.443e-01  3.084e-01  -3.062 0.002200 ** 
+StrikeBatsmanC Munro              -3.571e-01  1.982e-01  -1.802 0.071613 .  
+StrikeBatsmanC Nanda              -1.163e+01  1.727e+02  -0.067 0.946293    
+StrikeBatsmanCA Ingram            -4.320e-01  2.274e-01  -1.900 0.057482 .  
+StrikeBatsmanCA Lynn              -2.631e-01  1.233e-01  -2.134 0.032868 *  
+StrikeBatsmanCA Pujara            -3.952e-01  8.040e-02  -4.915 8.87e-07 ***
+StrikeBatsmanCH Gayle              1.514e-02  6.487e-02   0.233 0.815488    
+StrikeBatsmanCH Morris             1.658e-01  8.587e-02   1.931 0.053496 .  
+StrikeBatsmanCJ Anderson           9.903e-03  8.153e-02   0.121 0.903324    
+StrikeBatsmanCJ Ferguson          -4.436e-01  1.199e-01  -3.698 0.000217 ***
+StrikeBatsmanCJ Jordan            -5.150e-01  5.820e-01  -0.885 0.376185    
+StrikeBatsmanCJ McKay             -9.812e-01  3.593e-01  -2.731 0.006321 ** 
+StrikeBatsmanCK Kapugedera        -7.549e-01  2.587e-01  -2.917 0.003530 ** 
+StrikeBatsmanCK Langeveldt        -5.216e-01  3.595e-01  -1.451 0.146789    
+StrikeBatsmanCL White             -1.584e-01  6.906e-02  -2.294 0.021775 *  
+StrikeBatsmanCM Gautam            -2.181e-01  9.933e-02  -2.196 0.028101 *  
+StrikeBatsmanCR Brathwaite         4.496e-01  1.271e-01   3.537 0.000404 ***
+StrikeBatsmanCRD Fernando         -4.466e-02  5.048e-01  -0.088 0.929503    
+StrikeBatsmanD du Preez           -7.307e-01  3.271e-01  -2.234 0.025503 *  
+StrikeBatsmanD Kalyankrishna      -1.500e+00  5.812e-01  -2.581 0.009838 ** 
+StrikeBatsmanD Salunkhe           -9.577e-02  1.865e-01  -0.514 0.607568    
+StrikeBatsmanD Wiese              -8.796e-02  1.089e-01  -0.808 0.419234    
+StrikeBatsmanDA Miller            -1.108e-02  6.809e-02  -0.163 0.870747    
+StrikeBatsmanDA Warner             1.623e-02  6.294e-02   0.258 0.796512    
+StrikeBatsmanDAJ Bracewell        -7.349e-02  2.957e-01  -0.249 0.803710    
+StrikeBatsmanDB Das               -1.726e-01  8.523e-02  -2.026 0.042812 *  
+StrikeBatsmanDB Ravi Teja         -2.441e-01  8.098e-02  -3.014 0.002579 ** 
+StrikeBatsmanDE Bollinger         -4.277e-01  2.277e-01  -1.878 0.060377 .  
+StrikeBatsmanDH Yagnik            -1.394e-01  9.980e-02  -1.397 0.162433    
+StrikeBatsmanDJ Bravo             -1.556e-01  6.867e-02  -2.266 0.023427 *  
+StrikeBatsmanDJ Harris            -3.071e-01  1.143e-01  -2.686 0.007221 ** 
+StrikeBatsmanDJ Hooda             -1.007e-01  8.451e-02  -1.191 0.233575    
+StrikeBatsmanDJ Hussey            -1.870e-01  6.808e-02  -2.746 0.006027 ** 
+StrikeBatsmanDJ Jacobs            -4.096e-01  1.236e-01  -3.315 0.000917 ***
+StrikeBatsmanDJ Muthuswami        -1.468e+00  1.002e+00  -1.464 0.143157    
+StrikeBatsmanDJ Thornely          -7.177e-01  1.729e-01  -4.151 3.31e-05 ***
+StrikeBatsmanDJG Sammy            -1.657e-01  8.408e-02  -1.970 0.048826 *  
+StrikeBatsmanDL Vettori           -3.457e-01  1.103e-01  -3.134 0.001723 ** 
+StrikeBatsmanDNT Zoysa            -1.632e-01  3.091e-01  -0.528 0.597436    
+StrikeBatsmanDP Nannes            -1.494e+00  5.046e-01  -2.960 0.003074 ** 
+StrikeBatsmanDP Vijaykumar        -3.334e-01  1.002e+00  -0.333 0.739365    
+StrikeBatsmanDPMD Jayawardene     -1.515e-01  6.640e-02  -2.281 0.022532 *  
+StrikeBatsmanDR Martyn            -6.420e-01  2.384e-01  -2.693 0.007074 ** 
+StrikeBatsmanDR Smith             -6.728e-02  6.614e-02  -1.017 0.308974    
+StrikeBatsmanDS Kulkarni          -4.141e-01  1.232e-01  -3.362 0.000775 ***
+StrikeBatsmanDS Lehmann           -4.678e-01  2.446e-01  -1.912 0.055849 .  
+StrikeBatsmanDT Christian         -2.701e-01  8.269e-02  -3.266 0.001089 ** 
+StrikeBatsmanDT Patil             -3.583e-01  2.849e-01  -1.258 0.208525    
+StrikeBatsmanDW Steyn             -3.564e-01  9.879e-02  -3.608 0.000309 ***
+StrikeBatsmanEJG Morgan           -1.601e-01  7.068e-02  -2.265 0.023503 *  
+StrikeBatsmanER Dwivedi            1.717e-01  2.198e-01   0.781 0.434838    
+StrikeBatsmanF Behardien          -3.011e-01  2.755e-01  -1.093 0.274520    
+StrikeBatsmanF du Plessis         -1.445e-01  6.937e-02  -2.083 0.037255 *  
+StrikeBatsmanFH Edwards           -5.170e-01  5.040e-01  -1.026 0.305027    
+StrikeBatsmanFY Fazal             -3.513e-01  9.772e-02  -3.596 0.000324 ***
+StrikeBatsmanG Gambhir            -1.367e-01  6.449e-02  -2.120 0.033970 *  
+StrikeBatsmanGB Hogg              -3.524e-01  2.225e-01  -1.583 0.113337    
+StrikeBatsmanGC Smith             -3.002e-01  7.345e-02  -4.087 4.38e-05 ***
+StrikeBatsmanGD McGrath           -5.115e-01  5.042e-01  -1.015 0.310306    
+StrikeBatsmanGH Vihari            -4.606e-01  8.497e-02  -5.421 5.93e-08 ***
+StrikeBatsmanGJ Bailey            -1.579e-01  7.364e-02  -2.144 0.032022 *  
+StrikeBatsmanGJ Maxwell            9.980e-02  7.098e-02   1.406 0.159748    
+StrikeBatsmanGR Napier            -3.680e-01  2.667e-01  -1.380 0.167581    
+StrikeBatsmanGurkeerat Singh      -1.252e-01  8.305e-02  -1.507 0.131756    
+StrikeBatsmanH Das                -1.297e+00  7.103e-01  -1.826 0.067806 .  
+StrikeBatsmanHarbhajan Singh      -5.264e-03  7.258e-02  -0.073 0.942180    
+StrikeBatsmanHarmeet Singh         1.460e-01  2.441e-01   0.598 0.549729    
+StrikeBatsmanHarpreet Singh       -5.157e-01  2.329e-01  -2.214 0.026821 *  
+StrikeBatsmanHH Gibbs             -3.155e-01  7.090e-02  -4.450 8.58e-06 ***
+StrikeBatsmanHH Pandya            -1.538e-01  1.023e-01  -1.504 0.132591    
+StrikeBatsmanHM Amla              -6.612e-02  1.030e-01  -0.642 0.521048    
+StrikeBatsmanHV Patel             -1.549e-01  1.594e-01  -0.972 0.331069    
+StrikeBatsmanI Malhotra            8.717e-02  3.870e-01   0.225 0.821764    
+StrikeBatsmanI Sharma             -5.215e-01  1.763e-01  -2.958 0.003098 ** 
+StrikeBatsmanIC Pandey            -1.157e+01  1.221e+02  -0.095 0.924517    
+StrikeBatsmanIK Pathan            -1.768e-01  6.851e-02  -2.580 0.009874 ** 
+StrikeBatsmanImran Tahir          -5.133e-01  2.446e-01  -2.098 0.035892 *  
+StrikeBatsmanIqbal Abdulla        -2.953e-01  1.264e-01  -2.335 0.019520 *  
+StrikeBatsmanIR Jaggi             -7.347e-01  1.652e-01  -4.448 8.65e-06 ***
+StrikeBatsmanIshan Kishan         -3.542e-01  1.693e-01  -2.093 0.036392 *  
+StrikeBatsmanJ Arunkumar          -3.938e-01  2.234e-01  -1.762 0.078002 .  
+StrikeBatsmanJ Botha              -2.310e-01  8.035e-02  -2.875 0.004037 ** 
+StrikeBatsmanJ Suchith             1.164e-01  1.581e-01   0.736 0.461566    
+StrikeBatsmanJ Syed Mohammad      -3.074e-01  1.963e-01  -1.566 0.117318    
+StrikeBatsmanJ Theron             -6.344e-01  3.224e-01  -1.968 0.049121 *  
+StrikeBatsmanJ Yadav              -8.940e-01  4.132e-01  -2.164 0.030487 *  
+StrikeBatsmanJA Morkel            -6.742e-02  7.087e-02  -0.951 0.341447    
+StrikeBatsmanJaskaran Singh       -6.495e-01  3.594e-01  -1.807 0.070752 .  
+StrikeBatsmanJC Buttler           -8.844e-03  8.930e-02  -0.099 0.921105    
+StrikeBatsmanJD Ryder             -1.626e-02  7.640e-02  -0.213 0.831521    
+StrikeBatsmanJD Unadkat           -1.225e+00  5.808e-01  -2.110 0.034899 *  
+StrikeBatsmanJDP Oram             -4.285e-01  1.171e-01  -3.659 0.000253 ***
+StrikeBatsmanJDS Neesham          -3.857e-01  1.670e-01  -2.310 0.020907 *  
+StrikeBatsmanJE Taylor            -5.612e-01  5.813e-01  -0.965 0.334340    
+StrikeBatsmanJEC Franklin         -2.252e-01  8.401e-02  -2.681 0.007348 ** 
+StrikeBatsmanJH Kallis            -3.098e-01  6.561e-02  -4.722 2.34e-06 ***
+StrikeBatsmanJJ Bumrah            -7.983e-01  3.405e-01  -2.344 0.019060 *  
+StrikeBatsmanJJ van der Wath      -3.482e-01  2.446e-01  -1.423 0.154648    
+StrikeBatsmanJM Kemp              -3.306e-01  2.069e-01  -1.597 0.110203    
+StrikeBatsmanJO Holder            -1.031e-01  1.737e-01  -0.594 0.552628    
+StrikeBatsmanJoginder Sharma      -1.502e-01  1.788e-01  -0.840 0.400882    
+StrikeBatsmanJP Duminy            -1.252e-01  6.569e-02  -1.905 0.056737 .  
+StrikeBatsmanJP Faulkner          -6.529e-02  7.813e-02  -0.836 0.403335    
+StrikeBatsmanJR Hopes             -6.870e-02  7.921e-02  -0.867 0.385778    
+StrikeBatsmanK Goel               -4.621e-01  9.258e-02  -4.991 6.00e-07 ***
+StrikeBatsmanK Upadhyay           -3.102e-02  2.960e-01  -0.105 0.916544    
+StrikeBatsmanKA Pollard            3.923e-02  6.700e-02   0.586 0.558198    
+StrikeBatsmanKAJ Roach            -1.819e-01  3.226e-01  -0.564 0.572805    
+StrikeBatsmanKamran Akmal          1.413e-01  1.097e-01   1.287 0.197951    
+StrikeBatsmanKamran Khan          -8.809e-01  5.829e-01  -1.511 0.130719    
+StrikeBatsmanKaranveer Singh      -6.646e-01  2.958e-01  -2.247 0.024649 *  
+StrikeBatsmanKB Arun Karthik      -4.540e-01  1.540e-01  -2.948 0.003198 ** 
+StrikeBatsmanKC Cariappa          -1.443e-01  2.903e-01  -0.497 0.619160    
+StrikeBatsmanKC Sangakkara        -2.173e-01  6.634e-02  -3.275 0.001057 ** 
+StrikeBatsmanKD Karthik           -1.306e-01  6.498e-02  -2.010 0.044440 *  
+StrikeBatsmanKH Pandya             3.157e-01  9.103e-02   3.468 0.000524 ***
+StrikeBatsmanKJ Abbott             6.642e-02  2.848e-01   0.233 0.815576    
+StrikeBatsmanKK Cooper             1.790e-01  1.127e-01   1.588 0.112278    
+StrikeBatsmanKK Nair              -1.089e-01  7.109e-02  -1.532 0.125480    
+StrikeBatsmanKL Rahul             -1.642e-01  7.133e-02  -2.302 0.021357 *  
+StrikeBatsmanKM Jadhav            -4.048e-02  7.394e-02  -0.547 0.584093    
+StrikeBatsmanKMDN Kulasekara       1.568e-01  4.525e-01   0.347 0.728890    
+StrikeBatsmanKP Appanna           -1.076e+00  7.102e-01  -1.516 0.129645    
+StrikeBatsmanKP Pietersen         -4.444e-02  6.957e-02  -0.639 0.522986    
+StrikeBatsmanKS Williamson        -3.300e-01  1.006e-01  -3.280 0.001039 ** 
+StrikeBatsmanKV Sharma            -2.289e-01  8.593e-02  -2.664 0.007717 ** 
+StrikeBatsmanKW Richardson        -3.443e-01  1.788e-01  -1.926 0.054161 .  
+StrikeBatsmanL Ablish             -1.167e+01  1.221e+02  -0.096 0.923861    
+StrikeBatsmanL Balaji             -6.801e-01  1.782e-01  -3.816 0.000136 ***
+StrikeBatsmanL Ronchi             -3.707e-01  1.842e-01  -2.012 0.044190 *  
+StrikeBatsmanLA Carseldine        -2.325e-01  1.287e-01  -1.807 0.070832 .  
+StrikeBatsmanLA Pomersbach        -1.727e-01  8.598e-02  -2.009 0.044529 *  
+StrikeBatsmanLJ Wright             2.450e-01  1.167e-01   2.100 0.035745 *  
+StrikeBatsmanLMP Simmons          -6.589e-02  7.127e-02  -0.925 0.355160    
+StrikeBatsmanLPC Silva            -8.778e-02  1.721e-01  -0.510 0.610001    
+StrikeBatsmanLR Shukla            -1.995e-01  8.021e-02  -2.487 0.012894 *  
+StrikeBatsmanLRPL Taylor          -1.773e-01  6.955e-02  -2.550 0.010779 *  
+StrikeBatsmanM Ashwin             -1.172e+01  1.727e+02  -0.068 0.945862    
+StrikeBatsmanM de Lange           -9.891e-01  1.002e+00  -0.987 0.323771    
+StrikeBatsmanM Kaif               -3.796e-01  8.844e-02  -4.292 1.77e-05 ***
+StrikeBatsmanM Kartik             -2.434e-01  1.131e-01  -2.152 0.031404 *  
+StrikeBatsmanM Klinger            -4.023e-01  1.360e-01  -2.957 0.003102 ** 
+StrikeBatsmanM Manhas             -2.451e-01  7.651e-02  -3.203 0.001359 ** 
+StrikeBatsmanM Morkel             -1.159e-02  1.087e-01  -0.107 0.915061    
+StrikeBatsmanM Muralitharan       -7.699e-01  2.326e-01  -3.310 0.000931 ***
+StrikeBatsmanM Ntini              -8.011e-01  3.089e-01  -2.594 0.009500 ** 
+StrikeBatsmanM Rawat              -6.417e-01  1.493e-01  -4.299 1.71e-05 ***
+StrikeBatsmanM Vijay              -1.694e-01  6.572e-02  -2.577 0.009956 ** 
+StrikeBatsmanM Vohra              -1.152e-01  7.310e-02  -1.576 0.114925    
+StrikeBatsmanMA Agarwal           -1.642e-01  7.191e-02  -2.284 0.022392 *  
+StrikeBatsmanMA Khote             -2.765e-01  2.143e-01  -1.290 0.197035    
+StrikeBatsmanMA Starc             -4.054e-01  1.201e-01  -3.376 0.000735 ***
+StrikeBatsmanMandeep Singh        -1.609e-01  7.075e-02  -2.274 0.022950 *  
+StrikeBatsmanMashrafe Mortaza     -3.735e-01  7.110e-01  -0.525 0.599368    
+StrikeBatsmanMC Henriques         -1.395e-01  7.145e-02  -1.952 0.050893 .  
+StrikeBatsmanMC Juneja            -3.822e-01  1.092e-01  -3.499 0.000466 ***
+StrikeBatsmanMD Mishra            -2.452e-01  9.002e-02  -2.724 0.006459 ** 
+StrikeBatsmanMDKJ Perera          -1.588e-01  2.749e-01  -0.578 0.563471    
+StrikeBatsmanMEK Hussey           -1.828e-01  6.732e-02  -2.716 0.006610 ** 
+StrikeBatsmanMF Maharoof           6.668e-02  9.779e-02   0.682 0.495324    
+StrikeBatsmanMG Johnson           -3.699e-01  1.075e-01  -3.440 0.000581 ***
+StrikeBatsmanMisbah-ul-Haq        -8.875e-02  1.127e-01  -0.787 0.431099    
+StrikeBatsmanMJ Clarke            -2.387e-01  1.200e-01  -1.989 0.046725 *  
+StrikeBatsmanMJ Guptill           -2.348e-01  1.471e-01  -1.596 0.110486    
+StrikeBatsmanMJ Lumb               6.749e-03  8.776e-02   0.077 0.938695    
+StrikeBatsmanMJ McClenaghan        2.089e-01  1.601e-01   1.304 0.192074    
+StrikeBatsmanMK Pandey            -1.870e-01  6.670e-02  -2.803 0.005059 ** 
+StrikeBatsmanMK Tiwary            -2.228e-01  6.823e-02  -3.265 0.001095 ** 
+StrikeBatsmanML Hayden            -7.858e-02  7.058e-02  -1.113 0.265540    
+StrikeBatsmanMM Patel             -3.783e-01  1.727e-01  -2.190 0.028537 *  
+StrikeBatsmanMM Sharma            -1.726e-01  1.434e-01  -1.204 0.228701    
+StrikeBatsmanMN Samuels           -3.762e-01  1.083e-01  -3.472 0.000516 ***
+StrikeBatsmanMN van Wyk           -8.367e-02  1.006e-01  -0.831 0.405707    
+StrikeBatsmanMohammad Ashraful    -2.141e+00  7.105e-01  -3.013 0.002584 ** 
+StrikeBatsmanMohammad Asif        -9.787e-01  5.809e-01  -1.685 0.091999 .  
+StrikeBatsmanMohammad Hafeez      -6.804e-01  1.408e-01  -4.831 1.36e-06 ***
+StrikeBatsmanMohammed Shami       -1.048e+00  3.231e-01  -3.244 0.001178 ** 
+StrikeBatsmanMP Stoinis           -7.966e-02  1.045e-01  -0.763 0.445753    
+StrikeBatsmanMR Marsh             -1.753e-01  9.189e-02  -1.908 0.056385 .  
+StrikeBatsmanMS Bisla             -2.317e-01  7.181e-02  -3.226 0.001254 ** 
+StrikeBatsmanMS Dhoni             -7.748e-02  6.587e-02  -1.176 0.239489    
+StrikeBatsmanMS Gony              -8.792e-02  1.187e-01  -0.740 0.459033    
+StrikeBatsmanMS Wade              -7.064e-01  2.230e-01  -3.168 0.001535 ** 
+StrikeBatsmanMV Boucher           -1.856e-01  8.070e-02  -2.300 0.021457 *  
+StrikeBatsmanN Rana               -7.309e-02  1.175e-01  -0.622 0.533913    
+StrikeBatsmanN Saini              -4.180e-01  1.062e-01  -3.937 8.25e-05 ***
+StrikeBatsmanND Doshi             -1.170e+01  4.782e+01  -0.245 0.806728    
+StrikeBatsmanNJ Maddinson         -3.760e-01  2.329e-01  -1.614 0.106470    
+StrikeBatsmanNJ Rimmington        -2.843e-01  1.003e+00  -0.284 0.776747    
+StrikeBatsmanNK Patel             -4.194e-01  1.114e-01  -3.764 0.000167 ***
+StrikeBatsmanNL McCullum          -1.357e-01  2.067e-01  -0.656 0.511579    
+StrikeBatsmanNLTC Perera          -8.150e-02  7.806e-02  -1.044 0.296474    
+StrikeBatsmanNM Coulter-Nile      -3.414e-01  1.741e-01  -1.961 0.049923 *  
+StrikeBatsmanNS Naik              -6.787e-01  2.187e-01  -3.103 0.001914 ** 
+StrikeBatsmanNV Ojha              -2.015e-01  6.641e-02  -3.034 0.002416 ** 
+StrikeBatsmanOA Shah              -1.276e-01  7.707e-02  -1.656 0.097711 .  
+StrikeBatsmanP Awana              -1.378e+00  4.518e-01  -3.050 0.002291 ** 
+StrikeBatsmanP Dogra              -5.244e-01  1.094e-01  -4.794 1.64e-06 ***
+StrikeBatsmanP Kumar              -3.171e-01  8.278e-02  -3.830 0.000128 ***
+StrikeBatsmanP Negi               -1.383e-01  9.383e-02  -1.474 0.140538    
+StrikeBatsmanP Parameswaran       -1.626e+00  1.003e+00  -1.621 0.104968    
+StrikeBatsmanP Sahu                3.985e-02  2.399e-01   0.166 0.868052    
+StrikeBatsmanPA Patel             -2.330e-01  6.566e-02  -3.548 0.000388 ***
+StrikeBatsmanPA Reddy             -3.490e-01  9.900e-02  -3.525 0.000423 ***
+StrikeBatsmanPankaj Singh         -9.407e-01  3.833e-01  -2.454 0.014121 *  
+StrikeBatsmanParvez Rasool        -4.119e-01  2.506e-01  -1.644 0.100196    
+StrikeBatsmanPC Valthaty          -1.960e-01  7.709e-02  -2.543 0.010991 *  
+StrikeBatsmanPD Collingwood       -9.755e-02  9.435e-02  -1.034 0.301163    
+StrikeBatsmanPJ Cummins           -1.163e+01  1.220e+02  -0.095 0.924092    
+StrikeBatsmanPJ Sangwan           -7.023e-01  2.225e-01  -3.156 0.001599 ** 
+StrikeBatsmanPM Sarvesh Kumar     -1.027e+00  1.002e+00  -1.024 0.305663    
+StrikeBatsmanPP Chawla            -2.337e-01  7.661e-02  -3.050 0.002287 ** 
+StrikeBatsmanPP Ojha              -1.339e+00  2.577e-01  -5.194 2.05e-07 ***
+StrikeBatsmanPR Shah              -4.217e-01  1.225e-01  -3.444 0.000574 ***
+StrikeBatsmanPSP Handscomb        -1.056e+00  4.141e-01  -2.550 0.010766 *  
+StrikeBatsmanPV Tambe             -1.102e+00  2.444e-01  -4.510 6.48e-06 ***
+StrikeBatsmanQ de Kock            -3.179e-02  7.261e-02  -0.438 0.661467    
+StrikeBatsmanR Ashwin             -4.195e-01  9.151e-02  -4.584 4.57e-06 ***
+StrikeBatsmanR Bhatia             -1.295e-01  8.329e-02  -1.555 0.119922    
+StrikeBatsmanR Bishnoi            -3.125e-01  2.402e-01  -1.301 0.193323    
+StrikeBatsmanR Dhawan             -2.164e-01  1.024e-01  -2.114 0.034494 *  
+StrikeBatsmanR Dravid             -2.502e-01  6.617e-02  -3.781 0.000156 ***
+StrikeBatsmanR McLaren            -4.536e-01  1.015e-01  -4.470 7.83e-06 ***
+StrikeBatsmanR Ninan              -9.900e-01  5.810e-01  -1.704 0.088364 .  
+StrikeBatsmanR Rampaul            -4.063e-01  1.537e-01  -2.644 0.008196 ** 
+StrikeBatsmanR Sathish            -1.947e-01  8.708e-02  -2.236 0.025366 *  
+StrikeBatsmanR Sharma             -5.002e-01  1.383e-01  -3.616 0.000299 ***
+StrikeBatsmanR Shukla             -4.370e-01  2.381e-01  -1.835 0.066489 .  
+StrikeBatsmanR Tewatia            -1.754e-01  2.591e-01  -0.677 0.498397    
+StrikeBatsmanR Vinay Kumar        -2.914e-01  8.502e-02  -3.427 0.000610 ***
+StrikeBatsmanRA Jadeja            -1.938e-01  6.751e-02  -2.870 0.004104 ** 
+StrikeBatsmanRE Levi              -1.229e-01  1.270e-01  -0.968 0.333048    
+StrikeBatsmanRE van der Merwe     -2.601e-01  1.010e-01  -2.574 0.010041 *  
+StrikeBatsmanRG More              -4.276e-01  7.108e-01  -0.602 0.547476    
+StrikeBatsmanRG Sharma            -7.799e-02  6.435e-02  -1.212 0.225578    
+StrikeBatsmanRJ Harris            -3.569e-01  1.116e-01  -3.199 0.001380 ** 
+StrikeBatsmanRJ Peterson          -2.942e-01  1.884e-01  -1.562 0.118399    
+StrikeBatsmanRJ Quiney            -3.650e-01  1.177e-01  -3.101 0.001930 ** 
+StrikeBatsmanRN ten Doeschate     -6.466e-03  8.392e-02  -0.077 0.938581    
+StrikeBatsmanRP Singh             -7.278e-01  1.520e-01  -4.787 1.69e-06 ***
+StrikeBatsmanRR Bhatkal           -1.163e+01  1.221e+02  -0.095 0.924113    
+StrikeBatsmanRR Pant               9.038e-03  9.511e-02   0.095 0.924298    
+StrikeBatsmanRR Powar             -3.139e-01  1.377e-01  -2.280 0.022580 *  
+StrikeBatsmanRR Raje              -2.370e-01  2.329e-01  -1.018 0.308898    
+StrikeBatsmanRR Rossouw           -2.925e-01  1.512e-01  -1.934 0.053139 .  
+StrikeBatsmanRR Sarwan            -5.216e-01  1.346e-01  -3.875 0.000106 ***
+StrikeBatsmanRS Bopara            -2.108e-01  7.550e-02  -2.792 0.005231 ** 
+StrikeBatsmanRS Gavaskar          -1.636e+00  7.162e-01  -2.284 0.022362 *  
+StrikeBatsmanRS Sodhi              5.248e-01  5.044e-01   1.041 0.298041    
+StrikeBatsmanRT Ponting           -6.630e-01  1.228e-01  -5.397 6.77e-08 ***
+StrikeBatsmanRV Gomez             -3.529e-01  1.569e-01  -2.249 0.024542 *  
+StrikeBatsmanRV Uthappa           -9.299e-02  6.466e-02  -1.438 0.150400    
+StrikeBatsmanS Anirudha           -2.444e-01  1.071e-01  -2.281 0.022565 *  
+StrikeBatsmanS Aravind            -8.378e-02  2.034e-01  -0.412 0.680353    
+StrikeBatsmanS Badrinath          -2.372e-01  6.900e-02  -3.438 0.000585 ***
+StrikeBatsmanS Chanderpaul        -6.482e-01  2.138e-01  -3.032 0.002431 ** 
+StrikeBatsmanS Dhawan             -1.909e-01  6.306e-02  -3.027 0.002467 ** 
+StrikeBatsmanS Gopal              -9.697e-01  2.752e-01  -3.524 0.000425 ***
+StrikeBatsmanS Kaul               -5.022e-01  3.393e-01  -1.480 0.138899    
+StrikeBatsmanS Kaushik            -1.142e+01  1.727e+02  -0.066 0.947244    
+StrikeBatsmanS Ladda              -1.166e+01  5.454e+01  -0.214 0.830710    
+StrikeBatsmanS Nadeem             -1.193e+00  2.135e-01  -5.590 2.28e-08 ***
+StrikeBatsmanS Narwal             -1.766e-01  1.770e-01  -0.998 0.318341    
+StrikeBatsmanS Rana               -2.855e-01  1.223e-01  -2.333 0.019626 *  
+StrikeBatsmanS Randiv             -8.635e-01  7.103e-01  -1.216 0.224090    
+StrikeBatsmanS Sohal              -2.221e-01  8.158e-02  -2.722 0.006491 ** 
+StrikeBatsmanS Sreesanth          -8.630e-01  1.829e-01  -4.718 2.38e-06 ***
+StrikeBatsmanS Sriram             -5.908e-01  1.909e-01  -3.095 0.001970 ** 
+StrikeBatsmanS Tyagi              -6.656e-01  5.813e-01  -1.145 0.252197    
+StrikeBatsmanS Vidyut             -1.690e-01  1.057e-01  -1.600 0.109597    
+StrikeBatsmanSA Abbott            -1.814e-01  2.660e-01  -0.682 0.495304    
+StrikeBatsmanSA Asnodkar          -2.216e-01  8.035e-02  -2.758 0.005811 ** 
+StrikeBatsmanSA Yadav             -5.881e-02  7.729e-02  -0.761 0.446738    
+StrikeBatsmanSachin Baby          -6.492e-02  1.106e-01  -0.587 0.557319    
+StrikeBatsmanSalman Butt          -2.017e-01  9.604e-02  -2.100 0.035727 *  
+StrikeBatsmanSandeep Sharma       -7.225e-01  2.391e-01  -3.022 0.002510 ** 
+StrikeBatsmanSandeep Sharma (1)   -1.178e+01  1.727e+02  -0.068 0.945608    
+StrikeBatsmanSB Bangar            -6.047e-01  1.562e-01  -3.870 0.000109 ***
+StrikeBatsmanSB Jakati            -3.783e-01  1.997e-01  -1.894 0.058224 .  
+StrikeBatsmanSB Joshi             -1.375e+00  4.133e-01  -3.328 0.000875 ***
+StrikeBatsmanSB Styris            -4.116e-01  1.079e-01  -3.816 0.000136 ***
+StrikeBatsmanSB Wagh              -6.047e-01  7.102e-01  -0.851 0.394505    
+StrikeBatsmanSC Ganguly           -3.021e-01  6.843e-02  -4.415 1.01e-05 ***
+StrikeBatsmanSD Chitnis           -3.231e-01  1.187e-01  -2.723 0.006469 ** 
+StrikeBatsmanSE Bond              -9.214e-01  1.005e+00  -0.917 0.359231    
+StrikeBatsmanSE Marsh             -1.172e-01  6.641e-02  -1.765 0.077555 .  
+StrikeBatsmanShahid Afridi         1.290e-01  1.283e-01   1.005 0.314891    
+StrikeBatsmanShakib Al Hasan      -9.778e-02  7.737e-02  -1.264 0.206316    
+StrikeBatsmanShivam Sharma         2.092e-01  4.525e-01   0.462 0.643921    
+StrikeBatsmanShoaib Ahmed         -2.135e+00  1.002e+00  -2.130 0.033134 *  
+StrikeBatsmanShoaib Akhtar        -1.662e+00  7.161e-01  -2.321 0.020278 *  
+StrikeBatsmanShoaib Malik         -2.581e-01  1.527e-01  -1.691 0.090922 .  
+StrikeBatsmanSJ Srivastava        -2.895e-01  4.519e-01  -0.641 0.521730    
+StrikeBatsmanSK Raina             -7.604e-02  6.540e-02  -1.163 0.244966    
+StrikeBatsmanSK Trivedi           -7.649e-01  1.671e-01  -4.579 4.67e-06 ***
+StrikeBatsmanSK Warne             -5.356e-01  9.582e-02  -5.590 2.27e-08 ***
+StrikeBatsmanSL Malinga           -5.215e-01  1.279e-01  -4.077 4.56e-05 ***
+StrikeBatsmanSM Harwood           -8.273e-01  3.399e-01  -2.434 0.014950 *  
+StrikeBatsmanSM Katich            -1.671e-01  9.060e-02  -1.845 0.065108 .  
+StrikeBatsmanSM Pollock           -1.592e-01  1.045e-01  -1.524 0.127494    
+StrikeBatsmanSMSM Senanayake      -8.184e-01  3.226e-01  -2.537 0.011177 *  
+StrikeBatsmanSN Khan               1.630e-01  9.823e-02   1.660 0.096965 .  
+StrikeBatsmanSN Thakur            -1.948e-01  3.844e-01  -0.507 0.612371    
+StrikeBatsmanSohail Tanvir        -2.604e-01  1.792e-01  -1.453 0.146105    
+StrikeBatsmanSP Fleming           -2.497e-01  9.644e-02  -2.589 0.009617 ** 
+StrikeBatsmanSP Goswami           -4.742e-01  9.000e-02  -5.269 1.37e-07 ***
+StrikeBatsmanSP Narine            -4.953e-01  1.590e-01  -3.115 0.001837 ** 
+StrikeBatsmanSPD Smith            -4.909e-02  6.894e-02  -0.712 0.476387    
+StrikeBatsmanSR Tendulkar         -1.953e-01  6.638e-02  -2.942 0.003256 ** 
+StrikeBatsmanSR Watson            -6.099e-02  6.632e-02  -0.920 0.357719    
+StrikeBatsmanSS Iyer              -1.513e-01  7.799e-02  -1.939 0.052444 .  
+StrikeBatsmanSS Shaikh            -4.080e-01  4.139e-01  -0.986 0.324316    
+StrikeBatsmanSS Tiwary            -2.133e-01  6.835e-02  -3.121 0.001802 ** 
+StrikeBatsmanST Jayasuriya        -4.690e-02  7.312e-02  -0.641 0.521266    
+StrikeBatsmanSTR Binny            -1.212e-01  7.386e-02  -1.642 0.100663    
+StrikeBatsmanSunny Gupta          -1.167e+01  1.727e+02  -0.068 0.946126    
+StrikeBatsmanSunny Singh          -4.143e-02  1.655e-01  -0.250 0.802329    
+StrikeBatsmanSV Samson            -1.840e-01  6.995e-02  -2.630 0.008526 ** 
+StrikeBatsmanSW Billings          -1.418e-02  1.242e-01  -0.114 0.909132    
+StrikeBatsmanSW Tait              -5.498e-01  2.184e-01  -2.518 0.011817 *  
+StrikeBatsmanSwapnil Singh        -1.171e+01  1.727e+02  -0.068 0.945925    
+StrikeBatsmanT Henderson          -7.499e-01  3.083e-01  -2.432 0.015011 *  
+StrikeBatsmanT Kohli              -9.860e-01  3.099e-01  -3.182 0.001463 ** 
+StrikeBatsmanT Taibu              -1.554e-01  1.907e-01  -0.815 0.415186    
+StrikeBatsmanT Thushara           -7.927e-01  2.959e-01  -2.679 0.007392 ** 
+StrikeBatsmanTD Paine             -1.357e+00  3.231e-01  -4.200 2.67e-05 ***
+StrikeBatsmanTG Southee            2.586e-02  1.589e-01   0.163 0.870675    
+StrikeBatsmanTL Suman             -2.137e-01  7.314e-02  -2.921 0.003487 ** 
+StrikeBatsmanTM Dilshan           -2.489e-01  6.878e-02  -3.620 0.000295 ***
+StrikeBatsmanTM Head              -1.351e-01  1.506e-01  -0.897 0.369515    
+StrikeBatsmanTM Srivastava        -7.324e-01  3.605e-01  -2.032 0.042185 *  
+StrikeBatsmanTR Birt              -7.022e-02  1.315e-01  -0.534 0.593400    
+StrikeBatsmanU Kaul               -1.170e+01  1.727e+02  -0.068 0.945957    
+StrikeBatsmanUA Birla             -9.978e-01  3.837e-01  -2.601 0.009301 ** 
+StrikeBatsmanUBT Chand            -3.445e-01  8.480e-02  -4.063 4.85e-05 ***
+StrikeBatsmanUmar Gul              4.006e-01  1.728e-01   2.318 0.020461 *  
+StrikeBatsmanUT Khawaja           -1.431e-01  1.117e-01  -1.281 0.200080    
+StrikeBatsmanUT Yadav             -2.632e-01  1.256e-01  -2.096 0.036082 *  
+StrikeBatsmanV Kohli              -1.437e-01  6.470e-02  -2.221 0.026340 *  
+StrikeBatsmanV Pratap Singh       -1.152e+01  1.727e+02  -0.067 0.946812    
+StrikeBatsmanV Sehwag              7.483e-02  6.494e-02   1.152 0.249186    
+StrikeBatsmanVH Zol               -2.731e-01  1.965e-01  -1.390 0.164522    
+StrikeBatsmanVR Aaron             -4.256e-01  1.667e-01  -2.552 0.010706 *  
+StrikeBatsmanVRV Singh            -6.982e-02  5.043e-01  -0.138 0.889882    
+StrikeBatsmanVS Malik             -3.346e-01  3.834e-01  -0.873 0.382853    
+StrikeBatsmanVS Yeligati          -5.059e-01  7.113e-01  -0.711 0.476910    
+StrikeBatsmanVVS Laxman           -3.543e-01  8.631e-02  -4.105 4.04e-05 ***
+StrikeBatsmanVY Mahesh            -9.234e-01  2.658e-01  -3.474 0.000513 ***
+StrikeBatsmanW Jaffer             -4.464e-01  1.084e-01  -4.119 3.81e-05 ***
+StrikeBatsmanWA Mota              -6.657e-01  1.480e-01  -4.499 6.83e-06 ***
+StrikeBatsmanWD Parnell           -4.938e-01  1.415e-01  -3.489 0.000486 ***
+StrikeBatsmanWP Saha              -9.182e-02  6.815e-02  -1.347 0.177904    
+StrikeBatsmanWPUJC Vaas           -3.236e-01  1.283e-01  -2.523 0.011647 *  
+StrikeBatsmanX Thalaivan Sargunam -8.630e-01  3.224e-01  -2.677 0.007433 ** 
+StrikeBatsmanY Gnaneswara Rao     -2.102e-01  2.395e-01  -0.878 0.380085    
+StrikeBatsmanY Nagar              -2.539e-01  8.603e-02  -2.951 0.003172 ** 
+StrikeBatsmanY Venugopal Rao      -2.204e-01  6.926e-02  -3.182 0.001462 ** 
+StrikeBatsmanYA Abdulla           -1.176e+01  1.727e+02  -0.068 0.945690    
+StrikeBatsmanYashpal Singh        -7.033e-01  1.593e-01  -4.413 1.02e-05 ***
+StrikeBatsmanYK Pathan             4.157e-03  6.534e-02   0.064 0.949272    
+StrikeBatsmanYounis Khan          -1.222e+00  5.811e-01  -2.103 0.035476 *  
+StrikeBatsmanYS Chahal            -7.815e-01  7.101e-01  -1.101 0.271095    
+StrikeBatsmanYuvraj Singh         -1.037e-01  6.509e-02  -1.593 0.111189    
+StrikeBatsmanYV Takawale          -2.599e-01  9.576e-02  -2.714 0.006656 ** 
+StrikeBatsmanZ Khan               -4.706e-01  1.130e-01  -4.163 3.14e-05 ***
+BowlerA Chandila                  -3.065e-01  8.270e-02  -3.706 0.000211 ***
+BowlerA Flintoff                   1.416e-01  1.106e-01   1.280 0.200636    
+BowlerA Kumble                    -3.036e-01  6.031e-02  -5.034 4.79e-07 ***
+BowlerA Mishra                    -2.077e-01  5.465e-02  -3.802 0.000144 ***
+BowlerA Mithun                     3.863e-02  7.006e-02   0.551 0.581323    
+BowlerA Nehra                     -1.649e-01  5.559e-02  -2.966 0.003019 ** 
+BowlerA Nel                        2.609e-01  1.873e-01   1.393 0.163667    
+BowlerA Singh                     -8.708e-02  6.578e-02  -1.324 0.185553    
+BowlerA Symonds                   -1.205e-01  6.467e-02  -1.862 0.062535 .  
+BowlerA Uniyal                     1.593e-01  1.357e-01   1.174 0.240318    
+BowlerA Zampa                     -3.189e-01  1.089e-01  -2.929 0.003400 ** 
+BowlerAA Chavan                   -1.328e-01  7.671e-02  -1.731 0.083537 .  
+BowlerAA Jhunjhunwala             -9.668e-03  1.035e-01  -0.093 0.925568    
+BowlerAA Kazi                      1.069e-01  2.312e-01   0.462 0.643809    
+BowlerAA Noffke                    8.104e-02  1.777e-01   0.456 0.648337    
+BowlerAB Agarkar                  -2.741e-02  5.960e-02  -0.460 0.645640    
+BowlerAB Dinda                    -1.335e-01  5.638e-02  -2.368 0.017893 *  
+BowlerAB McDonald                 -1.189e-03  8.088e-02  -0.015 0.988271    
+BowlerAbdur Razzak                 1.621e-01  2.159e-01   0.751 0.452624    
+BowlerAC Gilchrist                -1.176e+01  1.727e+02  -0.068 0.945699    
+BowlerAC Thomas                   -1.462e-01  7.215e-02  -2.026 0.042777 *  
+BowlerAC Voges                    -5.848e-02  1.277e-01  -0.458 0.646936    
+BowlerAD Mascarenhas              -2.115e-01  7.454e-02  -2.837 0.004551 ** 
+BowlerAD Mathews                  -1.049e-01  6.039e-02  -1.737 0.082342 .  
+BowlerAD Russell                  -1.043e-01  6.174e-02  -1.689 0.091163 .  
+BowlerAF Milne                     4.290e-02  1.711e-01   0.251 0.802040    
+BowlerAG Murtaza                  -2.210e-01  7.727e-02  -2.860 0.004238 ** 
+BowlerAJ Finch                     1.004e-01  1.346e-01   0.746 0.455564    
+BowlerAL Menaria                  -1.440e-01  1.004e-01  -1.434 0.151474    
+BowlerAM Nayar                    -8.640e-02  7.676e-02  -1.126 0.260310    
+BowlerAM Rahane                   -5.094e-01  4.525e-01  -1.126 0.260266    
+BowlerAM Salvi                    -1.070e-01  8.983e-02  -1.192 0.233446    
+BowlerAN Ahmed                    -1.085e-01  6.921e-02  -1.568 0.116947    
+BowlerAnand Rajan                 -1.865e-01  8.937e-02  -2.087 0.036875 *  
+BowlerAnkit Sharma                -2.713e-01  7.150e-02  -3.795 0.000148 ***
+BowlerAnureet Singh               -1.106e-01  6.735e-02  -1.643 0.100437    
+BowlerAP Dole                     -7.755e-03  1.106e-01  -0.070 0.944106    
+BowlerAR Patel                    -2.402e-01  5.931e-02  -4.049 5.14e-05 ***
+BowlerAS Rajpoot                  -1.572e-01  1.048e-01  -1.501 0.133421    
+BowlerAS Raut                      4.091e-02  1.622e-01   0.252 0.800802    
+BowlerAUK Pathan                   1.511e-02  1.427e-01   0.106 0.915682    
+BowlerAzhar Mahmood               -1.455e-01  6.421e-02  -2.266 0.023425 *  
+BowlerB Akhil                     -1.543e-01  8.324e-02  -1.854 0.063750 .  
+BowlerB Brainder Sran             -6.203e-02  1.934e-01  -0.321 0.748417    
+BowlerB Chipli                     6.830e-01  2.303e-01   2.965 0.003023 ** 
+BowlerB Geeves                     2.775e-01  1.187e-01   2.339 0.019336 *  
+BowlerB Kumar                     -2.892e-01  5.633e-02  -5.135 2.83e-07 ***
+BowlerB Laughlin                  -1.210e-02  1.323e-01  -0.091 0.927122    
+BowlerB Lee                       -1.967e-01  6.012e-02  -3.272 0.001068 ** 
+BowlerBA Bhatt                    -5.486e-02  7.240e-02  -0.758 0.448629    
+BowlerBAW Mendis                  -2.206e-01  7.799e-02  -2.828 0.004684 ** 
+BowlerBB Sran                     -1.342e-01  7.239e-02  -1.854 0.063781 .  
+BowlerBCJ Cutting                 -1.865e-01  1.088e-01  -1.714 0.086465 .  
+BowlerBE Hendricks                -3.228e-02  8.446e-02  -0.382 0.702327    
+BowlerBipul Sharma                -1.320e-01  7.059e-02  -1.870 0.061419 .  
+BowlerBJ Hodge                    -1.128e-01  7.837e-02  -1.439 0.150142    
+BowlerBJ Rohrer                    1.685e-01  3.063e-01   0.550 0.582392    
+BowlerBMAJ Mendis                 -1.341e-01  1.753e-01  -0.765 0.444309    
+BowlerBW Hilfenhaus               -1.907e-01  6.962e-02  -2.740 0.006149 ** 
+BowlerC Ganapathy                  4.688e-01  2.824e-01   1.660 0.096944 .  
+BowlerC Munro                     -8.436e-02  2.650e-01  -0.318 0.750262    
+BowlerC Nanda                     -2.895e-01  1.448e-01  -1.999 0.045583 *  
+BowlerCH Gayle                    -1.725e-01  6.447e-02  -2.675 0.007475 ** 
+BowlerCH Morris                   -2.407e-01  6.045e-02  -3.981 6.86e-05 ***
+BowlerCJ Anderson                  5.031e-02  8.643e-02   0.582 0.560518    
+BowlerCJ Jordan                   -1.055e-01  8.345e-02  -1.264 0.206196    
+BowlerCJ McKay                    -2.072e-02  1.393e-01  -0.149 0.881749    
+BowlerCK Kapugedera                7.769e-01  1.539e-01   5.046 4.50e-07 ***
+BowlerCK Langeveldt               -2.563e-01  9.124e-02  -2.809 0.004968 ** 
+BowlerCL White                     2.086e-01  1.230e-01   1.697 0.089736 .  
+BowlerCR Brathwaite               -1.806e-01  9.126e-02  -1.978 0.047882 *  
+BowlerCRD Fernando                -2.010e-01  7.941e-02  -2.531 0.011374 *  
+BowlerD du Preez                  -9.296e-02  1.448e-01  -0.642 0.520918    
+BowlerD Kalyankrishna              1.904e-01  1.206e-01   1.579 0.114342    
+BowlerD Salunkhe                  -7.602e-02  1.305e-01  -0.583 0.560124    
+BowlerD Wiese                     -8.126e-02  7.238e-02  -1.123 0.261567    
+BowlerDAJ Bracewell               -2.094e-01  1.882e-01  -1.113 0.265862    
+BowlerDB Ravi Teja                 9.433e-02  1.965e-01   0.480 0.631292    
+BowlerDE Bollinger                -2.291e-01  6.455e-02  -3.549 0.000386 ***
+BowlerDJ Bravo                    -1.338e-01  5.491e-02  -2.437 0.014793 *  
+BowlerDJ Harris                   -4.493e-03  2.033e-01  -0.022 0.982365    
+BowlerDJ Hooda                    -1.763e-01  8.562e-02  -2.059 0.039500 *  
+BowlerDJ Hussey                   -1.211e-02  6.935e-02  -0.175 0.861354    
+BowlerDJ Muthuswami               -2.108e-01  1.121e-01  -1.880 0.060111 .  
+BowlerDJ Thornely                 -3.426e-01  1.728e-01  -1.982 0.047446 *  
+BowlerDJG Sammy                   -3.555e-02  7.479e-02  -0.475 0.634612    
+BowlerDL Chahar                   -2.613e-01  1.735e-01  -1.506 0.132026    
+BowlerDL Vettori                  -2.190e-01  6.164e-02  -3.553 0.000381 ***
+BowlerDNT Zoysa                    4.539e-02  1.162e-01   0.391 0.696141    
+BowlerDP Nannes                   -2.189e-01  6.358e-02  -3.444 0.000574 ***
+BowlerDP Vijaykumar               -1.145e-01  9.047e-02  -1.265 0.205845    
+BowlerDR Smith                    -7.186e-02  6.498e-02  -1.106 0.268759    
+BowlerDS Kulkarni                 -1.947e-01  5.710e-02  -3.409 0.000652 ***
+BowlerDT Christian                -1.202e-01  6.555e-02  -1.833 0.066755 .  
+BowlerDW Steyn                    -3.296e-01  5.561e-02  -5.928 3.07e-09 ***
+BowlerF du Plessis                 7.425e-01  2.737e-01   2.713 0.006677 ** 
+BowlerFH Edwards                  -3.408e-01  9.840e-02  -3.463 0.000534 ***
+BowlerFY Fazal                     2.633e-01  2.300e-01   1.145 0.252364    
+BowlerGagandeep Singh              1.443e-01  9.939e-02   1.452 0.146621    
+BowlerGB Hogg                     -1.968e-01  6.685e-02  -2.944 0.003238 ** 
+BowlerGD McGrath                  -2.041e-01  7.488e-02  -2.725 0.006423 ** 
+BowlerGH Vihari                   -3.597e-01  1.726e-01  -2.084 0.037120 *  
+BowlerGJ Maxwell                   3.469e-02  7.495e-02   0.463 0.643513    
+BowlerGR Napier                   -2.484e-01  2.012e-01  -1.235 0.216878    
+BowlerGS Sandhu                    1.342e-01  1.223e-01   1.098 0.272306    
+BowlerGurkeerat Singh             -2.706e-01  1.161e-01  -2.331 0.019762 *  
+BowlerHarbhajan Singh             -2.707e-01  5.446e-02  -4.971 6.67e-07 ***
+BowlerHarmeet Singh               -1.201e-01  6.386e-02  -1.880 0.060045 .  
+BowlerHH Pandya                   -3.658e-03  7.632e-02  -0.048 0.961767    
+BowlerHV Patel                    -1.020e-01  6.124e-02  -1.666 0.095719 .  
+BowlerI Malhotra                   8.227e-01  2.157e-01   3.814 0.000136 ***
+BowlerI Sharma                    -1.363e-01  5.615e-02  -2.427 0.015234 *  
+BowlerIC Pandey                   -1.879e-01  6.614e-02  -2.841 0.004495 ** 
+BowlerIK Pathan                   -1.339e-01  5.508e-02  -2.431 0.015072 *  
+BowlerImran Tahir                 -1.256e-01  6.602e-02  -1.902 0.057138 .  
+BowlerIqbal Abdulla               -2.155e-01  6.014e-02  -3.584 0.000339 ***
+BowlerJ Botha                     -2.358e-01  6.266e-02  -3.764 0.000167 ***
+BowlerJ Suchith                   -5.530e-02  7.382e-02  -0.749 0.453781    
+BowlerJ Syed Mohammad              1.142e-02  7.946e-02   0.144 0.885680    
+BowlerJ Theron                    -1.607e-01  7.845e-02  -2.049 0.040469 *  
+BowlerJ Yadav                     -3.677e-01  9.721e-02  -3.783 0.000155 ***
+BowlerJA Morkel                   -1.177e-01  5.556e-02  -2.119 0.034061 *  
+BowlerJaskaran Singh               6.537e-02  9.449e-02   0.692 0.489064    
+BowlerJD Ryder                    -1.140e-01  7.787e-02  -1.464 0.143119    
+BowlerJD Unadkat                  -4.816e-02  6.059e-02  -0.795 0.426739    
+BowlerJDP Oram                     4.870e-02  7.558e-02   0.644 0.519366    
+BowlerJDS Neesham                  2.398e-02  1.186e-01   0.202 0.839707    
+BowlerJE Taylor                   -1.372e-01  9.616e-02  -1.427 0.153647    
+BowlerJEC Franklin                -1.704e-02  8.547e-02  -0.199 0.841995    
+BowlerJH Kallis                   -1.424e-01  5.561e-02  -2.561 0.010438 *  
+BowlerJJ Bumrah                   -1.304e-01  6.105e-02  -2.137 0.032606 *  
+BowlerJJ van der Wath              1.339e-01  1.036e-01   1.292 0.196389    
+BowlerJM Kemp                     -1.651e-01  1.512e-01  -1.092 0.274802    
+BowlerJO Holder                   -8.005e-02  7.814e-02  -1.025 0.305588    
+BowlerJoginder Sharma              5.842e-02  7.191e-02   0.812 0.416556    
+BowlerJP Duminy                   -2.468e-01  6.285e-02  -3.927 8.60e-05 ***
+BowlerJP Faulkner                 -1.086e-01  5.762e-02  -1.884 0.059519 .  
+BowlerJR Hopes                     3.481e-02  6.730e-02   0.517 0.604957    
+BowlerJW Hastings                 -3.310e-01  1.366e-01  -2.423 0.015412 *  
+BowlerK Goel                      -3.406e-02  1.165e-01  -0.292 0.770038    
+BowlerK Santokie                   1.234e-01  1.196e-01   1.032 0.302008    
+BowlerK Upadhyay                  -2.289e-02  1.239e-01  -0.185 0.853419    
+BowlerKA Pollard                  -8.171e-02  5.690e-02  -1.436 0.151005    
+BowlerKAJ Roach                    8.287e-02  1.293e-01   0.641 0.521651    
+BowlerKamran Khan                 -1.215e-01  8.440e-02  -1.440 0.149920    
+BowlerKaranveer Singh             -1.470e-02  7.719e-02  -0.190 0.848922    
+BowlerKC Cariappa                  8.959e-03  9.091e-02   0.099 0.921498    
+BowlerKH Pandya                   -2.594e-01  8.453e-02  -3.069 0.002146 ** 
+BowlerKJ Abbott                    9.979e-02  9.291e-02   1.074 0.282777    
+BowlerKK Cooper                   -1.538e-01  6.351e-02  -2.422 0.015445 *  
+BowlerKMDN Kulasekara             -2.635e-01  1.076e-01  -2.449 0.014315 *  
+BowlerKP Appanna                  -1.162e-01  7.933e-02  -1.465 0.142956    
+BowlerKP Pietersen                -2.219e-01  8.698e-02  -2.551 0.010728 *  
+BowlerKS Williamson               -9.891e-02  3.906e-01  -0.253 0.800114    
+BowlerKuldeep Yadav               -1.469e-01  1.164e-01  -1.262 0.206979    
+BowlerKV Sharma                   -1.501e-01  5.961e-02  -2.518 0.011795 *  
+BowlerKW Richardson               -1.002e-01  7.077e-02  -1.416 0.156774    
+BowlerL Ablish                     9.759e-02  1.288e-01   0.758 0.448622    
+BowlerL Balaji                    -1.113e-01  5.618e-02  -1.980 0.047658 *  
+BowlerLA Carseldine               -7.709e-01  4.504e-01  -1.712 0.086985 .  
+BowlerLJ Wright                    1.246e-02  1.050e-01   0.119 0.905465    
+BowlerLMP Simmons                  2.345e-01  1.795e-01   1.307 0.191361    
+BowlerLPC Silva                    9.173e-01  2.384e-01   3.848 0.000119 ***
+BowlerLR Shukla                   -6.677e-02  7.075e-02  -0.944 0.345271    
+BowlerLRPL Taylor                  1.054e-01  2.149e-01   0.491 0.623580    
+BowlerM Ashwin                    -1.369e-01  8.371e-02  -1.635 0.102076    
+BowlerM de Lange                  -5.275e-02  9.519e-02  -0.554 0.579460    
+BowlerM Kartik                    -2.124e-01  5.819e-02  -3.650 0.000262 ***
+BowlerM Manhas                    -3.229e-01  1.636e-01  -1.974 0.048398 *  
+BowlerM Morkel                    -2.015e-01  5.608e-02  -3.594 0.000326 ***
+BowlerM Muralitharan              -2.967e-01  5.703e-02  -5.202 1.97e-07 ***
+BowlerM Ntini                     -1.866e-01  8.380e-02  -2.226 0.025993 *  
+BowlerM Vijay                     -1.527e-01  1.536e-01  -0.994 0.320109    
+BowlerMA Khote                     1.691e-01  1.496e-01   1.130 0.258419    
+BowlerMA Starc                    -2.808e-01  6.487e-02  -4.329 1.50e-05 ***
+BowlerMashrafe Mortaza             2.269e-01  1.462e-01   1.552 0.120772    
+BowlerMB Parmar                    2.206e-01  1.856e-01   1.189 0.234635    
+BowlerMC Henriques                -1.518e-01  6.063e-02  -2.503 0.012301 *  
+BowlerMF Maharoof                 -2.207e-01  6.878e-02  -3.209 0.001332 ** 
+BowlerMG Johnson                  -1.478e-01  5.853e-02  -2.524 0.011589 *  
+BowlerMG Neser                     4.021e-01  1.385e-01   2.903 0.003695 ** 
+BowlerMJ Clarke                   -3.429e-01  1.330e-01  -2.577 0.009963 ** 
+BowlerMJ McClenaghan              -1.823e-01  6.270e-02  -2.908 0.003633 ** 
+BowlerMK Tiwary                    2.087e-01  1.302e-01   1.604 0.108822    
+BowlerMM Patel                    -1.340e-01  5.713e-02  -2.345 0.019036 *  
+BowlerMM Sharma                   -1.438e-01  5.710e-02  -2.519 0.011762 *  
+BowlerMN Samuels                  -1.645e-01  8.250e-02  -1.993 0.046210 *  
+BowlerMohammad Asif                4.507e-02  7.889e-02   0.571 0.567774    
+BowlerMohammad Hafeez             -4.195e-01  1.386e-01  -3.026 0.002480 ** 
+BowlerMohammed Shami              -1.189e-01  6.559e-02  -1.812 0.069913 .  
+BowlerMP Stoinis                  -1.183e-01  8.952e-02  -1.321 0.186475    
+BowlerMR Marsh                    -1.281e-01  7.189e-02  -1.782 0.074711 .  
+BowlerMS Gony                     -4.962e-02  5.883e-02  -0.843 0.398977    
+BowlerMustafizur Rahman           -3.177e-01  7.189e-02  -4.419 9.90e-06 ***
+BowlerN Rana                      -1.084e+00  5.810e-01  -1.865 0.062196 .  
+BowlerND Doshi                     4.500e-02  1.261e-01   0.357 0.721129    
+BowlerNJ Rimmington               -2.536e-01  2.361e-01  -1.074 0.282836    
+BowlerNL McCullum                 -1.530e-01  1.800e-01  -0.850 0.395183    
+BowlerNLTC Perera                 -4.295e-02  6.036e-02  -0.712 0.476706    
+BowlerNM Coulter-Nile             -2.394e-01  6.904e-02  -3.468 0.000524 ***
+BowlerP Amarnath                   2.936e-01  8.354e-02   3.515 0.000440 ***
+BowlerP Awana                     -1.052e-01  6.034e-02  -1.743 0.081373 .  
+BowlerP Kumar                     -1.897e-01  5.457e-02  -3.477 0.000508 ***
+BowlerP Negi                      -1.051e-01  6.598e-02  -1.593 0.111137    
+BowlerP Parameswaran              -1.412e-02  8.518e-02  -0.166 0.868328    
+BowlerP Prasanth                   6.225e-01  2.421e-01   2.571 0.010127 *  
+BowlerP Sahu                      -6.646e-02  9.854e-02  -0.674 0.500018    
+BowlerP Suyal                     -1.400e-01  9.912e-02  -1.413 0.157687    
+BowlerPankaj Singh                 9.016e-03  6.989e-02   0.129 0.897357    
+BowlerParvez Rasool               -9.976e-02  8.012e-02  -1.245 0.213081    
+BowlerPC Valthaty                 -7.447e-02  8.823e-02  -0.844 0.398656    
+BowlerPD Collingwood              -2.041e-01  1.130e-01  -1.806 0.070847 .  
+BowlerPJ Cummins                  -1.399e-01  1.066e-01  -1.313 0.189282    
+BowlerPJ Sangwan                  -7.106e-02  6.127e-02  -1.160 0.246161    
+BowlerPM Sarvesh Kumar            -6.329e-02  1.647e-01  -0.384 0.700828    
+BowlerPP Chawla                   -1.623e-01  5.447e-02  -2.980 0.002886 ** 
+BowlerPP Ojha                     -1.859e-01  5.548e-02  -3.350 0.000808 ***
+BowlerPV Tambe                    -1.817e-01  6.206e-02  -2.927 0.003418 ** 
+BowlerR Ashwin                    -3.381e-01  5.525e-02  -6.119 9.41e-10 ***
+BowlerR Bhatia                    -1.668e-01  5.619e-02  -2.969 0.002987 ** 
+BowlerR Dhawan                    -1.994e-01  6.566e-02  -3.037 0.002391 ** 
+BowlerR McLaren                   -9.857e-03  6.775e-02  -0.145 0.884321    
+BowlerR Ninan                      2.280e-01  1.351e-01   1.688 0.091398 .  
+BowlerR Rampaul                   -3.054e-01  7.793e-02  -3.919 8.89e-05 ***
+BowlerR Sathish                    1.036e-01  8.453e-02   1.225 0.220498    
+BowlerR Sharma                    -2.171e-01  5.978e-02  -3.632 0.000281 ***
+BowlerR Shukla                     2.217e-02  8.800e-02   0.252 0.801111    
+BowlerR Tewatia                   -2.420e-01  1.182e-01  -2.048 0.040595 *  
+BowlerR Vinay Kumar               -5.854e-02  5.469e-02  -1.070 0.284458    
+BowlerRA Jadeja                   -1.800e-01  5.578e-02  -3.227 0.001250 ** 
+BowlerRA Shaikh                    2.173e-01  3.062e-01   0.710 0.477906    
+BowlerRE van der Merwe            -2.795e-01  6.868e-02  -4.070 4.70e-05 ***
+BowlerRG More                      1.278e-02  1.425e-01   0.090 0.928542    
+BowlerRG Sharma                   -1.216e-01  7.084e-02  -1.717 0.086017 .  
+BowlerRJ Harris                   -1.924e-01  6.047e-02  -3.181 0.001466 ** 
+BowlerRJ Peterson                 -4.832e-02  1.341e-01  -0.360 0.718585    
+BowlerRN ten Doeschate            -2.855e-01  1.187e-01  -2.405 0.016174 *  
+BowlerRP Singh                    -1.521e-01  5.556e-02  -2.737 0.006209 ** 
+BowlerRR Bhatkal                   6.764e-01  1.772e-01   3.818 0.000135 ***
+BowlerRR Bose                      2.407e-01  2.156e-01   1.116 0.264245    
+BowlerRR Powar                    -2.264e-01  6.840e-02  -3.310 0.000934 ***
+BowlerRR Raje                      4.419e-03  8.836e-02   0.050 0.960110    
+BowlerRS Bopara                   -1.197e-01  7.919e-02  -1.512 0.130643    
+BowlerRS Gavaskar                 -3.582e-02  3.577e-01  -0.100 0.920223    
+BowlerRV Gomez                    -5.439e-02  1.025e-01  -0.531 0.595532    
+BowlerRW Price                     3.111e-01  1.821e-01   1.708 0.087592 .  
+BowlerS Aravind                   -1.468e-01  6.337e-02  -2.316 0.020557 *  
+BowlerS Badree                    -2.502e-01  1.051e-01  -2.381 0.017282 *  
+BowlerS Dhawan                    -7.176e-02  1.344e-01  -0.534 0.593262    
+BowlerS Gopal                     -1.054e-01  9.628e-02  -1.095 0.273436    
+BowlerS Kaul                      -1.002e-01  7.842e-02  -1.278 0.201237    
+BowlerS Kaushik                   -1.422e-01  8.967e-02  -1.586 0.112803    
+BowlerS Ladda                      1.541e-01  8.604e-02   1.791 0.073250 .  
+BowlerS Nadeem                    -2.277e-01  5.912e-02  -3.851 0.000117 ***
+BowlerS Narwal                     2.029e-01  8.878e-02   2.285 0.022318 *  
+BowlerS Rana                      -2.858e-01  2.415e-01  -1.184 0.236574    
+BowlerS Randiv                    -1.375e-01  8.537e-02  -1.611 0.107197    
+BowlerS Sreesanth                 -1.720e-01  5.962e-02  -2.884 0.003923 ** 
+BowlerS Sriram                     6.436e-01  1.525e-01   4.220 2.45e-05 ***
+BowlerS Tyagi                     -7.242e-02  7.885e-02  -0.918 0.358362    
+BowlerS Vidyut                     6.194e-02  2.246e-01   0.276 0.782755    
+BowlerSA Abbott                    1.295e-01  1.495e-01   0.866 0.386596    
+BowlerSA Yadav                    -5.468e-01  5.031e-01  -1.087 0.277064    
+BowlerSachin Baby                 -3.834e-01  3.672e-01  -1.044 0.296422    
+BowlerSandeep Sharma              -2.210e-01  6.024e-02  -3.668 0.000244 ***
+BowlerSandeep Sharma (1)          -1.708e-01  1.062e-01  -1.608 0.107852    
+BowlerSB Bangar                   -2.987e-02  8.631e-02  -0.346 0.729262    
+BowlerSB Jakati                   -8.217e-02  5.806e-02  -1.415 0.156994    
+BowlerSB Joshi                     1.036e-01  1.226e-01   0.845 0.397841    
+BowlerSB Styris                   -1.164e-01  7.990e-02  -1.456 0.145340    
+BowlerSB Wagh                     -1.508e-01  1.018e-01  -1.481 0.138595    
+BowlerSC Ganguly                  -6.351e-02  7.399e-02  -0.858 0.390706    
+BowlerSD Chitnis                  -3.968e-02  1.467e-01  -0.271 0.786727    
+BowlerSE Bond                     -1.927e-01  8.599e-02  -2.241 0.025046 *  
+BowlerShahid Afridi               -1.400e-01  8.527e-02  -1.642 0.100652    
+BowlerShakib Al Hasan             -2.557e-01  6.007e-02  -4.256 2.08e-05 ***
+BowlerShami Ahmed                 -1.522e-01  1.583e-01  -0.961 0.336362    
+BowlerShivam Sharma               -1.711e-02  9.360e-02  -0.183 0.854921    
+BowlerShoaib Ahmed                 5.419e-02  9.664e-02   0.561 0.574953    
+BowlerShoaib Akhtar               -2.667e-01  1.510e-01  -1.766 0.077356 .  
+BowlerShoaib Malik                -5.681e-02  1.264e-01  -0.449 0.653183    
+BowlerSJ Srivastava               -6.144e-02  7.158e-02  -0.858 0.390689    
+BowlerSK Raina                    -2.086e-01  6.051e-02  -3.447 0.000566 ***
+BowlerSK Trivedi                  -1.733e-01  5.639e-02  -3.072 0.002125 ** 
+BowlerSK Warne                    -1.893e-01  5.797e-02  -3.265 0.001094 ** 
+BowlerSL Malinga                  -3.437e-01  5.524e-02  -6.222 4.92e-10 ***
+BowlerSM Boland                   -1.546e-01  1.479e-01  -1.045 0.295851    
+BowlerSM Harwood                  -4.816e-01  1.383e-01  -3.482 0.000498 ***
+BowlerSM Pollock                  -2.239e-01  7.820e-02  -2.863 0.004193 ** 
+BowlerSMSM Senanayake             -3.286e-01  8.675e-02  -3.788 0.000152 ***
+BowlerSN Thakur                    2.993e-01  1.769e-01   1.692 0.090611 .  
+BowlerSohail Tanvir               -3.636e-01  8.295e-02  -4.384 1.17e-05 ***
+BowlerSP Narine                   -3.676e-01  5.715e-02  -6.433 1.25e-10 ***
+BowlerSPD Smith                    4.908e-01  4.508e-01   1.089 0.276224    
+BowlerSR Tendulkar                 1.105e-01  1.425e-01   0.776 0.437818    
+BowlerSR Watson                   -2.107e-01  5.588e-02  -3.771 0.000162 ***
+BowlerSS Mundhe                   -5.407e-01  4.513e-01  -1.198 0.230865    
+BowlerSS Sarkar                    6.312e-02  1.807e-01   0.349 0.726931    
+BowlerST Jayasuriya               -7.833e-02  7.324e-02  -1.070 0.284825    
+BowlerSTR Binny                   -1.825e-01  6.539e-02  -2.791 0.005254 ** 
+BowlerSunny Gupta                  4.432e-01  1.649e-01   2.687 0.007200 ** 
+BowlerSW Tait                     -2.816e-01  6.671e-02  -4.222 2.43e-05 ***
+BowlerSwapnil Singh                8.130e-02  1.931e-01   0.421 0.673691    
+BowlerT Henderson                 -2.175e-01  1.672e-01  -1.301 0.193356    
+BowlerT Shamsi                     1.367e-02  9.778e-02   0.140 0.888817    
+BowlerT Thushara                  -2.846e-01  9.641e-02  -2.952 0.003154 ** 
+BowlerTA Boult                    -1.839e-01  8.085e-02  -2.274 0.022939 *  
+BowlerTG Southee                  -1.349e-01  6.270e-02  -2.151 0.031469 *  
+BowlerTL Suman                    -1.096e-01  8.840e-02  -1.240 0.215135    
+BowlerTM Dilshan                  -3.148e-02  7.391e-02  -0.426 0.670152    
+BowlerTP Sudhindra                 2.451e-01  1.015e-01   2.416 0.015711 *  
+BowlerUmar Gul                    -2.397e-01  9.393e-02  -2.552 0.010725 *  
+BowlerUT Yadav                    -1.198e-01  5.561e-02  -2.155 0.031177 *  
+BowlerV Kohli                     -4.226e-02  7.419e-02  -0.570 0.568915    
+BowlerV Pratap Singh              -2.620e-02  7.817e-02  -0.335 0.737540    
+BowlerV Sehwag                     2.082e-01  8.378e-02   2.486 0.012936 *  
+BowlerV Shankar                    7.210e-01  2.356e-01   3.060 0.002214 ** 
+BowlerVR Aaron                    -1.231e-01  6.044e-02  -2.037 0.041658 *  
+BowlerVRV Singh                    4.404e-02  6.763e-02   0.651 0.514910    
+BowlerVS Malik                    -1.569e-01  8.209e-02  -1.911 0.055961 .  
+BowlerVS Yeligati                  1.102e-01  1.485e-01   0.742 0.458071    
+BowlerVY Mahesh                   -1.718e-02  6.937e-02  -0.248 0.804356    
+BowlerWA Mota                     -1.191e-01  1.161e-01  -1.026 0.304761    
+BowlerWD Parnell                  -2.455e-01  6.477e-02  -3.790 0.000150 ***
+BowlerWPUJC Vaas                  -1.494e-01  7.469e-02  -2.000 0.045494 *  
+BowlerY Gnaneswara Rao            -8.973e-02  3.841e-01  -0.234 0.815288    
+BowlerY Nagar                      1.352e-01  1.061e-01   1.274 0.202658    
+BowlerY Venugopal Rao              8.023e-02  7.564e-02   1.061 0.288823    
+BowlerYA Abdulla                  -4.142e-02  7.807e-02  -0.531 0.595718    
+BowlerYK Pathan                   -2.176e-01  5.842e-02  -3.724 0.000196 ***
+BowlerYS Chahal                   -1.573e-01  5.898e-02  -2.667 0.007646 ** 
+BowlerYuvraj Singh                -1.775e-01  6.021e-02  -2.948 0.003197 ** 
+BowlerZ Khan                      -1.836e-01  5.534e-02  -3.318 0.000906 ***
+TeamDeccan Chargers                2.710e-02  2.202e-02   1.231 0.218365    
+TeamDelhi Daredevils              -6.786e-02  1.929e-02  -3.518 0.000435 ***
+TeamGujarat Lions                 -8.855e-03  2.583e-02  -0.343 0.731727    
+TeamKings XI Punjab               -2.039e-03  1.984e-02  -0.103 0.918112    
+TeamKochi Tuskers Kerala          -6.575e-02  3.038e-02  -2.165 0.030424 *  
+TeamKolkata Knight Riders         -3.792e-02  2.012e-02  -1.885 0.059486 .  
+TeamMumbai Indians                -5.217e-02  1.986e-02  -2.626 0.008636 ** 
+TeamPune Warriors                 -7.710e-02  2.437e-02  -3.164 0.001554 ** 
+TeamRajasthan Royals               5.193e-03  2.164e-02   0.240 0.810380    
+TeamRising Pune Supergiants        7.546e-03  2.879e-02   0.262 0.793262    
+TeamRoyal Challengers Bangalore    2.384e-02  2.067e-02   1.153 0.248812    
+TeamSunrisers Hyderabad           -2.122e-02  2.270e-02  -0.935 0.349826    
+Inning2                           -1.782e-02  5.177e-03  -3.442 0.000577 ***
+Inning3                            4.242e-01  1.135e-01   3.739 0.000185 ***
+Inning4                            6.710e-01  1.210e-01   5.547 2.90e-08 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 258478  on 136020  degrees of freedom
+Residual deviance: 253630  on 135237  degrees of freedom
+AIC: 451255
+
+Number of Fisher Scoring iterations: 9

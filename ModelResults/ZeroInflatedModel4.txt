@@ -1,0 +1,41 @@
+#Summary of zero inflated model 4 :
+
+Call:
+zeroinfl(formula = RunsScored ~ Team, data = FinalDataFrame)
+
+Pearson residuals:
+     Min       1Q   Median       3Q      Max 
+-0.94332 -0.89781 -0.16953 -0.08962  4.12795 
+
+Count model coefficients (poisson with log link):
+                                 Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                      0.511933   0.010232  50.032  < 2e-16 ***
+TeamDeccan Chargers             -0.021407   0.016046  -1.334 0.182169    
+TeamDelhi Daredevils            -0.029212   0.015134  -1.930 0.053579 .  
+TeamKings XI Punjab              0.021049   0.014851   1.417 0.156384    
+TeamKochi Tuskers Kerala        -0.056491   0.032735  -1.726 0.084397 .  
+TeamKolkata Knight Riders       -0.057615   0.015445  -3.730 0.000191 ***
+TeamMumbai Indians              -0.009084   0.014821  -0.613 0.539931    
+TeamPune Warriors               -0.084525   0.019784  -4.272 1.93e-05 ***
+TeamRajasthan Royals             0.004192   0.014975   0.280 0.779556    
+TeamRoyal Challengers Bangalore  0.033864   0.014750   2.296 0.021682 *  
+TeamSunrisers Hyderabad         -0.185099   0.026806  -6.905 5.02e-12 ***
+
+Zero-inflation model coefficients (binomial with logit link):
+                                Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                     -1.11498    0.03315 -33.638  < 2e-16 ***
+TeamDeccan Chargers              0.07681    0.05060   1.518 0.129009    
+TeamDelhi Daredevils             0.07643    0.04784   1.598 0.110114    
+TeamKings XI Punjab              0.16656    0.04584   3.634 0.000279 ***
+TeamKochi Tuskers Kerala         0.23583    0.09368   2.517 0.011820 *  
+TeamKolkata Knight Riders        0.15734    0.04756   3.308 0.000938 ***
+TeamMumbai Indians               0.21060    0.04519   4.660 3.16e-06 ***
+TeamPune Warriors                0.14217    0.06027   2.359 0.018338 *  
+TeamRajasthan Royals             0.20655    0.04567   4.523 6.11e-06 ***
+TeamRoyal Challengers Bangalore  0.24170    0.04471   5.406 6.44e-08 ***
+TeamSunrisers Hyderabad         -0.19509    0.09765  -1.998 0.045744 *  
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1 
+
+Number of iterations in BFGS optimization: 28 
+Log-likelihood: -1.592e+05 on 22 Df

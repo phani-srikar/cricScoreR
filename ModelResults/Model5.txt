@@ -1,0 +1,46 @@
+    #Coefficients
+
+    Inning4     Inning3 (Intercept)     Inning2 
+ 0.72584972  0.58026440  0.19044102 -0.03013122
+
+ #Weight Coefficients data frame
+
+             unique.glmipl5.weights. glmipl5.coefficients
+(Intercept)                1.209870           0.19044102
+Inning2                    1.173979          -0.03013122
+Inning3                    2.161304           0.58026440
+Inning4                    2.500005           0.72584972
+
+#Predictors Coefficients data frame
+
+            unique.glmipl5.linear.predictors. glmipl5.coefficients
+(Intercept)                         0.1904410           0.19044102
+Inning2                             0.1603098          -0.03013122
+Inning3                             0.7707054           0.58026440
+Inning4                             0.9162907           0.72584972
+
+#Summary
+
+Call:
+glm(formula = RunsScored ~ Inning, family = poisson, data = FinalDataFrame)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.2361  -1.5322  -0.1967  -0.1647   3.1504  
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  0.190441   0.004007  47.527  < 2e-16 ***
+Inning2     -0.030131   0.005799  -5.196 2.04e-07 ***
+Inning3      0.580264   0.122235   4.747 2.06e-06 ***
+Inning4      0.725850   0.124099   5.849 4.95e-09 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 188366  on 99999  degrees of freedom
+Residual deviance: 188291  on 99996  degrees of freedom
+AIC: 330510
+
+Number of Fisher Scoring iterations: 5

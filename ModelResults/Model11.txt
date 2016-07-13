@@ -1,0 +1,978 @@
+#Coefficients
+
+(Intercept)        StrikeBatsmanCR Brathwaite             StrikeBatsmanUmar Gul 
+                     3.834775e-01                      3.720872e-01                      3.675992e-01 
+            StrikeBatsmanRS Sodhi            StrikeBatsmanKH Pandya        StrikeBatsmanShahid Afridi 
+                     3.476615e-01                      2.642928e-01                      2.107790e-01 
+          StrikeBatsmanI Malhotra              StrikeBatsmanSN Khan          StrikeBatsmanBCJ Cutting 
+                     1.951342e-01                      1.807829e-01                      1.726856e-01 
+     StrikeBatsmanKMDN Kulasekara            StrikeBatsmanLJ Wright            StrikeBatsmanKK Cooper 
+                     1.653399e-01                      1.642209e-01                      1.511522e-01 
+       StrikeBatsmanShivam Sharma         StrikeBatsmanKamran Akmal           StrikeBatsmanAD Russell 
+                     1.463440e-01                      1.429751e-01                      1.427658e-01 
+      StrikeBatsmanMJ McClenaghan           StrikeBatsmanER Dwivedi            StrikeBatsmanBJ Haddin 
+                     1.327477e-01                      1.319553e-01                      1.279949e-01 
+           StrikeBatsmanKJ Abbott            StrikeBatsmanCH Morris         StrikeBatsmanBipul Sharma 
+                     1.233811e-01                      1.178135e-01                      1.001872e-01 
+          StrikeBatsmanGJ Maxwell           StrikeBatsmanAUK Pathan        StrikeBatsmanHarmeet Singh 
+                     8.317450e-02                      5.482954e-02                      5.043636e-02 
+             StrikeBatsmanAP Dole             StrikeBatsmanV Sehwag            StrikeBatsmanLPC Silva 
+                     4.205096e-02                      4.027225e-02                      3.906970e-02 
+            StrikeBatsmanCH Gayle       StrikeBatsmanAB de Villiers            StrikeBatsmanJ Suchith 
+                     3.199148e-02                      2.641283e-02                      2.456945e-02 
+              StrikeBatsmanP Sahu              StrikeBatsmanMJ Lumb            StrikeBatsmanS Aravind 
+                     1.500802e-02                      9.460949e-03                      4.903374e-03 
+         StrikeBatsmanMF Maharoof           StrikeBatsmanTG Southee            StrikeBatsmanYK Pathan 
+                     6.862463e-04                     -5.249061e-04                     -1.754431e-03 
+       StrikeBatsmanMisbah-ul-Haq           StrikeBatsmanKA Pollard            StrikeBatsmanDA Miller 
+                    -2.350007e-03                     -6.301026e-03                     -1.371883e-02 
+                           Inning          StrikeBatsmanSunny Singh            StrikeBatsmanDA Warner 
+                    -1.899592e-02                     -2.505464e-02                     -2.620209e-02 
+         StrikeBatsmanJP Faulkner          StrikeBatsmanSachin Baby     StrikeBatsmanRN ten Doeschate 
+                    -4.017681e-02                     -4.145659e-02                     -4.151879e-02 
+           StrikeBatsmanJA Morkel            StrikeBatsmanSR Watson           StrikeBatsmanD Salunkhe 
+                    -4.173627e-02                     -4.186820e-02                     -4.288683e-02 
+     StrikeBatsmanHarbhajan Singh             StrikeBatsmanM Morkel              StrikeBatsmanD Wiese 
+                    -4.518708e-02                     -4.591898e-02                     -4.886856e-02 
+       StrikeBatsmanST Jayasuriya             StrikeBatsmanMS Dhoni           StrikeBatsmanJC Buttler 
+                    -5.498709e-02                     -5.593424e-02                     -5.616528e-02 
+        StrikeBatsmanAC Gilchrist         StrikeBatsmanCRD Fernando           StrikeBatsmanK Upadhyay 
+                    -5.637979e-02                     -5.780361e-02                     -5.780361e-02 
+       StrikeBatsmanDAJ Bracewell             StrikeBatsmanAN Ahmed          StrikeBatsmanAC Blizzard 
+                    -5.780361e-02                     -5.922315e-02                     -6.101380e-02 
+            StrikeBatsmanSK Raina              StrikeBatsmanB Akhil            StrikeBatsmanSPD Smith 
+                    -6.257549e-02                     -6.718003e-02                     -6.763706e-02 
+         StrikeBatsmanCJ Anderson             StrikeBatsmanJR Hopes            StrikeBatsmanVRV Singh 
+                    -6.933871e-02                     -6.939780e-02                     -7.050756e-02 
+            StrikeBatsmanJD Ryder         StrikeBatsmanKP Pietersen               StrikeBatsmanN Rana 
+                    -7.203135e-02                     -7.293608e-02                     -7.414237e-02 
+         StrikeBatsmanSW Billings            StrikeBatsmanBJ Rohrer             StrikeBatsmanDJ Hooda 
+                    -7.423032e-02                     -7.517155e-02                     -7.740720e-02 
+           StrikeBatsmanML Hayden             StrikeBatsmanA Mithun             StrikeBatsmanDR Smith 
+                    -7.886055e-02                     -8.090289e-02                     -8.373127e-02 
+          StrikeBatsmanMP Stoinis              StrikeBatsmanHM Amla              StrikeBatsmanMS Gony 
+                    -8.615819e-02                     -9.085472e-02                     -9.114199e-02 
+         StrikeBatsmanNLTC Perera             StrikeBatsmanSE Marsh             StrikeBatsmanSA Yadav 
+                    -9.301028e-02                     -9.416368e-02                     -9.658434e-02 
+             StrikeBatsmanRR Pant            StrikeBatsmanRG Sharma            StrikeBatsmanQ de Kock 
+                    -9.703133e-02                     -9.768624e-02                     -9.927721e-02 
+             StrikeBatsmanWP Saha              StrikeBatsmanTM Head             StrikeBatsmanS Vidyut 
+                    -1.009540e-01                     -1.091269e-01                     -1.092905e-01 
+           StrikeBatsmanKM Jadhav              StrikeBatsmanV Kohli       StrikeBatsmanPD Collingwood 
+                    -1.126004e-01                     -1.132208e-01                     -1.141260e-01 
+           StrikeBatsmanSM Katich             StrikeBatsmanS Narwal              StrikeBatsmanTR Birt 
+                    -1.142666e-01                     -1.143499e-01                     -1.145950e-01 
+           StrikeBatsmanSTR Binny           StrikeBatsmanSM Pollock             StrikeBatsmanAC Voges 
+                    -1.159450e-01                     -1.211296e-01                     -1.230226e-01 
+         StrikeBatsmanMDKJ Perera         StrikeBatsmanYuvraj Singh           StrikeBatsmanRV Uthappa 
+                    -1.233195e-01                     -1.268658e-01                     -1.291366e-01 
+             StrikeBatsmanKK Nair              StrikeBatsmanM Vohra             StrikeBatsmanCL White 
+                    -1.291678e-01                     -1.295228e-01                     -1.304583e-01 
+         StrikeBatsmanBB McCullum          StrikeBatsmanLMP Simmons         StrikeBatsmanF du Plessis 
+                    -1.314302e-01                     -1.325886e-01                     -1.337182e-01 
+       StrikeBatsmanAzhar Mahmood      StrikeBatsmanShakib Al Hasan            StrikeBatsmanA Symonds 
+                    -1.353116e-01                     -1.355971e-01                     -1.361729e-01 
+             StrikeBatsmanOA Shah             StrikeBatsmanHV Patel            StrikeBatsmanR Tewatia 
+                    -1.367549e-01                     -1.374560e-01                     -1.378463e-01 
+          StrikeBatsmanMV Boucher            StrikeBatsmanAT Rayudu           StrikeBatsmanMN van Wyk 
+                    -1.387717e-01                     -1.450385e-01                     -1.451244e-01 
+             StrikeBatsmanAP Tare            StrikeBatsmanDNT Zoysa               StrikeBatsmanP Negi 
+                    -1.463555e-01                     -1.490676e-01                     -1.509481e-01 
+            StrikeBatsmanKL Rahul             StrikeBatsmanDJ Bravo         StrikeBatsmanMC Henriques 
+                    -1.529044e-01                     -1.546760e-01                     -1.556033e-01 
+       StrikeBatsmanMandeep Singh      StrikeBatsmanGurkeerat Singh            StrikeBatsmanJP Duminy 
+                    -1.562744e-01                     -1.575822e-01                     -1.591469e-01 
+          StrikeBatsmanUT Khawaja             StrikeBatsmanAS Yadav                StrikeBatsmanB Lee 
+                    -1.594509e-01                     -1.596573e-01                     -1.600924e-01 
+          StrikeBatsmanKD Karthik             StrikeBatsmanBJ Hodge             StrikeBatsmanAJ Finch 
+                    -1.607246e-01                     -1.607837e-01                     -1.620154e-01 
+          StrikeBatsmanAD Mathews        StrikeBatsmanLA Pomersbach              StrikeBatsmanM Vijay 
+                    -1.640123e-01                     -1.669850e-01                     -1.671445e-01 
+         StrikeBatsmanAB McDonald            StrikeBatsmanG Gambhir          StrikeBatsmanLRPL Taylor 
+                    -1.687479e-01                     -1.689808e-01                     -1.691861e-01 
+     StrikeBatsmanJoginder Sharma            StrikeBatsmanGJ Bailey            StrikeBatsmanDJ Hussey 
+                    -1.701713e-01                     -1.711772e-01                     -1.735587e-01 
+          StrikeBatsmanMA Agarwal             StrikeBatsmanR Bhatia           StrikeBatsmanMEK Hussey 
+                    -1.762685e-01                     -1.772204e-01                     -1.773496e-01 
+         StrikeBatsmanSA Asnodkar     StrikeBatsmanDPMD Jayawardene            StrikeBatsmanDH Yagnik 
+                    -1.793771e-01                     -1.794068e-01                     -1.794621e-01 
+        StrikeBatsmanAnkit Sharma           StrikeBatsmanEJG Morgan          StrikeBatsmanKC Cariappa 
+                    -1.809629e-01                     -1.820374e-01                     -1.836482e-01 
+           StrikeBatsmanJO Holder              StrikeBatsmanT Taibu        StrikeBatsmanKC Sangakkara 
+                    -1.879161e-01                     -1.885909e-01                     -1.889227e-01 
+           StrikeBatsmanAM Rahane              StrikeBatsmanS Sohal          StrikeBatsmanPC Valthaty 
+                    -1.894012e-01                     -1.922361e-01                     -1.935773e-01 
+            StrikeBatsmanS Dhawan            StrikeBatsmanRA Jadeja             StrikeBatsmanAR Patel 
+                    -1.947223e-01                     -1.947726e-01                     -1.954683e-01 
+           StrikeBatsmanSV Samson            StrikeBatsmanDJG Sammy            StrikeBatsmanIK Pathan 
+                    -1.971376e-01                     -1.982251e-01                     -1.988478e-01 
+       StrikeBatsmanSohail Tanvir            StrikeBatsmanHH Pandya              StrikeBatsmanRE Levi 
+                    -2.045775e-01                     -2.047122e-01                     -2.096833e-01 
+           StrikeBatsmanMK Pandey            StrikeBatsmanSN Thakur          StrikeBatsmanS Badrinath 
+                    -2.102338e-01                     -2.103309e-01                     -2.104788e-01 
+            StrikeBatsmanTL Suman              StrikeBatsmanSS Iyer            StrikeBatsmanMM Sharma 
+                    -2.110210e-01                     -2.123686e-01                     -2.128327e-01 
+        StrikeBatsmanDB Ravi Teja            StrikeBatsmanSS Tiwary            StrikeBatsmanR Sathish 
+                    -2.131837e-01                     -2.152077e-01                     -2.155050e-01 
+           StrikeBatsmanSA Abbott           StrikeBatsmanSP Fleming          StrikeBatsmanSalman Butt 
+                    -2.155742e-01                     -2.164092e-01                     -2.166253e-01 
+           StrikeBatsmanRS Bopara        StrikeBatsmanLA Carseldine              StrikeBatsmanBR Dunk 
+                    -2.167523e-01                     -2.182977e-01                     -2.190521e-01 
+            StrikeBatsmanAM Nayar              StrikeBatsmanNV Ojha         StrikeBatsmanSR Tendulkar 
+                    -2.202320e-01                     -2.205713e-01                     -2.227255e-01 
+            StrikeBatsmanR Dravid      StrikeBatsmanY Venugopal Rao           StrikeBatsmanS Anirudha 
+                    -2.247202e-01                     -2.260714e-01                     -2.274654e-01 
+              StrikeBatsmanDB Das          StrikeBatsmanAP Majumdar         StrikeBatsmanDT Christian 
+                    -2.275592e-01                     -2.283518e-01                     -2.283749e-01 
+         StrikeBatsmanNL McCullum             StrikeBatsmanR Dhawan            StrikeBatsmanLR Shukla 
+                    -2.287030e-01                     -2.300766e-01                     -2.332652e-01 
+             StrikeBatsmanAS Raut              StrikeBatsmanJ Botha            StrikeBatsmanKAJ Roach 
+                    -2.333389e-01                     -2.358025e-01                     -2.401252e-01 
+           StrikeBatsmanMD Mishra             StrikeBatsmanMR Marsh           StrikeBatsmanAB Agarkar 
+                    -2.415817e-01                     -2.430362e-01                     -2.449514e-01 
+           StrikeBatsmanPP Chawla            StrikeBatsmanR Bishnoi              StrikeBatsmanRR Raje 
+                    -2.493657e-01                     -2.499299e-01                     -2.517766e-01 
+            StrikeBatsmanPA Patel               StrikeBatsmanS Rana               StrikeBatsmanVH Zol 
+                    -2.525082e-01                     -2.534334e-01                     -2.552823e-01 
+           StrikeBatsmanKV Sharma           StrikeBatsmanWPUJC Vaas            StrikeBatsmanMK Tiwary 
+                    -2.564385e-01                     -2.566180e-01                     -2.568534e-01 
+    StrikeBatsmanRE van der Merwe           StrikeBatsmanTM Dilshan             StrikeBatsmanB Chipli 
+                    -2.571243e-01                     -2.587084e-01                     -2.623590e-01 
+          StrikeBatsmanA Flintoff             StrikeBatsmanMA Khote             StrikeBatsmanMS Bisla 
+                    -2.661018e-01                     -2.671536e-01                     -2.689880e-01 
+          StrikeBatsmanAL Menaria            StrikeBatsmanDJ Harris      StrikeBatsmanJ Syed Mohammad 
+                    -2.691944e-01                     -2.708906e-01                     -2.740267e-01 
+           StrikeBatsmanAA Chavan          StrikeBatsmanF Behardien             StrikeBatsmanGC Smith 
+                    -2.740431e-01                     -2.787266e-01                     -2.788146e-01 
+        StrikeBatsmanJEC Franklin           StrikeBatsmanSD Chitnis            StrikeBatsmanCM Gautam 
+                    -2.844236e-01                     -2.845839e-01                     -2.871238e-01 
+        StrikeBatsmanBB Samantray      StrikeBatsmanJJ van der Wath           StrikeBatsmanRR Rossouw 
+                    -2.874845e-01                     -2.883273e-01                     -2.883668e-01 
+       StrikeBatsmanR Vinay Kumar     StrikeBatsmanY Gnaneswara Rao            StrikeBatsmanJH Kallis 
+                    -2.893899e-01                     -2.914185e-01                     -2.936866e-01 
+            StrikeBatsmanHH Gibbs            StrikeBatsmanAC Thomas         StrikeBatsmanShoaib Malik 
+                    -2.945680e-01                     -2.962090e-01                     -2.965740e-01 
+            StrikeBatsmanM Manhas        StrikeBatsmanIqbal Abdulla          StrikeBatsmanYV Takawale 
+                    -2.973712e-01                     -2.977908e-01                     -2.982993e-01 
+             StrikeBatsmanP Kumar              StrikeBatsmanJM Kemp              StrikeBatsmanY Nagar 
+                    -3.001333e-01                     -3.062650e-01                     -3.067940e-01 
+             StrikeBatsmanCA Lynn            StrikeBatsmanRJ Harris           StrikeBatsmanMJ Guptill 
+                    -3.089319e-01                     -3.101658e-01                     -3.104144e-01 
+            StrikeBatsmanRR Powar           StrikeBatsmanVVS Laxman             StrikeBatsmanM Kartik 
+                    -3.148426e-01                     -3.159762e-01                     -3.222076e-01 
+            StrikeBatsmanDW Steyn         StrikeBatsmanIshan Kishan             StrikeBatsmanUT Yadav 
+                    -3.230876e-01                     -3.251231e-01                     -3.251231e-01 
+           StrikeBatsmanMJ Clarke           StrikeBatsmanDL Vettori             StrikeBatsmanFY Fazal 
+                    -3.284557e-01                     -3.299228e-01                     -3.329661e-01 
+          StrikeBatsmanSC Ganguly             StrikeBatsmanW Jaffer          StrikeBatsmanVS Yeligati 
+                    -3.369154e-01                     -3.374448e-01                     -3.454857e-01 
+             StrikeBatsmanGB Hogg        StrikeBatsmanDP Vijaykumar             StrikeBatsmanDT Patil 
+                    -3.454857e-01                     -3.454857e-01                     -3.469598e-01 
+              StrikeBatsmanM Kaif          StrikeBatsmanRJ Peterson              StrikeBatsmanBB Sran 
+                    -3.487277e-01                     -3.538408e-01                     -3.550287e-01 
+      StrikeBatsmanAD Mascarenhas             StrikeBatsmanL Ronchi             StrikeBatsmanPA Reddy 
+                    -3.568305e-01                     -3.572610e-01                     -3.581290e-01 
+       StrikeBatsmanKS Williamson             StrikeBatsmanVS Malik        StrikeBatsmanSJ Srivastava 
+                    -3.587596e-01                     -3.590909e-01                     -3.607112e-01 
+     StrikeBatsmanAA Jhunjhunwala            StrikeBatsmanRJ Quiney              StrikeBatsmanB Kumar 
+                    -3.618024e-01                     -3.630455e-01                     -3.640281e-01 
+             StrikeBatsmanRG More     StrikeBatsmanMashrafe Mortaza        StrikeBatsmanNJ Rimmington 
+                    -3.644816e-01                     -3.644816e-01                     -3.644816e-01 
+           StrikeBatsmanAB Barath             StrikeBatsmanNK Patel             StrikeBatsmanMA Starc 
+                    -3.690162e-01                     -3.733734e-01                     -3.742903e-01 
+             StrikeBatsmanN Saini            StrikeBatsmanR Rampaul            StrikeBatsmanSB Styris 
+                    -3.744446e-01                     -3.748121e-01                     -3.752585e-01 
+           StrikeBatsmanCA Pujara             StrikeBatsmanMM Patel              StrikeBatsmanC Munro 
+                    -3.758692e-01                     -3.789209e-01                     -3.868990e-01 
+         StrikeBatsmanJ Arunkumar      StrikeBatsmanKB Arun Karthik         StrikeBatsmanNJ Maddinson 
+                    -3.916037e-01                     -3.936742e-01                     -3.942758e-01 
+           StrikeBatsmanUBT Chand             StrikeBatsmanJDP Oram           StrikeBatsmanDS Lehmann 
+                    -3.962653e-01                     -4.001535e-01                     -4.015695e-01 
+     StrikeBatsmanNM Coulter-Nile              StrikeBatsmanPR Shah            StrikeBatsmanRR Sarwan 
+                    -4.091673e-01                     -4.125426e-01                     -4.139454e-01 
+            StrikeBatsmanR Ashwin             StrikeBatsmanRV Gomez             StrikeBatsmanVR Aaron 
+                    -4.160876e-01                     -4.223954e-01                     -4.225431e-01 
+          StrikeBatsmanMG Johnson            StrikeBatsmanMC Juneja            StrikeBatsmanM Klinger 
+                    -4.231007e-01                     -4.248383e-01                     -4.250010e-01 
+           StrikeBatsmanGR Napier           StrikeBatsmanMN Samuels            StrikeBatsmanSB Jakati 
+                    -4.290201e-01                     -4.299249e-01                     -4.334745e-01 
+       StrikeBatsmanKW Richardson            StrikeBatsmanB Sumanth           StrikeBatsmanSP Goswami 
+                    -4.338531e-01                     -4.357661e-01                     -4.363779e-01 
+              StrikeBatsmanK Goel          StrikeBatsmanJDS Neesham            StrikeBatsmanDJ Jacobs 
+                    -4.383133e-01                     -4.447609e-01                     -4.460845e-01 
+       StrikeBatsmanAnirudh Singh          StrikeBatsmanDS Kulkarni         StrikeBatsmanDE Bollinger 
+                    -4.483378e-01                     -4.542910e-01                     -4.546349e-01 
+            StrikeBatsmanSK Warne              StrikeBatsmanP Dogra        StrikeBatsmanCK Langeveldt 
+                    -4.554431e-01                     -4.610151e-01                     -4.632687e-01 
+            StrikeBatsmanA Mishra            StrikeBatsmanR McLaren              StrikeBatsmanSW Tait 
+                    -4.679617e-01                     -4.722791e-01                     -4.783614e-01 
+              StrikeBatsmanZ Khan             StrikeBatsmanAN Ghosh            StrikeBatsmanGH Vihari 
+                    -4.784833e-01                     -4.956581e-01                     -4.960962e-01 
+           StrikeBatsmanSS Shaikh             StrikeBatsmanBA Bhatt             StrikeBatsmanR Sharma 
+                    -4.996364e-01                     -5.051007e-01                     -5.085625e-01 
+         StrikeBatsmanBMAJ Mendis        StrikeBatsmanParvez Rasool            StrikeBatsmanSB Bangar 
+                    -5.122005e-01                     -5.127875e-01                     -5.265947e-01 
+            StrikeBatsmanR Shukla               StrikeBatsmanS Kaul          StrikeBatsmanCJ Ferguson 
+                    -5.407013e-01                     -5.461564e-01                     -5.478270e-01 
+            StrikeBatsmanS Sriram          StrikeBatsmanAG Paunikar           StrikeBatsmanSL Malinga 
+                    -5.490846e-01                     -5.585023e-01                     -5.611805e-01 
+           StrikeBatsmanSP Narine             StrikeBatsmanA Mukund            StrikeBatsmanCA Ingram 
+                    -5.633572e-01                     -5.642966e-01                     -5.678720e-01 
+          StrikeBatsmanGD McGrath             StrikeBatsmanI Sharma           StrikeBatsmanFH Edwards 
+                    -5.686292e-01                     -5.719260e-01                     -5.876251e-01 
+             StrikeBatsmanM Rawat          StrikeBatsmanImran Tahir           StrikeBatsmanWD Parnell 
+                    -5.904759e-01                     -5.972564e-01                     -5.974760e-01 
+         StrikeBatsmanAA Bilakhia             StrikeBatsmanJ Theron       StrikeBatsmanHarpreet Singh 
+                    -5.976113e-01                     -6.107960e-01                     -6.217670e-01 
+          StrikeBatsmanD du Preez      StrikeBatsmanMohammad Hafeez            StrikeBatsmanCJ Jordan 
+                    -6.268459e-01                     -6.307994e-01                     -6.331678e-01 
+           StrikeBatsmanAA Noffke              StrikeBatsmanS Tyagi        StrikeBatsmanS Chanderpaul 
+                    -6.331678e-01                     -6.331678e-01                     -6.379507e-01 
+           StrikeBatsmanJE Taylor              StrikeBatsmanAD Nath        StrikeBatsmanTM Srivastava 
+                    -6.427108e-01                     -6.526679e-01                     -6.656813e-01 
+             StrikeBatsmanWA Mota       StrikeBatsmanJaskaran Singh            StrikeBatsmanDR Martyn 
+                    -6.663910e-01                     -6.691560e-01                     -6.781392e-01 
+            StrikeBatsmanL Balaji          StrikeBatsmanDJ Thornely             StrikeBatsmanA Kumble 
+                    -6.850513e-01                     -6.878111e-01                     -6.882004e-01 
+          StrikeBatsmanAG Murtaza      StrikeBatsmanKaranveer Singh           StrikeBatsmanRT Ponting 
+                    -6.887837e-01                     -6.937924e-01                     -6.943613e-01 
+            StrikeBatsmanIR Jaggi             StrikeBatsmanA Chopra        StrikeBatsmanYashpal Singh 
+                    -6.947996e-01                     -6.974916e-01                     -7.060236e-01 
+         StrikeBatsmanT Henderson              StrikeBatsmanNS Naik           StrikeBatsmanPJ Sangwan 
+                    -7.213770e-01                     -7.237829e-01                     -7.255583e-01 
+          StrikeBatsmanSK Trivedi       StrikeBatsmanSandeep Sharma            StrikeBatsmanYS Chahal 
+                    -7.280773e-01                     -7.387155e-01                     -7.573229e-01 
+            StrikeBatsmanRP Singh       StrikeBatsmanM Muralitharan        StrikeBatsmanCK Kapugedera 
+                    -7.597630e-01                     -7.623916e-01                     -7.628655e-01 
+             StrikeBatsmanSB Wagh              StrikeBatsmanMS Wade              StrikeBatsmanA Nehra 
+                    -7.636547e-01                     -7.676633e-01                     -7.808154e-01 
+          StrikeBatsmanSM Harwood           StrikeBatsmanT Thushara          StrikeBatsmanKamran Khan 
+                    -7.968615e-01                     -8.180541e-01                     -8.563113e-01 
+           StrikeBatsmanJJ Bumrah          StrikeBatsmanS Sreesanth         StrikeBatsmanPankaj Singh 
+                    -8.639530e-01                     -8.752125e-01                     -8.876733e-01 
+     StrikeBatsmanSMSM Senanayake        StrikeBatsmanAnureet Singh StrikeBatsmanX Thalaivan Sargunam 
+                    -8.906726e-01                     -8.915726e-01                     -8.951098e-01 
+             StrikeBatsmanM Ntini              StrikeBatsmanT Kohli             StrikeBatsmanA Uniyal 
+                    -9.050655e-01                     -9.110253e-01                     -9.214057e-01 
+          StrikeBatsmanA Chandila              StrikeBatsmanC Madan            StrikeBatsmanVY Mahesh 
+                    -9.240974e-01                     -9.623186e-01                     -9.737410e-01 
+            StrikeBatsmanCJ McKay              StrikeBatsmanS Gopal        StrikeBatsmanMohammad Asif 
+                    -9.930903e-01                     -1.021261e+00                     -1.038633e+00 
+    StrikeBatsmanPM Sarvesh Kumar              StrikeBatsmanR Ninan             StrikeBatsmanS Randiv 
+                    -1.038633e+00                     -1.038633e+00                     -1.038633e+00 
+             StrikeBatsmanSE Bond           StrikeBatsmanBAW Mendis           StrikeBatsmanKP Appanna 
+                    -1.038633e+00                     -1.041824e+00                     -1.043416e+00 
+       StrikeBatsmanPSP Handscomb           StrikeBatsmanM de Lange              StrikeBatsmanJ Yadav 
+                    -1.057629e+00                     -1.057629e+00                     -1.057629e+00 
+            StrikeBatsmanUA Birla             StrikeBatsmanPV Tambe       StrikeBatsmanMohammed Shami 
+                    -1.107626e+00                     -1.120641e+00                     -1.140026e+00 
+            StrikeBatsmanAB Dinda           StrikeBatsmanB Laughlin          StrikeBatsmanYounis Khan 
+                    -1.148712e+00                     -1.156416e+00                     -1.192784e+00 
+               StrikeBatsmanH Das             StrikeBatsmanS Nadeem           StrikeBatsmanJD Unadkat 
+                    -1.261776e+00                     -1.303496e+00                     -1.333481e+00 
+            StrikeBatsmanSB Joshi      StrikeBatsmanD Kalyankrishna              StrikeBatsmanP Awana 
+                    -1.335858e+00                     -1.345311e+00                     -1.390061e+00 
+             StrikeBatsmanPP Ojha             StrikeBatsmanTD Paine           StrikeBatsmanAS Rajpoot 
+                    -1.392263e+00                     -1.416130e+00                     -1.444098e+00 
+      StrikeBatsmanP Parameswaran        StrikeBatsmanDJ Muthuswami         StrikeBatsmanBE Hendricks 
+                    -1.450470e+00                     -1.463094e+00                     -1.463094e+00 
+           StrikeBatsmanDP Nannes          StrikeBatsmanRS Gavaskar        StrikeBatsmanShoaib Akhtar 
+                    -1.524141e+00                     -1.731780e+00                     -1.750776e+00 
+             StrikeBatsmanA Singh         StrikeBatsmanShoaib Ahmed    StrikeBatsmanMohammad Ashraful 
+                    -1.962565e+00                     -2.146788e+00                     -2.156241e+00 
+       StrikeBatsmanSwapnil Singh   StrikeBatsmanSandeep Sharma (1)              StrikeBatsmanA Zampa 
+                    -1.164807e+01                     -1.164807e+01                     -1.164807e+01 
+           StrikeBatsmanIC Pandey           StrikeBatsmanPJ Cummins             StrikeBatsmanL Ablish 
+                    -1.164807e+01                     -1.164807e+01                     -1.164807e+01 
+            StrikeBatsmanM Ashwin            StrikeBatsmanS Kaushik          StrikeBatsmanSunny Gupta 
+                    -1.164807e+01                     -1.164807e+01                     -1.164807e+01 
+             StrikeBatsmanS Ladda         StrikeBatsmanAbdur Razzak               StrikeBatsmanU Kaul 
+                    -1.164807e+01                     -1.164807e+01                     -1.164807e+01 
+             StrikeBatsmanC Nanda       StrikeBatsmanV Pratap Singh             StrikeBatsmanND Doshi 
+                    -1.164807e+01                     -1.166707e+01                     -1.166707e+01 
+          StrikeBatsmanYA Abdulla           StrikeBatsmanRR Bhatkal 
+                    -1.166707e+01                     -1.166707e+01 
+
+#Weights assigned
+
+[1] 1.262446e+00 1.027950e+00 7.190102e-01 1.210366e+00 7.661956e-01 1.128360e+00 1.008073e+00 1.261454e+00
+  [9] 1.053164e+00 1.239896e+00 1.229631e+00 1.320890e+00 7.500000e-01 1.046396e+00 8.754672e-01 3.714384e-01
+ [17] 1.118483e+00 1.330588e+00 1.205786e+00 1.361446e+00 1.352434e+00 9.649569e-01 1.166494e+00 9.113506e-01
+ [25] 1.317964e+00 1.169484e+00 1.244358e+00 1.260135e+00 1.157935e+00 5.789474e-01 1.437244e+00 1.380731e+00
+ [33] 1.015879e+00 9.635914e-01 1.184960e+00 7.977226e-01 1.379326e+00 9.130529e-01 6.951722e-01 1.193040e+00
+ [41] 1.470729e+00 1.162722e+00 1.007247e+00 1.362736e+00 7.237354e-01 1.265345e+00 9.530757e-01 1.155172e+00
+ [49] 1.275518e+00 1.376157e+00 7.464214e-01 1.192795e+00 1.148447e+00 1.360840e+00 1.049701e+00 1.256473e+00
+ [57] 1.305773e+00 9.892810e-01 1.227309e+00 8.503450e-01 1.113896e+00 6.734905e-01 1.277023e+00 1.238691e+00
+ [65] 7.054809e-01 1.008607e+00 1.187591e+00 7.517784e-01 1.118760e+00 9.288280e-01 1.343239e+00 1.191912e+00
+ [73] 1.203308e+00 1.268222e+00 1.180141e+00 1.187969e+00 1.226776e+00 1.122003e+00 7.394050e-01 9.967633e-01
+ [81] 1.410200e+00 1.629806e+00 1.354751e+00 9.454598e-01 1.162663e+00 1.777594e+00 9.882937e-01 1.337094e+00
+ [89] 1.241536e+00 1.251517e+00 1.210229e+00 1.133436e+00 1.081482e+00 1.350262e+00 6.470513e-01 1.068944e+00
+ [97] 8.958723e-01 1.353371e+00 5.814748e-01 9.517396e-01 6.000568e-01 1.341749e+00 1.139145e+00 8.969050e-01
+[105] 1.149999e+00 7.607359e-01 1.215670e+00 1.073361e+00 1.285645e+00 1.253212e+00 1.066464e+00 3.785616e-01
+[113] 8.922565e-01 1.077983e+00 7.827122e-01 1.301513e+00 1.140215e+00 1.126967e+00 1.043180e+00 8.126584e-01
+[121] 1.097437e+00 1.305551e+00 1.335828e+00 1.191342e+00 1.233438e+00 1.102222e+00 1.335233e+00 1.029949e+00
+[129] 1.215920e+00 1.498933e+00 1.185020e+00 1.070266e+00 1.113634e+00 1.226000e+00 1.205942e+00 1.440756e+00
+[137] 5.437534e-01 1.180666e+00 7.260070e-01 1.203692e+00 1.086679e+00 1.022651e+00 1.146739e+00 1.168925e+00
+[145] 1.144825e+00 1.072416e+00 1.240375e+00 3.750000e-01 1.285724e+00 9.338311e-01 1.089444e+00 1.203344e+00
+[153] 1.173398e+00 1.137531e+00 1.105761e+00 1.202860e+00 1.125161e+00 2.040276e+00 4.478818e-01 7.973669e-01
+[161] 1.159597e+00 1.290708e+00 1.380914e+00 1.450486e+00 1.497132e+00 1.163343e+00 1.409360e+00 1.310381e+00
+[169] 1.068421e+00 1.160991e+00 1.119302e+00 1.050128e+00 1.202931e+00 1.183250e+00 6.838117e-01 5.335218e-01
+[177] 5.000000e-01 8.000000e-01 1.214473e+00 1.314347e+00 6.717225e-01 5.824081e-01 1.180701e+00 1.027406e+00
+[185] 1.263674e+00 1.436388e+00 1.017676e+00 7.234536e-01 1.042263e+00 1.146847e+00 1.052236e+00 9.706661e-01
+[193] 1.281203e+00 1.744145e+00 9.856645e-01 1.048317e+00 1.478302e+00 1.266422e+00 1.137777e+00 1.326986e+00
+[201] 1.354929e+00 6.587707e-01 1.289615e+00 1.144545e+00 7.167630e-01 1.225928e+00 1.192308e+00 2.079403e+00
+[209] 9.549293e-01 3.577998e-01 9.306274e-01 1.346221e+00 1.130613e+00 1.100891e+00 1.316502e+00 3.354626e-05
+[217] 1.159346e+00 1.141453e+00 1.126837e+00 8.343444e-01 1.092936e+00 6.608177e-01 1.111570e+00 9.016940e-01
+[225] 9.887193e-01 9.724976e-01 9.732424e-01 1.195424e+00 1.068965e+00 1.092679e+00 1.090654e+00 8.847271e-01
+[233] 1.413646e+00 6.714043e-01 1.218349e+00 4.285714e-01 3.510672e-01 5.000000e-01 1.000000e+00 2.500000e-01
+[241] 4.564711e-01 7.101171e-01 9.985270e-01 7.098407e-01 3.354626e-05 1.152296e+00 1.468961e+00 4.000000e-01
+[249] 1.217036e+00 1.107519e+00 1.151319e+00 1.299207e+00 9.351420e-01 1.062795e+00 1.333333e+00 1.000000e+00
+[257] 7.120796e-01 5.714491e-01 1.324123e+00 1.083176e+00 1.661061e+00 8.034736e-01 1.204216e+00 7.399300e-01
+[265] 7.032759e-01 1.166780e+00 1.050892e+00 1.227936e+00 1.082620e+00 9.467997e-01 1.191621e+00 6.233991e-01
+[273] 1.339706e+00 1.338495e+00 6.866770e-01 9.671176e-01 6.000000e-01 1.159199e+00 1.486572e+00 1.232295e+00
+[281] 1.103382e+00 1.313309e+00 1.100270e+00 1.057699e+00 1.458600e+00 8.000000e-01 1.314497e+00 1.093132e+00
+[289] 6.590829e-01 1.186377e+00 1.001437e+00 1.007680e+00 1.140130e+00 6.973012e-01 1.431154e+00 1.215383e+00
+[297] 1.357628e+00 5.926260e-01 1.137387e+00 1.204830e+00 1.049291e+00 9.825935e-01 1.118677e+00 7.771471e-01
+[305] 8.605596e-01 4.984070e-01 1.035163e+00 1.069414e+00 6.969255e-01 1.164054e+00 1.245276e+00 9.131161e-01
+[313] 1.092383e+00 7.920509e-01 1.165862e+00 1.682496e-01 6.820914e-01 9.375000e-01 1.221844e+00 1.121371e+00
+[321] 1.113332e+00 5.071572e-01 1.135630e+00 1.133051e+00 6.367515e-01 1.218155e+00 9.333333e-01 7.257355e-01
+[329] 1.376142e+00 1.165616e+00 1.143924e+00 1.035951e+00 1.650837e-01 1.154780e+00 1.157409e+00 1.031117e+00
+[337] 5.887658e-01 1.055818e+00 1.098240e+00 7.692308e-01 9.141054e-01 7.254919e-01 6.489628e-01 1.195233e+00
+[345] 7.106736e-01 1.349274e+00 8.770629e-01 1.221976e+00 1.284302e+00 1.402532e+00 1.232831e+00 1.137325e+00
+[353] 3.354626e-05 8.059813e-01 6.594601e-01 1.000000e+00 1.115924e+00 1.984775e-01 1.213252e+00 1.216203e+00
+[361] 1.059384e+00 9.911476e-01 6.998457e-01 2.022838e-01 8.571429e-01 9.497029e-01 6.353543e-01 1.666667e-01
+[369] 9.886770e-01 1.255742e+00 9.022604e-01 7.234887e-01 1.243744e+00 1.245383e+00 1.160646e+00 8.978094e-01
+[377] 9.838156e-01 8.908944e-01 5.621874e-01 1.100202e+00 3.354626e-05 1.200147e+00 9.700734e-01 1.232113e+00
+[385] 1.040000e+00 9.318327e-01 7.500000e-01 1.002683e+00 9.079795e-01 5.729688e-01 1.198983e+00 2.500000e-01
+[393] 5.000000e-01 1.023551e+00 1.430724e+00 3.354626e-05 3.076923e-01 1.453454e+00 7.307692e-01 1.284195e+00
+[401] 1.375150e+00 9.195635e-01 7.373634e-01 1.079500e+00 9.767442e-01 1.561541e+00 1.032017e+00 1.273105e+00
+[409] 1.177565e+00 1.130771e+00 1.209107e+00 1.039450e+00 1.020571e+00 7.816764e-01 1.329434e+00 1.280985e+00
+[417] 1.302017e+00 1.136652e+00 1.197970e+00 1.403803e+00 1.138806e+00 1.190423e+00 7.669679e-01 9.848898e-01
+[425] 8.809156e-01 8.658177e-01 1.426105e+00 1.012598e+00 1.231468e+00 1.286443e+00 8.923652e-01 9.529541e-01
+[433] 1.109494e+00 1.111111e+00 1.284482e+00 1.208296e+00 8.888889e-01 1.005405e+00 1.003778e+00 1.221949e+00
+[441] 1.249150e+00 1.260030e+00 8.755739e-01 8.495259e-01 1.302887e+00 4.976143e-01 1.501602e+00 1.331442e+00
+[449] 1.591487e+00 1.260312e+00 1.262237e+00 1.015685e+00 2.000000e+00 9.137911e-01 5.079652e-01 8.157895e-01
+[457] 1.473347e+00 9.311969e-01 5.500000e-01 1.193318e+00 8.236408e-01 1.107881e+00 9.136750e-01 1.224419e+00
+[465] 1.129128e+00 1.282148e+00 1.485753e+00 1.048851e+00 7.186952e-01 1.145804e+00 8.081427e-01 9.437313e-01
+[473] 1.184377e+00 1.492295e+00 9.687160e-01 1.040143e+00 9.042957e-01 1.404143e+00 1.000000e+00 7.051718e-01
+[481] 1.124244e+00 1.079277e+00 1.520913e+00 1.377721e+00 7.772523e-01 1.058824e+00 5.000000e-01 1.419620e+00
+[489] 1.099975e+00 9.216378e-01 7.921580e-01 6.556176e-01 1.201379e+00 3.493612e-01 6.708745e-01 1.070657e+00
+[497] 1.062965e+00 1.233541e+00 1.258022e+00 1.180601e+00 1.183098e+00 1.125267e+00 5.000000e-01 8.965966e-01
+[505] 1.636364e+00 1.311893e+00 1.123875e+00 7.428767e-01 1.050511e+00 6.681907e-01 1.074074e+00 7.571233e-01
+[513] 9.259734e-01 1.287208e+00 1.381214e+00 1.259721e+00 8.214380e-01 7.230318e-01 3.427874e-01 7.585995e-01
+[521] 1.283880e+00 9.235639e-01 7.731475e-01 1.145428e+00 1.203242e+00 1.354548e+00 6.582509e-01 9.412755e-01
+[529] 1.750000e+00 1.327873e+00 3.354626e-05 8.006060e-01 3.836553e-01 3.375679e-01 8.168161e-01 1.329060e+00
+[537] 9.258367e-01 1.094654e+00 3.354626e-05 8.324805e-01 1.000454e+00 1.055556e+00 1.117449e+00 1.083350e+00
+[545] 8.524719e-01 8.159596e-01 1.257197e+00 1.207091e+00 1.259561e+00 1.145455e+00 1.535199e+00 1.345606e+00
+[553] 9.366521e-01 1.282615e+00 1.674700e+00 1.357044e+00 1.254862e+00 1.333333e+00 1.077448e+00 1.178830e+00
+[561] 8.042288e-01 1.201437e+00 1.231250e+00 1.167422e+00 1.643187e+00 1.074056e+00 1.000000e+00 3.354626e-05
+[569] 1.235861e+00 1.355224e+00 9.190275e-01 1.320286e+00 1.514247e+00 8.688202e-01 5.333333e-01 1.098111e+00
+[577] 9.816285e-01 9.900864e-01 1.420150e+00 1.257556e+00 1.214749e+00 9.714563e-01 1.233893e+00 1.393428e+00
+[585] 9.916797e-01 1.666667e+00 1.439767e+00 3.354626e-05 1.080039e+00 1.017176e+00 1.010698e+00 1.412676e+00
+[593] 1.206717e+00 3.910129e-01 9.435919e-01 1.036683e+00 1.145831e+00 9.874363e-01 1.124270e+00 1.333333e+00
+[601] 1.229859e+00 3.585887e-01 8.196519e-01 9.504881e-01 1.629465e+00 5.714286e-01 1.037230e+00 7.094268e-01
+[609] 1.006373e+00 3.312160e-01 3.354626e-05 9.414287e-01 1.660714e+00 1.265306e+00 9.712294e-01 8.766788e-01
+[617] 1.272727e+00 8.384338e-01 9.237142e-01 4.444444e-01 3.333333e-01 1.241056e+00 3.794626e-01 8.601827e-01
+[625] 1.262987e+00 1.216565e+00 1.404225e+00 1.214428e+00 4.517887e-01 8.464410e-01 1.264857e+00 1.383069e+00
+[633] 9.897227e-01 1.589309e+00 1.159917e+00 5.797334e-01 1.335506e+00 1.212375e+00 9.710995e-01 1.423193e+00
+[641] 1.324840e+00 1.114768e+00 1.261526e+00 1.303697e+00 1.114096e+00 1.122332e+00 9.253206e-01 1.279166e+00
+[649] 1.059716e+00 5.908513e-01 1.696729e+00 1.664803e+00 3.354626e-05 1.310376e+00 1.060099e+00 5.882353e-01
+[657] 1.180876e+00 9.430659e-01 8.188822e-01 3.518413e-01 9.154245e-01 1.158656e+00 1.182161e+00 8.626736e-01
+[665] 1.235625e+00 1.141854e+00 1.080429e+00 4.666667e-01 8.459442e-01 9.329800e-01 8.621673e-01 3.354626e-05
+[673] 8.181818e-01 1.564641e+00 1.355308e+00 4.606324e-01 1.220341e+00 9.383037e-01 1.143856e+00 1.307213e+00
+[681] 1.318042e+00 9.523810e-01 1.161854e+00 1.343318e+00 6.068513e-01 9.054934e-01 3.723224e-01 1.411935e+00
+[689] 1.057122e+00 9.902392e-01 1.241497e+00 1.184136e+00 6.878160e-01 1.258481e+00 1.123283e+00 1.210330e+00
+[697] 1.304247e+00 1.271067e+00 1.134774e+00 1.058782e+00 9.716063e-01 1.156536e+00 1.666667e+00 1.096422e+00
+[705] 6.624321e-01 1.260985e+00 1.115385e+00 1.237257e+00 8.226573e-01 1.711153e+00 7.774229e-01 4.604528e-01
+[713] 3.333333e-01 5.185185e-01 5.000000e-01 1.230769e+00 9.864869e-01 1.079086e+00 1.193113e+00 9.228585e-01
+[721] 7.923320e-01 7.058824e-01 1.163752e+00 1.142384e+00 1.332523e+00 1.619788e+00 5.792119e-01 9.868138e-01
+[729] 1.138728e+00 1.164292e+00 1.307450e+00 1.447814e+00 1.160566e+00 1.356976e+00 6.751359e-01 1.475580e+00
+[737] 1.238045e+00 1.000000e+00 5.903197e-01 1.173240e+00 1.345300e+00 9.562980e-01 1.367208e+00 1.506312e+00
+[745] 1.261531e+00 1.306455e+00 1.692605e+00 1.151164e+00 1.613222e+00 4.694662e-01 1.644160e+00 6.748736e-01
+[753] 3.333333e-01 1.725065e+00 1.371100e+00 3.354626e-05 1.166667e+00 1.446844e+00 1.361131e+00 2.088756e+00
+[761] 1.320913e+00 1.020571e+00 9.778320e-01 1.335520e+00 1.461538e+00 1.875311e+00 1.439012e+00 7.355165e-01
+[769] 1.055556e+00 1.628831e+00 1.290919e+00 7.496219e-01 3.354626e-05 1.840024e+00 6.981640e-01 6.850269e-01
+[777] 1.040143e+00 1.282042e+00 1.336763e+00 1.306629e+00 1.170662e+00 1.005738e+00 1.198216e+00 5.000000e-01
+[785] 1.381300e+00 1.296058e+00 3.354626e-05 5.000000e-01 1.204464e+00 1.227563e+00 1.266629e+00 1.314724e+00
+[793] 1.311610e+00 2.049453e+00 5.954324e-01 1.289985e+00 1.069038e+00 1.009498e+00 3.354626e-05 1.311725e+00
+[801] 1.336881e+00 3.354626e-05 1.678955e+00 1.598182e+00 1.175669e+00 1.089539e+00 9.905023e-01 1.642857e+00
+[809] 9.594325e-01 7.500000e-01
+
+#Predictors
+
+ [1]  2.330514e-01  2.756619e-02 -3.298797e-01  1.909229e-01 -2.663178e-01  1.207655e-01  8.040900e-03
+  [8]  2.322649e-01  5.179907e-02  2.150274e-01  2.067139e-01  2.783056e-01 -2.876821e-01  4.535235e-02
+ [15] -1.329976e-01 -9.903723e-01  1.119734e-01  2.856210e-01  1.871319e-01  3.085474e-01  3.019061e-01
+ [22] -3.567185e-02  1.540028e-01 -9.282758e-02  2.760879e-01  1.565630e-01  2.186199e-01  2.312191e-01
+ [29]  1.466379e-01 -5.465437e-01  3.627272e-01  3.226134e-01  1.575392e-02 -3.708795e-02  1.697090e-01
+ [36] -2.259943e-01  3.215948e-01 -9.096145e-02 -3.635957e-01  1.765049e-01  3.857579e-01  1.507634e-01
+ [43]  7.220600e-03  3.094945e-01 -3.233295e-01  2.353450e-01 -4.806096e-02  1.442496e-01  2.433520e-01
+ [50]  3.192945e-01 -2.924650e-01  1.762996e-01  1.384102e-01  3.081018e-01  4.850539e-02  2.283087e-01
+ [57]  2.667954e-01 -1.077686e-02  2.048243e-01 -1.621131e-01  1.078636e-01 -3.952814e-01  2.445317e-01
+ [64]  2.140555e-01 -3.488756e-01  8.570271e-03  1.719270e-01 -2.853137e-01  1.122205e-01 -7.383166e-02
+ [71]  2.950838e-01  1.755589e-01  1.850748e-01  2.376158e-01  1.656338e-01  1.722455e-01  2.043892e-01
+ [78]  1.151159e-01 -3.019094e-01 -3.241993e-03  3.437312e-01  4.884608e-01  3.036175e-01 -5.608387e-02
+ [85]  1.507131e-01  5.752606e-01 -1.177532e-02  2.904986e-01  2.163490e-01  2.243561e-01  1.908097e-01
+ [92]  1.252537e-01  7.833211e-02  3.002986e-01 -4.353297e-01  6.667111e-02 -1.099574e-01  3.025988e-01
+ [99] -5.421877e-01 -4.946381e-02 -5.107309e-01  2.939740e-01  1.302780e-01 -1.088053e-01  1.397614e-01
+[106] -2.734691e-01  1.952955e-01  7.079499e-02  2.512608e-01  2.257099e-01  6.434827e-02 -9.713764e-01
+[113] -1.140017e-01  7.509171e-02 -2.449902e-01  2.635276e-01  1.312164e-01  1.195301e-01  4.227400e-02
+[120] -2.074444e-01  9.297748e-02  2.666251e-01  2.895514e-01  1.750804e-01  2.098056e-01  9.732803e-02
+[127]  2.891059e-01  2.950948e-02  1.955008e-01  4.047538e-01  1.697593e-01  6.790759e-02  1.076282e-01
+[134]  2.037570e-01  1.872612e-01  3.651678e-01 -6.092594e-01  1.660788e-01 -3.201956e-01  1.853933e-01
+[141]  8.312671e-02  2.239809e-02  1.369224e-01  1.560845e-01  1.352519e-01  6.991363e-02  2.154140e-01
+[148] -9.808293e-01  2.513220e-01 -6.845973e-02  8.566703e-02  1.851045e-01  1.599041e-01  1.288603e-01
+[155]  1.005342e-01  1.847020e-01  1.179265e-01  7.130849e-01 -8.032259e-01 -2.264403e-01  1.480724e-01
+[162]  2.551911e-01  3.227453e-01  3.718985e-01  4.035513e-01  1.512979e-01  3.431357e-01  2.703179e-01
+[169]  6.618226e-02  1.492739e-01  1.127050e-01  4.891168e-02  1.847611e-01  1.682653e-01 -3.800726e-01
+[176] -6.282553e-01 -6.931472e-01 -2.231436e-01  1.943103e-01  2.733396e-01 -3.979100e-01 -5.405839e-01
+[183]  1.661085e-01  2.703682e-02  2.340233e-01  3.621316e-01  1.752181e-02 -3.237188e-01  4.139401e-02
+[190]  1.370162e-01  5.091771e-02 -2.977277e-02  2.477994e-01  5.562647e-01 -1.443929e-02  4.718634e-02
+[197]  3.908944e-01  2.361952e-01  1.290765e-01  2.829102e-01  3.037494e-01 -4.173798e-01  2.543437e-01
+[204]  1.350069e-01 -3.330101e-01  2.036979e-01  1.758907e-01  7.320808e-01 -4.611798e-02 -1.027782e+00
+[211] -7.189631e-02  2.973016e-01  1.227601e-01  9.611994e-02  2.749781e-01 -1.130259e+01  1.478562e-01
+[218]  1.323020e-01  1.194143e-01 -1.811090e-01  8.886772e-02 -4.142773e-01  1.057732e-01 -1.034801e-01
+[225] -1.134480e-02 -2.788770e-02 -2.712206e-02  1.785007e-01  6.669084e-02  8.863227e-02  8.677733e-02
+[232] -1.224760e-01  3.461719e-01 -3.983839e-01  1.974966e-01 -8.472979e-01 -1.046778e+00 -6.931472e-01
+[239] -1.872669e-13 -1.386294e+00 -7.842300e-01 -3.423254e-01 -1.474104e-03 -3.427147e-01 -1.130259e+01
+[246]  1.417561e-01  3.845554e-01 -9.162907e-01  1.964181e-01  1.021226e-01  1.409082e-01  2.617544e-01
+[253] -6.705687e-02  6.090178e-02  2.876821e-01 -6.963874e-14 -3.395656e-01 -5.595798e-01  2.807503e-01
+[260]  7.989770e-02  5.074567e-01 -2.188109e-01  1.858284e-01 -3.011997e-01 -3.520060e-01  1.542478e-01
+[267]  4.963899e-02  2.053347e-01  7.938392e-02 -5.466777e-02  1.753144e-01 -4.725684e-01  2.924503e-01
+[274]  2.915455e-01 -3.758913e-01 -3.343520e-02 -5.108256e-01  1.477293e-01  3.964731e-01  2.088783e-01
+[281]  9.837983e-02  2.725496e-01  9.555583e-02  5.609579e-02  3.774772e-01 -2.231436e-01  2.734543e-01
+[288]  8.904714e-02 -4.169059e-01  1.709043e-01  1.436123e-03  7.651122e-03  1.311427e-01 -3.605379e-01
+[295]  3.584812e-01  1.950596e-01  3.057394e-01 -5.231917e-01  1.287334e-01  1.863388e-01  4.811450e-02
+[302] -1.755979e-02  1.121468e-01 -2.521256e-01 -1.501725e-01 -6.963383e-01  3.455877e-02  6.711042e-02
+[309] -3.610767e-01  1.519084e-01  2.193572e-01 -9.089223e-02  8.836133e-02 -2.331297e-01  1.534606e-01
+[316] -1.782307e+00 -3.825916e-01 -6.453852e-02  2.003613e-01  1.145517e-01  1.073573e-01 -6.789342e-01
+[323]  1.271880e-01  1.249143e-01 -4.513758e-01  1.973371e-01 -6.899287e-02 -3.205697e-01  3.192836e-01
+[330]  1.532496e-01  1.344646e-01  3.531991e-02 -1.801303e+00  1.439103e-01  1.461839e-01  3.064307e-02
+[337] -5.297268e-01  5.431583e-02  9.370908e-02 -2.623643e-01 -8.980941e-02 -3.209053e-01 -4.323799e-01
+[344]  1.783412e-01 -3.415420e-01  2.995667e-01 -1.311765e-01  2.004693e-01  2.502150e-01  3.382795e-01
+[351]  2.093128e-01  1.286791e-01 -1.130259e+01 -2.156948e-01 -4.163338e-01 -2.379902e-13  1.096832e-01
+[358] -1.617080e+00  1.933044e-01  1.957337e-01  5.768764e-02 -8.891785e-03 -3.568954e-01 -1.598084e+00
+[365] -1.541507e-01 -5.160605e-02 -4.535725e-01 -1.791759e+00 -1.138764e-02  2.277267e-01 -1.028521e-01
+[372] -3.236703e-01  2.181261e-01  2.194431e-01  1.489766e-01 -1.077975e-01 -1.631677e-02 -1.155294e-01
+[379] -5.759200e-01  9.549364e-02 -1.130259e+01  1.824442e-01 -3.038355e-02  2.087308e-01  3.922071e-02
+[386] -7.060197e-02 -2.876821e-01  2.679148e-03 -9.653350e-02 -5.569241e-01  1.814734e-01 -1.386294e+00
+[393] -6.931472e-01  2.327808e-02  3.581806e-01 -1.130259e+01 -1.178655e+00  3.739425e-01 -3.136576e-01
+[400]  2.501317e-01  3.185626e-01 -8.385620e-02 -3.046744e-01  7.649773e-02 -2.353050e-02  4.456729e-01
+[407]  3.151547e-02  2.414590e-01  1.634483e-01  1.228999e-01  1.898824e-01  3.869173e-02  2.036259e-02
+[414] -2.463144e-01  2.847535e-01  2.476292e-01  2.639143e-01  1.280870e-01  1.806281e-01  3.391847e-01
+[421]  1.299807e-01  1.743085e-01 -2.653103e-01 -1.522549e-02 -1.267934e-01 -1.440809e-01  3.549466e-01
+[428]  1.251956e-02  2.082072e-01  2.518812e-01 -1.138798e-01 -4.818853e-02  1.039040e-01  1.053605e-01
+[435]  2.503556e-01  1.892113e-01 -1.177830e-01  5.390684e-03  3.770426e-03  2.004471e-01  2.224630e-01
+[442]  2.311358e-01 -1.328757e-01 -1.630768e-01  2.645828e-01 -6.979301e-01  4.065326e-01  2.862625e-01
+[449]  4.646688e-01  2.313597e-01  2.328853e-01  1.556286e-02  6.931472e-01 -9.015333e-02 -6.773424e-01
+[456] -2.035990e-01  3.875366e-01 -7.128449e-02 -5.978370e-01  1.767378e-01 -1.940207e-01  1.024495e-01
+[463] -9.028040e-02  2.024662e-01  1.214454e-01  2.485366e-01  3.959220e-01  4.769493e-02 -3.303180e-01
+[470]  1.361067e-01 -2.130166e-01 -5.791381e-02  1.692172e-01  4.003152e-01 -3.178375e-02  3.935850e-02
+[477] -1.005989e-01  3.394270e-01 -4.251183e-13 -3.493139e-01  1.171108e-01  7.629127e-02  4.193111e-01
+[484]  3.204310e-01 -2.519903e-01  5.715841e-02 -6.931472e-01  3.503891e-01  9.528718e-02 -8.160295e-02
+[491] -2.329944e-01 -4.221776e-01  1.834703e-01 -1.051649e+00 -3.991731e-01  6.827256e-02  6.106213e-02
+[498]  2.098886e-01  2.295407e-01  1.660236e-01  1.681360e-01  1.180202e-01 -6.931472e-01 -1.091492e-01
+[505]  4.924765e-01  2.714713e-01  1.167827e-01 -2.972251e-01  4.927665e-02 -4.031817e-01  7.145896e-02
+[512] -2.782292e-01 -7.690973e-02  2.524754e-01  3.229628e-01  2.308907e-01 -1.966989e-01 -3.243021e-01
+[519] -1.070645e+00 -2.762813e-01  2.498866e-01 -7.951532e-02 -2.572854e-01  1.357786e-01  1.850195e-01
+[526]  3.034678e-01 -4.181691e-01 -6.051940e-02  5.596158e-01  2.835787e-01 -1.130259e+01 -2.223863e-01
+[533] -9.580107e-01 -1.085989e+00 -2.023413e-01  2.844719e-01 -7.705743e-02  9.043845e-02 -1.130259e+01
+[540] -1.833454e-01  4.535412e-04  5.406722e-02  1.110482e-01  8.005805e-02 -1.596150e-01 -2.033904e-01
+[547]  2.288845e-01  1.882131e-01  2.307634e-01  1.358023e-01  4.286602e-01  2.968445e-01 -6.544331e-02
+[554]  2.489013e-01  5.156338e-01  3.053089e-01  2.270256e-01  2.876821e-01  7.459506e-02  1.645228e-01
+[561] -2.178715e-01  1.835187e-01  2.080297e-01  1.547983e-01  4.966379e-01  7.144253e-02 -1.227629e-13
+[568] -1.130259e+01  2.117675e-01  3.039669e-01 -8.443923e-02  2.778486e-01  4.149180e-01 -1.406191e-01
+[575] -6.286087e-01  9.359098e-02 -1.854238e-02 -9.963027e-03  3.507628e-01  2.291700e-01  1.945375e-01
+[582] -2.895894e-02  2.101741e-01  3.317668e-01 -8.355149e-03  5.108256e-01  3.644816e-01 -1.130259e+01
+[589]  7.699710e-02  1.702996e-02  1.064077e-02  3.454857e-01  1.879034e-01 -9.390148e-01 -5.806151e-02
+[596]  3.602587e-02  1.361298e-01 -1.264329e-02  1.171339e-01  2.876821e-01  2.068994e-01 -1.025579e+00
+[603] -1.988756e-01 -5.077966e-02  4.882515e-01 -5.596158e-01  3.655379e-02 -3.432980e-01  6.352628e-03
+[610] -1.104984e+00 -1.130259e+01 -6.035668e-02  5.072474e-01  2.353138e-01 -2.919261e-02 -1.316146e-01
+[617]  2.411621e-01 -1.762197e-01 -7.935260e-02 -8.109302e-01 -1.098612e+00  2.159629e-01 -9.689992e-01
+[624] -1.506105e-01  2.334795e-01  1.960315e-01  3.394853e-01  1.942731e-01 -7.945407e-01 -1.667148e-01
+[631]  2.349588e-01  3.243048e-01 -1.033046e-02  4.632992e-01  1.483481e-01 -5.451869e-01  2.893101e-01
+[638]  1.925813e-01 -2.932638e-02  3.529026e-01  2.812918e-01  1.086460e-01  2.323223e-01  2.652044e-01
+[645]  1.080431e-01  1.154090e-01 -7.761501e-02  2.462085e-01  5.800118e-02 -5.261910e-01  5.287025e-01
+[652]  5.097066e-01 -1.130259e+01  2.703141e-01  5.836192e-02 -5.306283e-01  1.662565e-01 -5.861909e-02
+[659] -1.998150e-01 -1.044575e+00 -8.836738e-02  1.472606e-01  1.673440e-01 -1.477189e-01  2.115772e-01
+[666]  1.326530e-01  7.735783e-02 -7.621401e-01 -1.673018e-01 -6.937146e-02 -1.483059e-01 -1.130259e+01
+[673] -2.006707e-01  4.476561e-01  3.040291e-01 -7.751549e-01  1.991302e-01 -6.368161e-02  1.344050e-01
+[680]  2.678973e-01  2.761470e-01 -4.879016e-02  1.500174e-01  2.951429e-01 -4.994714e-01 -9.927525e-02
+[687] -9.879951e-01  3.449608e-01  5.554971e-02 -9.808702e-03  2.163179e-01  1.690133e-01 -3.742339e-01
+[694]  2.299054e-01  1.162560e-01  1.908927e-01  2.656256e-01  2.398568e-01  1.264336e-01  5.711892e-02
+[701] -2.880462e-02  1.454295e-01  5.108256e-01  9.205228e-02 -4.118373e-01  2.318930e-01  1.091993e-01
+[708]  2.128971e-01 -1.952156e-01  5.371672e-01 -2.517707e-01 -7.755448e-01 -1.098612e+00 -6.567795e-01
+[715] -6.931472e-01  2.076394e-01 -1.360523e-02  7.611484e-02  1.765655e-01 -8.027933e-02 -2.327748e-01
+[722] -3.483067e-01  1.516489e-01  1.331171e-01  2.870744e-01  4.822951e-01 -5.460869e-01 -1.327389e-02
+[729]  1.299115e-01  1.521130e-01  2.680785e-01  3.700551e-01  1.489074e-01  3.052584e-01 -3.928413e-01
+[736]  3.890511e-01  2.135335e-01 -1.125905e-13 -5.270910e-01  1.597694e-01  2.966171e-01 -4.468569e-02
+[743]  3.127709e-01  4.096643e-01  2.323261e-01  2.673170e-01  5.262686e-01  1.407735e-01  4.782334e-01
+[750] -7.561590e-01  4.972293e-01 -3.932299e-01 -1.098612e+00  5.452645e-01  3.156130e-01 -1.130259e+01
+[757]  1.541507e-01  3.693850e-01  3.083163e-01  7.365688e-01  2.783234e-01  2.036259e-02 -2.241742e-02
+[764]  2.893204e-01  3.794896e-01  6.287744e-01  3.639567e-01 -3.071823e-01  5.406722e-02  4.878627e-01
+[771]  2.553547e-01 -2.881863e-01 -1.130259e+01  6.097785e-01 -3.593013e-01 -3.782972e-01  3.935850e-02
+[778]  2.484544e-01  2.902513e-01  2.674503e-01  1.575696e-01  5.722028e-03  1.808334e-01 -6.931472e-01
+[785]  3.230250e-01  2.593275e-01 -1.130259e+01 -6.931472e-01  1.860348e-01  2.050307e-01  2.363588e-01
+[792]  2.736269e-01  2.712554e-01  7.175728e-01 -5.184673e-01  2.546310e-01  6.675908e-02  9.452854e-03
+[799] -1.130259e+01  2.713433e-01  2.903392e-01 -1.130259e+01  5.181713e-01  4.688667e-01  1.618375e-01
+[806]  8.575500e-02 -9.543064e-03  4.964369e-01 -4.141333e-02 -2.876821e-01
+
+#Summary
+
+Call:
+glm(formula = RunsScored ~ StrikeBatsman + Inning, family = poisson, 
+    data = FinalDataFrame)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.0439  -1.5383  -0.2792  -0.0086   4.1494  
+
+Coefficients:
+                                    Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                        3.835e-01  6.018e-02   6.372 1.86e-10 ***
+StrikeBatsmanA Chandila           -9.241e-01  5.036e-01  -1.835 0.066488 .  
+StrikeBatsmanA Chopra             -6.975e-01  1.498e-01  -4.656 3.23e-06 ***
+StrikeBatsmanA Flintoff           -2.661e-01  1.404e-01  -1.896 0.057995 .  
+StrikeBatsmanA Kumble             -6.882e-01  1.793e-01  -3.838 0.000124 ***
+StrikeBatsmanA Mishra             -4.680e-01  8.372e-02  -5.590 2.27e-08 ***
+StrikeBatsmanA Mithun             -8.090e-02  1.816e-01  -0.445 0.656000    
+StrikeBatsmanA Mukund             -5.643e-01  2.432e-01  -2.321 0.020308 *  
+StrikeBatsmanA Nehra              -7.808e-01  1.672e-01  -4.669 3.02e-06 ***
+StrikeBatsmanA Singh              -1.963e+00  7.096e-01  -2.766 0.005681 ** 
+StrikeBatsmanA Symonds            -1.362e-01  6.781e-02  -2.008 0.044626 *  
+StrikeBatsmanA Uniyal             -9.214e-01  5.036e-01  -1.830 0.067283 .  
+StrikeBatsmanA Zampa              -1.165e+01  1.727e+02  -0.067 0.946212    
+StrikeBatsmanAA Bilakhia          -5.976e-01  1.344e-01  -4.446 8.73e-06 ***
+StrikeBatsmanAA Chavan            -2.740e-01  2.948e-01  -0.930 0.352581    
+StrikeBatsmanAA Jhunjhunwala      -3.618e-01  9.044e-02  -4.000 6.32e-05 ***
+StrikeBatsmanAA Noffke            -6.332e-01  3.387e-01  -1.870 0.061537 .  
+StrikeBatsmanAB Agarkar           -2.450e-01  9.570e-02  -2.560 0.010478 *  
+StrikeBatsmanAB Barath            -3.690e-01  1.655e-01  -2.230 0.025766 *  
+StrikeBatsmanAB de Villiers        2.641e-02  6.227e-02   0.424 0.671434    
+StrikeBatsmanAB Dinda             -1.149e+00  2.371e-01  -4.845 1.26e-06 ***
+StrikeBatsmanAB McDonald          -1.687e-01  1.082e-01  -1.560 0.118767    
+StrikeBatsmanAbdur Razzak         -1.165e+01  1.221e+02  -0.095 0.923990    
+StrikeBatsmanAC Blizzard          -6.101e-02  1.094e-01  -0.558 0.577172    
+StrikeBatsmanAC Gilchrist         -5.638e-02  6.370e-02  -0.885 0.376149    
+StrikeBatsmanAC Thomas            -2.962e-01  2.315e-01  -1.280 0.200651    
+StrikeBatsmanAC Voges             -1.230e-01  9.538e-02  -1.290 0.197095    
+StrikeBatsmanAD Mascarenhas       -3.568e-01  1.274e-01  -2.801 0.005095 ** 
+StrikeBatsmanAD Mathews           -1.640e-01  7.083e-02  -2.316 0.020577 *  
+StrikeBatsmanAD Nath              -6.527e-01  2.315e-01  -2.820 0.004805 ** 
+StrikeBatsmanAD Russell            1.428e-01  7.291e-02   1.958 0.050202 .  
+StrikeBatsmanAG Murtaza           -6.888e-01  3.218e-01  -2.140 0.032336 *  
+StrikeBatsmanAG Paunikar          -5.585e-01  1.549e-01  -3.607 0.000310 ***
+StrikeBatsmanAJ Finch             -1.620e-01  6.589e-02  -2.459 0.013935 *  
+StrikeBatsmanAL Menaria           -2.692e-01  7.788e-02  -3.457 0.000547 ***
+StrikeBatsmanAM Nayar             -2.202e-01  7.113e-02  -3.096 0.001961 ** 
+StrikeBatsmanAM Rahane            -1.894e-01  6.282e-02  -3.015 0.002571 ** 
+StrikeBatsmanAN Ahmed             -5.922e-02  1.771e-01  -0.334 0.738040    
+StrikeBatsmanAN Ghosh             -4.957e-01  3.827e-01  -1.295 0.195221    
+StrikeBatsmanAnirudh Singh        -4.483e-01  1.394e-01  -3.215 0.001304 ** 
+StrikeBatsmanAnkit Sharma         -1.810e-01  1.404e-01  -1.289 0.197297    
+StrikeBatsmanAnureet Singh        -8.916e-01  2.432e-01  -3.666 0.000246 ***
+StrikeBatsmanAP Dole               4.205e-02  1.816e-01   0.232 0.816906    
+StrikeBatsmanAP Majumdar          -2.284e-01  1.228e-01  -1.860 0.062850 .  
+StrikeBatsmanAP Tare              -1.464e-01  8.183e-02  -1.788 0.073699 .  
+StrikeBatsmanAR Patel             -1.955e-01  7.880e-02  -2.480 0.013122 *  
+StrikeBatsmanAS Rajpoot           -1.444e+00  7.096e-01  -2.035 0.041852 *  
+StrikeBatsmanAS Raut              -2.333e-01  9.342e-02  -2.498 0.012496 *  
+StrikeBatsmanAS Yadav             -1.597e-01  1.549e-01  -1.031 0.302555    
+StrikeBatsmanAT Rayudu            -1.450e-01  6.326e-02  -2.293 0.021860 *  
+StrikeBatsmanAUK Pathan            5.483e-02  1.709e-01   0.321 0.748375    
+StrikeBatsmanAzhar Mahmood        -1.353e-01  7.841e-02  -1.726 0.084418 .  
+StrikeBatsmanB Akhil              -6.718e-02  1.293e-01  -0.519 0.603485    
+StrikeBatsmanB Chipli             -2.624e-01  8.452e-02  -3.104 0.001908 ** 
+StrikeBatsmanB Kumar              -3.640e-01  1.003e-01  -3.628 0.000285 ***
+StrikeBatsmanB Laughlin           -1.156e+00  5.036e-01  -2.296 0.021650 *  
+StrikeBatsmanB Lee                -1.601e-01  1.079e-01  -1.484 0.137778    
+StrikeBatsmanB Sumanth            -4.358e-01  1.793e-01  -2.431 0.015075 *  
+StrikeBatsmanBA Bhatt             -5.051e-01  4.126e-01  -1.224 0.220883    
+StrikeBatsmanBAW Mendis           -1.042e+00  5.804e-01  -1.795 0.072671 .  
+StrikeBatsmanBB McCullum          -1.314e-01  6.311e-02  -2.082 0.037306 *  
+StrikeBatsmanBB Samantray         -2.875e-01  1.076e-01  -2.672 0.007534 ** 
+StrikeBatsmanBB Sran              -3.550e-01  5.036e-01  -0.705 0.480786    
+StrikeBatsmanBCJ Cutting           1.727e-01  1.314e-01   1.314 0.188832    
+StrikeBatsmanBE Hendricks         -1.463e+00  1.002e+00  -1.460 0.144157    
+StrikeBatsmanBipul Sharma          1.002e-01  9.991e-02   1.003 0.315969    
+StrikeBatsmanBJ Haddin             1.280e-01  2.432e-01   0.526 0.598637    
+StrikeBatsmanBJ Hodge             -1.608e-01  6.547e-02  -2.456 0.014051 *  
+StrikeBatsmanBJ Rohrer            -7.517e-02  9.356e-02  -0.803 0.421702    
+StrikeBatsmanBMAJ Mendis          -5.122e-01  2.169e-01  -2.361 0.018210 *  
+StrikeBatsmanBR Dunk              -2.191e-01  1.690e-01  -1.296 0.195009    
+StrikeBatsmanC Madan              -9.623e-01  3.074e-01  -3.131 0.001744 ** 
+StrikeBatsmanC Munro              -3.869e-01  1.921e-01  -2.014 0.044012 *  
+StrikeBatsmanC Nanda              -1.165e+01  1.727e+02  -0.067 0.946212    
+StrikeBatsmanCA Ingram            -5.679e-01  2.263e-01  -2.510 0.012077 *  
+StrikeBatsmanCA Lynn              -3.089e-01  1.217e-01  -2.539 0.011125 *  
+StrikeBatsmanCA Pujara            -3.759e-01  7.841e-02  -4.793 1.64e-06 ***
+StrikeBatsmanCH Gayle              3.199e-02  6.215e-02   0.515 0.606716    
+StrikeBatsmanCH Morris             1.178e-01  8.415e-02   1.400 0.161500    
+StrikeBatsmanCJ Anderson          -6.934e-02  7.880e-02  -0.880 0.378919    
+StrikeBatsmanCJ Ferguson          -5.478e-01  1.174e-01  -4.667 3.05e-06 ***
+StrikeBatsmanCJ Jordan            -6.332e-01  5.804e-01  -1.091 0.275345    
+StrikeBatsmanCJ McKay             -9.931e-01  3.586e-01  -2.770 0.005613 ** 
+StrikeBatsmanCK Kapugedera        -7.629e-01  2.570e-01  -2.968 0.002999 ** 
+StrikeBatsmanCK Langeveldt        -4.633e-01  3.586e-01  -1.292 0.196374    
+StrikeBatsmanCL White             -1.305e-01  6.783e-02  -1.923 0.054451 .  
+StrikeBatsmanCM Gautam            -2.871e-01  9.741e-02  -2.948 0.003203 ** 
+StrikeBatsmanCR Brathwaite         3.721e-01  1.250e-01   2.977 0.002909 ** 
+StrikeBatsmanCRD Fernando         -5.780e-02  5.036e-01  -0.115 0.908613    
+StrikeBatsmanD du Preez           -6.268e-01  3.218e-01  -1.948 0.051446 .  
+StrikeBatsmanD Kalyankrishna      -1.345e+00  5.804e-01  -2.318 0.020463 *  
+StrikeBatsmanD Salunkhe           -4.289e-02  1.841e-01  -0.233 0.815752    
+StrikeBatsmanD Wiese              -4.887e-02  1.070e-01  -0.457 0.647872    
+StrikeBatsmanDA Miller            -1.372e-02  6.517e-02  -0.210 0.833279    
+StrikeBatsmanDA Warner            -2.620e-02  6.221e-02  -0.421 0.673632    
+StrikeBatsmanDAJ Bracewell        -5.780e-02  2.948e-01  -0.196 0.844555    
+StrikeBatsmanDB Das               -2.276e-01  8.283e-02  -2.747 0.006009 ** 
+StrikeBatsmanDB Ravi Teja         -2.132e-01  7.898e-02  -2.699 0.006952 ** 
+StrikeBatsmanDE Bollinger         -4.546e-01  2.263e-01  -2.009 0.044501 *  
+StrikeBatsmanDH Yagnik            -1.795e-01  9.723e-02  -1.846 0.064938 .  
+StrikeBatsmanDJ Bravo             -1.547e-01  6.606e-02  -2.341 0.019208 *  
+StrikeBatsmanDJ Harris            -2.709e-01  1.125e-01  -2.407 0.016069 *  
+StrikeBatsmanDJ Hooda             -7.741e-02  8.344e-02  -0.928 0.353567    
+StrikeBatsmanDJ Hussey            -1.736e-01  6.579e-02  -2.638 0.008334 ** 
+StrikeBatsmanDJ Jacobs            -4.461e-01  1.217e-01  -3.666 0.000247 ***
+StrikeBatsmanDJ Muthuswami        -1.463e+00  1.002e+00  -1.460 0.144157    
+StrikeBatsmanDJ Thornely          -6.878e-01  1.709e-01  -4.024 5.72e-05 ***
+StrikeBatsmanDJG Sammy            -1.982e-01  8.344e-02  -2.376 0.017515 *  
+StrikeBatsmanDL Vettori           -3.299e-01  1.088e-01  -3.033 0.002425 ** 
+StrikeBatsmanDNT Zoysa            -1.491e-01  3.074e-01  -0.485 0.627706    
+StrikeBatsmanDP Nannes            -1.524e+00  5.036e-01  -3.027 0.002473 ** 
+StrikeBatsmanDP Vijaykumar        -3.455e-01  1.002e+00  -0.345 0.730193    
+StrikeBatsmanDPMD Jayawardene     -1.794e-01  6.424e-02  -2.793 0.005229 ** 
+StrikeBatsmanDR Martyn            -6.781e-01  2.371e-01  -2.860 0.004231 ** 
+StrikeBatsmanDR Smith             -8.373e-02  6.359e-02  -1.317 0.187894    
+StrikeBatsmanDS Kulkarni          -4.543e-01  1.217e-01  -3.733 0.000189 ***
+StrikeBatsmanDS Lehmann           -4.016e-01  2.432e-01  -1.651 0.098662 .  
+StrikeBatsmanDT Christian         -2.284e-01  8.065e-02  -2.832 0.004631 ** 
+StrikeBatsmanDT Patil             -3.470e-01  2.837e-01  -1.223 0.221381    
+StrikeBatsmanDW Steyn             -3.231e-01  9.796e-02  -3.298 0.000973 ***
+StrikeBatsmanEJG Morgan           -1.820e-01  6.959e-02  -2.616 0.008897 ** 
+StrikeBatsmanER Dwivedi            1.320e-01  2.169e-01   0.608 0.542978    
+StrikeBatsmanF Behardien          -2.787e-01  2.739e-01  -1.018 0.308793    
+StrikeBatsmanF du Plessis         -1.337e-01  6.595e-02  -2.027 0.042615 *  
+StrikeBatsmanFH Edwards           -5.876e-01  5.036e-01  -1.167 0.243237    
+StrikeBatsmanFY Fazal             -3.330e-01  9.506e-02  -3.503 0.000461 ***
+StrikeBatsmanG Gambhir            -1.690e-01  6.204e-02  -2.724 0.006452 ** 
+StrikeBatsmanGB Hogg              -3.455e-01  2.214e-01  -1.560 0.118715    
+StrikeBatsmanGC Smith             -2.788e-01  7.021e-02  -3.971 7.15e-05 ***
+StrikeBatsmanGD McGrath           -5.686e-01  5.036e-01  -1.129 0.258813    
+StrikeBatsmanGH Vihari            -4.961e-01  8.452e-02  -5.870 4.37e-09 ***
+StrikeBatsmanGJ Bailey            -1.712e-01  7.127e-02  -2.402 0.016317 *  
+StrikeBatsmanGJ Maxwell            8.317e-02  6.826e-02   1.218 0.223053    
+StrikeBatsmanGR Napier            -4.290e-01  2.650e-01  -1.619 0.105502    
+StrikeBatsmanGurkeerat Singh      -1.576e-01  8.059e-02  -1.955 0.050554 .  
+StrikeBatsmanH Das                -1.262e+00  7.096e-01  -1.778 0.075393 .  
+StrikeBatsmanHarbhajan Singh      -4.519e-02  6.963e-02  -0.649 0.516377    
+StrikeBatsmanHarmeet Singh         5.044e-02  2.432e-01   0.207 0.835682    
+StrikeBatsmanHarpreet Singh       -6.218e-01  2.315e-01  -2.686 0.007224 ** 
+StrikeBatsmanHH Gibbs             -2.946e-01  6.856e-02  -4.297 1.73e-05 ***
+StrikeBatsmanHH Pandya            -2.047e-01  9.991e-02  -2.049 0.040462 *  
+StrikeBatsmanHM Amla              -9.085e-02  9.971e-02  -0.911 0.362180    
+StrikeBatsmanHV Patel             -1.375e-01  1.576e-01  -0.872 0.383237    
+StrikeBatsmanI Malhotra            1.951e-01  3.827e-01   0.510 0.610097    
+StrikeBatsmanI Sharma             -5.719e-01  1.749e-01  -3.270 0.001077 ** 
+StrikeBatsmanIC Pandey            -1.165e+01  1.221e+02  -0.095 0.923990    
+StrikeBatsmanIK Pathan            -1.988e-01  6.665e-02  -2.983 0.002852 ** 
+StrikeBatsmanImran Tahir          -5.973e-01  2.432e-01  -2.456 0.014042 *  
+StrikeBatsmanIqbal Abdulla        -2.978e-01  1.250e-01  -2.382 0.017207 *  
+StrikeBatsmanIR Jaggi             -6.948e-01  1.638e-01  -4.242 2.22e-05 ***
+StrikeBatsmanIshan Kishan         -3.251e-01  1.655e-01  -1.965 0.049451 *  
+StrikeBatsmanJ Arunkumar          -3.916e-01  2.214e-01  -1.769 0.076977 .  
+StrikeBatsmanJ Botha              -2.358e-01  7.757e-02  -3.040 0.002368 ** 
+StrikeBatsmanJ Suchith             2.457e-02  1.562e-01   0.157 0.875036    
+StrikeBatsmanJ Syed Mohammad      -2.740e-01  1.951e-01  -1.405 0.160151    
+StrikeBatsmanJ Theron             -6.108e-01  3.218e-01  -1.898 0.057713 .  
+StrikeBatsmanJ Yadav              -1.058e+00  4.126e-01  -2.563 0.010368 *  
+StrikeBatsmanJA Morkel            -4.174e-02  6.780e-02  -0.616 0.538183    
+StrikeBatsmanJaskaran Singh       -6.692e-01  3.586e-01  -1.866 0.062018 .  
+StrikeBatsmanJC Buttler           -5.617e-02  8.656e-02  -0.649 0.516441    
+StrikeBatsmanJD Ryder             -7.203e-02  7.234e-02  -0.996 0.319376    
+StrikeBatsmanJD Unadkat           -1.333e+00  5.804e-01  -2.297 0.021597 *  
+StrikeBatsmanJDP Oram             -4.002e-01  1.141e-01  -3.508 0.000451 ***
+StrikeBatsmanJDS Neesham          -4.448e-01  1.655e-01  -2.688 0.007192 ** 
+StrikeBatsmanJE Taylor            -6.427e-01  5.804e-01  -1.107 0.268168    
+StrikeBatsmanJEC Franklin         -2.844e-01  8.144e-02  -3.493 0.000478 ***
+StrikeBatsmanJH Kallis            -2.937e-01  6.314e-02  -4.651 3.30e-06 ***
+StrikeBatsmanJJ Bumrah            -8.640e-01  3.386e-01  -2.551 0.010736 *  
+StrikeBatsmanJJ van der Wath      -2.883e-01  2.432e-01  -1.186 0.235756    
+StrikeBatsmanJM Kemp              -3.063e-01  2.050e-01  -1.494 0.135260    
+StrikeBatsmanJO Holder            -1.879e-01  1.729e-01  -1.087 0.277051    
+StrikeBatsmanJoginder Sharma      -1.702e-01  1.771e-01  -0.961 0.336506    
+StrikeBatsmanJP Duminy            -1.591e-01  6.382e-02  -2.494 0.012646 *  
+StrikeBatsmanJP Faulkner          -4.018e-02  7.541e-02  -0.533 0.594186    
+StrikeBatsmanJR Hopes             -6.940e-02  7.727e-02  -0.898 0.369111    
+StrikeBatsmanK Goel               -4.383e-01  9.033e-02  -4.853 1.22e-06 ***
+StrikeBatsmanK Upadhyay           -5.780e-02  2.948e-01  -0.196 0.844555    
+StrikeBatsmanKA Pollard           -6.301e-03  6.389e-02  -0.099 0.921437    
+StrikeBatsmanKAJ Roach            -2.401e-01  3.218e-01  -0.746 0.455605    
+StrikeBatsmanKamran Akmal          1.430e-01  1.067e-01   1.340 0.180261    
+StrikeBatsmanKamran Khan          -8.563e-01  5.804e-01  -1.475 0.140139    
+StrikeBatsmanKaranveer Singh      -6.938e-01  2.948e-01  -2.353 0.018605 *  
+StrikeBatsmanKB Arun Karthik      -3.937e-01  1.522e-01  -2.586 0.009717 ** 
+StrikeBatsmanKC Cariappa          -1.836e-01  2.837e-01  -0.647 0.517446    
+StrikeBatsmanKC Sangakkara        -1.889e-01  6.454e-02  -2.927 0.003422 ** 
+StrikeBatsmanKD Karthik           -1.607e-01  6.297e-02  -2.553 0.010695 *  
+StrikeBatsmanKH Pandya             2.643e-01  8.827e-02   2.994 0.002752 ** 
+StrikeBatsmanKJ Abbott             1.234e-01  2.837e-01   0.435 0.663656    
+StrikeBatsmanKK Cooper             1.512e-01  1.104e-01   1.369 0.171036    
+StrikeBatsmanKK Nair              -1.292e-01  6.864e-02  -1.882 0.059875 .  
+StrikeBatsmanKL Rahul             -1.529e-01  7.036e-02  -2.173 0.029771 *  
+StrikeBatsmanKM Jadhav            -1.126e-01  7.190e-02  -1.566 0.117308    
+StrikeBatsmanKMDN Kulasekara       1.653e-01  4.512e-01   0.366 0.714032    
+StrikeBatsmanKP Appanna           -1.043e+00  7.096e-01  -1.470 0.141462    
+StrikeBatsmanKP Pietersen         -7.294e-02  6.761e-02  -1.079 0.280721    
+StrikeBatsmanKS Williamson        -3.588e-01  1.001e-01  -3.583 0.000339 ***
+StrikeBatsmanKV Sharma            -2.564e-01  8.546e-02  -3.001 0.002693 ** 
+StrikeBatsmanKW Richardson        -4.339e-01  1.771e-01  -2.450 0.014272 *  
+StrikeBatsmanL Ablish             -1.165e+01  1.221e+02  -0.095 0.923990    
+StrikeBatsmanL Balaji             -6.851e-01  1.771e-01  -3.869 0.000109 ***
+StrikeBatsmanL Ronchi             -3.573e-01  1.816e-01  -1.967 0.049165 *  
+StrikeBatsmanLA Carseldine        -2.183e-01  1.262e-01  -1.730 0.083609 .  
+StrikeBatsmanLA Pomersbach        -1.670e-01  8.297e-02  -2.013 0.044161 *  
+StrikeBatsmanLJ Wright             1.642e-01  1.140e-01   1.440 0.149864    
+StrikeBatsmanLMP Simmons          -1.326e-01  6.810e-02  -1.947 0.051538 .  
+StrikeBatsmanLPC Silva             3.907e-02  1.690e-01   0.231 0.817208    
+StrikeBatsmanLR Shukla            -2.333e-01  7.772e-02  -3.001 0.002688 ** 
+StrikeBatsmanLRPL Taylor          -1.692e-01  6.750e-02  -2.506 0.012194 *  
+StrikeBatsmanM Ashwin             -1.165e+01  1.727e+02  -0.067 0.946212    
+StrikeBatsmanM de Lange           -1.058e+00  1.002e+00  -1.056 0.291086    
+StrikeBatsmanM Kaif               -3.487e-01  8.622e-02  -4.045 5.24e-05 ***
+StrikeBatsmanM Kartik             -3.222e-01  1.115e-01  -2.891 0.003840 ** 
+StrikeBatsmanM Klinger            -4.250e-01  1.321e-01  -3.216 0.001298 ** 
+StrikeBatsmanM Manhas             -2.974e-01  7.428e-02  -4.003 6.25e-05 ***
+StrikeBatsmanM Morkel             -4.592e-02  1.073e-01  -0.428 0.668663    
+StrikeBatsmanM Muralitharan       -7.624e-01  2.315e-01  -3.294 0.000988 ***
+StrikeBatsmanM Ntini              -9.051e-01  3.074e-01  -2.944 0.003235 ** 
+StrikeBatsmanM Rawat              -5.905e-01  1.475e-01  -4.003 6.25e-05 ***
+StrikeBatsmanM Vijay              -1.671e-01  6.303e-02  -2.652 0.008004 ** 
+StrikeBatsmanM Vohra              -1.295e-01  7.032e-02  -1.842 0.065493 .  
+StrikeBatsmanMA Agarwal           -1.763e-01  6.970e-02  -2.529 0.011445 *  
+StrikeBatsmanMA Khote             -2.672e-01  2.127e-01  -1.256 0.209098    
+StrikeBatsmanMA Starc             -3.743e-01  1.183e-01  -3.165 0.001553 ** 
+StrikeBatsmanMandeep Singh        -1.563e-01  6.826e-02  -2.289 0.022060 *  
+StrikeBatsmanMashrafe Mortaza     -3.645e-01  7.096e-01  -0.514 0.607517    
+StrikeBatsmanMC Henriques         -1.556e-01  7.083e-02  -2.197 0.028038 *  
+StrikeBatsmanMC Juneja            -4.248e-01  1.076e-01  -3.949 7.84e-05 ***
+StrikeBatsmanMD Mishra            -2.416e-01  8.827e-02  -2.737 0.006204 ** 
+StrikeBatsmanMDKJ Perera          -1.233e-01  2.739e-01  -0.450 0.652504    
+StrikeBatsmanMEK Hussey           -1.773e-01  6.390e-02  -2.775 0.005516 ** 
+StrikeBatsmanMF Maharoof           6.862e-04  9.603e-02   0.007 0.994298    
+StrikeBatsmanMG Johnson           -4.231e-01  1.059e-01  -3.997 6.41e-05 ***
+StrikeBatsmanMisbah-ul-Haq        -2.350e-03  1.101e-01  -0.021 0.982969    
+StrikeBatsmanMJ Clarke            -3.285e-01  1.174e-01  -2.798 0.005141 ** 
+StrikeBatsmanMJ Guptill           -3.104e-01  1.453e-01  -2.136 0.032680 *  
+StrikeBatsmanMJ Lumb               9.461e-03  8.483e-02   0.112 0.911193    
+StrikeBatsmanMJ McClenaghan        1.327e-01  1.576e-01   0.842 0.399742    
+StrikeBatsmanMK Pandey            -2.102e-01  6.418e-02  -3.275 0.001055 ** 
+StrikeBatsmanMK Tiwary            -2.569e-01  6.578e-02  -3.905 9.43e-05 ***
+StrikeBatsmanML Hayden            -7.886e-02  6.689e-02  -1.179 0.238442    
+StrikeBatsmanMM Patel             -3.789e-01  1.709e-01  -2.217 0.026625 *  
+StrikeBatsmanMM Sharma            -2.128e-01  1.413e-01  -1.506 0.132003    
+StrikeBatsmanMN Samuels           -4.299e-01  1.056e-01  -4.072 4.66e-05 ***
+StrikeBatsmanMN van Wyk           -1.451e-01  9.796e-02  -1.481 0.138479    
+StrikeBatsmanMohammad Ashraful    -2.156e+00  7.096e-01  -3.039 0.002377 ** 
+StrikeBatsmanMohammad Asif        -1.039e+00  5.804e-01  -1.789 0.073553 .  
+StrikeBatsmanMohammad Hafeez      -6.308e-01  1.386e-01  -4.553 5.29e-06 ***
+StrikeBatsmanMohammed Shami       -1.140e+00  3.218e-01  -3.542 0.000397 ***
+StrikeBatsmanMP Stoinis           -8.616e-02  1.021e-01  -0.844 0.398684    
+StrikeBatsmanMR Marsh             -2.430e-01  8.953e-02  -2.715 0.006637 ** 
+StrikeBatsmanMS Bisla             -2.690e-01  6.952e-02  -3.869 0.000109 ***
+StrikeBatsmanMS Dhoni             -5.593e-02  6.227e-02  -0.898 0.369033    
+StrikeBatsmanMS Gony              -9.114e-02  1.169e-01  -0.779 0.435709    
+StrikeBatsmanMS Wade              -7.677e-01  2.214e-01  -3.467 0.000526 ***
+StrikeBatsmanMV Boucher           -1.388e-01  7.821e-02  -1.774 0.076000 .  
+StrikeBatsmanN Rana               -7.414e-02  1.148e-01  -0.646 0.518536    
+StrikeBatsmanN Saini              -3.744e-01  1.040e-01  -3.600 0.000318 ***
+StrikeBatsmanND Doshi             -1.167e+01  4.789e+01  -0.244 0.807507    
+StrikeBatsmanNJ Maddinson         -3.943e-01  2.315e-01  -1.703 0.088507 .  
+StrikeBatsmanNJ Rimmington        -3.645e-01  1.002e+00  -0.364 0.715984    
+StrikeBatsmanNK Patel             -3.734e-01  1.088e-01  -3.431 0.000601 ***
+StrikeBatsmanNL McCullum          -2.287e-01  2.050e-01  -1.115 0.264640    
+StrikeBatsmanNLTC Perera          -9.301e-02  7.701e-02  -1.208 0.227114    
+StrikeBatsmanNM Coulter-Nile      -4.092e-01  1.729e-01  -2.367 0.017944 *  
+StrikeBatsmanNS Naik              -7.238e-01  2.169e-01  -3.337 0.000848 ***
+StrikeBatsmanNV Ojha              -2.206e-01  6.522e-02  -3.382 0.000719 ***
+StrikeBatsmanOA Shah              -1.368e-01  7.449e-02  -1.836 0.066362 .  
+StrikeBatsmanP Awana              -1.390e+00  4.512e-01  -3.081 0.002064 ** 
+StrikeBatsmanP Dogra              -4.610e-01  1.070e-01  -4.309 1.64e-05 ***
+StrikeBatsmanP Kumar              -3.001e-01  8.114e-02  -3.699 0.000216 ***
+StrikeBatsmanP Negi               -1.509e-01  9.141e-02  -1.651 0.098679 .  
+StrikeBatsmanP Parameswaran       -1.450e+00  1.002e+00  -1.448 0.147649    
+StrikeBatsmanP Sahu                1.501e-02  2.371e-01   0.063 0.949525    
+StrikeBatsmanPA Patel             -2.525e-01  6.398e-02  -3.946 7.93e-05 ***
+StrikeBatsmanPA Reddy             -3.581e-01  9.853e-02  -3.635 0.000278 ***
+StrikeBatsmanPankaj Singh         -8.877e-01  3.827e-01  -2.320 0.020357 *  
+StrikeBatsmanParvez Rasool        -5.128e-01  2.498e-01  -2.053 0.040089 *  
+StrikeBatsmanPC Valthaty          -1.936e-01  7.454e-02  -2.597 0.009403 ** 
+StrikeBatsmanPD Collingwood       -1.141e-01  9.218e-02  -1.238 0.215703    
+StrikeBatsmanPJ Cummins           -1.165e+01  1.221e+02  -0.095 0.923990    
+StrikeBatsmanPJ Sangwan           -7.256e-01  2.214e-01  -3.277 0.001050 ** 
+StrikeBatsmanPM Sarvesh Kumar     -1.039e+00  1.002e+00  -1.037 0.299839    
+StrikeBatsmanPP Chawla            -2.494e-01  7.430e-02  -3.356 0.000790 ***
+StrikeBatsmanPP Ojha              -1.392e+00  2.570e-01  -5.416 6.08e-08 ***
+StrikeBatsmanPR Shah              -4.125e-01  1.202e-01  -3.433 0.000597 ***
+StrikeBatsmanPSP Handscomb        -1.058e+00  4.126e-01  -2.563 0.010368 *  
+StrikeBatsmanPV Tambe             -1.121e+00  2.432e-01  -4.608 4.06e-06 ***
+StrikeBatsmanQ de Kock            -9.928e-02  7.049e-02  -1.408 0.159043    
+StrikeBatsmanR Ashwin             -4.161e-01  8.889e-02  -4.681 2.86e-06 ***
+StrikeBatsmanR Bhatia             -1.772e-01  8.148e-02  -2.175 0.029631 *  
+StrikeBatsmanR Bishnoi            -2.499e-01  2.371e-01  -1.054 0.291780    
+StrikeBatsmanR Dhawan             -2.301e-01  1.005e-01  -2.288 0.022109 *  
+StrikeBatsmanR Dravid             -2.247e-01  6.350e-02  -3.539 0.000402 ***
+StrikeBatsmanR McLaren            -4.723e-01  9.950e-02  -4.746 2.07e-06 ***
+StrikeBatsmanR Ninan              -1.039e+00  5.804e-01  -1.789 0.073553 .  
+StrikeBatsmanR Rampaul            -3.748e-01  1.522e-01  -2.462 0.013822 *  
+StrikeBatsmanR Sathish            -2.155e-01  8.530e-02  -2.527 0.011519 *  
+StrikeBatsmanR Sharma             -5.086e-01  1.368e-01  -3.717 0.000202 ***
+StrikeBatsmanR Shukla             -5.407e-01  2.371e-01  -2.281 0.022567 *  
+StrikeBatsmanR Tewatia            -1.378e-01  2.571e-01  -0.536 0.591792    
+StrikeBatsmanR Vinay Kumar        -2.894e-01  8.283e-02  -3.494 0.000477 ***
+StrikeBatsmanRA Jadeja            -1.948e-01  6.486e-02  -3.003 0.002674 ** 
+StrikeBatsmanRE Levi              -2.097e-01  1.250e-01  -1.678 0.093412 .  
+StrikeBatsmanRE van der Merwe     -2.571e-01  9.930e-02  -2.589 0.009616 ** 
+StrikeBatsmanRG More              -3.645e-01  7.096e-01  -0.514 0.607517    
+StrikeBatsmanRG Sharma            -9.769e-02  6.189e-02  -1.578 0.114457    
+StrikeBatsmanRJ Harris            -3.102e-01  1.101e-01  -2.817 0.004840 ** 
+StrikeBatsmanRJ Peterson          -3.538e-01  1.866e-01  -1.896 0.057935 .  
+StrikeBatsmanRJ Quiney            -3.630e-01  1.152e-01  -3.150 0.001631 ** 
+StrikeBatsmanRN ten Doeschate     -4.152e-02  8.148e-02  -0.510 0.610360    
+StrikeBatsmanRP Singh             -7.598e-01  1.510e-01  -5.031 4.87e-07 ***
+StrikeBatsmanRR Bhatkal           -1.167e+01  1.221e+02  -0.096 0.923866    
+StrikeBatsmanRR Pant              -9.703e-02  9.288e-02  -1.045 0.296166    
+StrikeBatsmanRR Powar             -3.148e-01  1.360e-01  -2.315 0.020618 *  
+StrikeBatsmanRR Raje              -2.518e-01  2.315e-01  -1.088 0.276684    
+StrikeBatsmanRR Rossouw           -2.884e-01  1.498e-01  -1.925 0.054262 .  
+StrikeBatsmanRR Sarwan            -4.139e-01  1.314e-01  -3.149 0.001636 ** 
+StrikeBatsmanRS Bopara            -2.168e-01  7.390e-02  -2.933 0.003358 ** 
+StrikeBatsmanRS Gavaskar          -1.732e+00  7.096e-01  -2.440 0.014672 *  
+StrikeBatsmanRS Sodhi              3.477e-01  5.036e-01   0.690 0.489945    
+StrikeBatsmanRT Ponting           -6.944e-01  1.212e-01  -5.730 1.00e-08 ***
+StrikeBatsmanRV Gomez             -4.224e-01  1.535e-01  -2.751 0.005941 ** 
+StrikeBatsmanRV Uthappa           -1.291e-01  6.219e-02  -2.076 0.037863 *  
+StrikeBatsmanS Anirudha           -2.275e-01  1.045e-01  -2.176 0.029543 *  
+StrikeBatsmanS Aravind             4.903e-03  2.015e-01   0.024 0.980589    
+StrikeBatsmanS Badrinath          -2.105e-01  6.531e-02  -3.223 0.001270 ** 
+StrikeBatsmanS Chanderpaul        -6.380e-01  2.127e-01  -2.999 0.002706 ** 
+StrikeBatsmanS Dhawan             -1.947e-01  6.243e-02  -3.119 0.001815 ** 
+StrikeBatsmanS Gopal              -1.021e+00  2.739e-01  -3.729 0.000192 ***
+StrikeBatsmanS Kaul               -5.462e-01  3.387e-01  -1.613 0.106811    
+StrikeBatsmanS Kaushik            -1.165e+01  1.727e+02  -0.067 0.946212    
+StrikeBatsmanS Ladda              -1.165e+01  5.460e+01  -0.213 0.831060    
+StrikeBatsmanS Nadeem             -1.303e+00  2.127e-01  -6.129 8.87e-10 ***
+StrikeBatsmanS Narwal             -1.143e-01  1.749e-01  -0.654 0.513299    
+StrikeBatsmanS Rana               -2.534e-01  1.207e-01  -2.100 0.035705 *  
+StrikeBatsmanS Randiv             -1.039e+00  7.096e-01  -1.464 0.143298    
+StrikeBatsmanS Sohal              -1.922e-01  7.973e-02  -2.411 0.015907 *  
+StrikeBatsmanS Sreesanth          -8.752e-01  1.816e-01  -4.819 1.44e-06 ***
+StrikeBatsmanS Sriram             -5.491e-01  1.893e-01  -2.900 0.003726 ** 
+StrikeBatsmanS Tyagi              -6.332e-01  5.804e-01  -1.091 0.275345    
+StrikeBatsmanS Vidyut             -1.093e-01  1.023e-01  -1.068 0.285438    
+StrikeBatsmanSA Abbott            -2.156e-01  2.650e-01  -0.813 0.415983    
+StrikeBatsmanSA Asnodkar          -1.794e-01  7.719e-02  -2.324 0.020132 *  
+StrikeBatsmanSA Yadav             -9.658e-02  7.458e-02  -1.295 0.195287    
+StrikeBatsmanSachin Baby          -4.146e-02  1.085e-01  -0.382 0.702346    
+StrikeBatsmanSalman Butt          -2.166e-01  9.356e-02  -2.315 0.020599 *  
+StrikeBatsmanSandeep Sharma       -7.387e-01  2.371e-01  -3.116 0.001834 ** 
+StrikeBatsmanSandeep Sharma (1)   -1.165e+01  1.727e+02  -0.067 0.946212    
+StrikeBatsmanSB Bangar            -5.266e-01  1.549e-01  -3.401 0.000672 ***
+StrikeBatsmanSB Jakati            -4.335e-01  1.982e-01  -2.187 0.028752 *  
+StrikeBatsmanSB Joshi             -1.336e+00  4.126e-01  -3.238 0.001205 ** 
+StrikeBatsmanSB Styris            -3.753e-01  1.059e-01  -3.545 0.000393 ***
+StrikeBatsmanSB Wagh              -7.637e-01  7.096e-01  -1.076 0.281867    
+StrikeBatsmanSC Ganguly           -3.369e-01  6.570e-02  -5.128 2.92e-07 ***
+StrikeBatsmanSD Chitnis           -2.846e-01  1.169e-01  -2.434 0.014941 *  
+StrikeBatsmanSE Bond              -1.039e+00  1.002e+00  -1.037 0.299839    
+StrikeBatsmanSE Marsh             -9.416e-02  6.342e-02  -1.485 0.137587    
+StrikeBatsmanShahid Afridi         2.108e-01  1.262e-01   1.671 0.094785 .  
+StrikeBatsmanShakib Al Hasan      -1.356e-01  7.467e-02  -1.816 0.069374 .  
+StrikeBatsmanShivam Sharma         1.463e-01  4.512e-01   0.324 0.745674    
+StrikeBatsmanShoaib Ahmed         -2.147e+00  1.002e+00  -2.143 0.032116 *  
+StrikeBatsmanShoaib Akhtar        -1.751e+00  7.096e-01  -2.467 0.013619 *  
+StrikeBatsmanShoaib Malik         -2.966e-01  1.510e-01  -1.964 0.049529 *  
+StrikeBatsmanSJ Srivastava        -3.607e-01  4.512e-01  -0.799 0.424020    
+StrikeBatsmanSK Raina             -6.258e-02  6.177e-02  -1.013 0.311006    
+StrikeBatsmanSK Trivedi           -7.281e-01  1.655e-01  -4.400 1.08e-05 ***
+StrikeBatsmanSK Warne             -4.554e-01  9.286e-02  -4.905 9.35e-07 ***
+StrikeBatsmanSL Malinga           -5.612e-01  1.262e-01  -4.448 8.68e-06 ***
+StrikeBatsmanSM Harwood           -7.969e-01  3.386e-01  -2.353 0.018619 *  
+StrikeBatsmanSM Katich            -1.143e-01  8.791e-02  -1.300 0.193650    
+StrikeBatsmanSM Pollock           -1.211e-01  1.019e-01  -1.189 0.234343    
+StrikeBatsmanSMSM Senanayake      -8.907e-01  3.218e-01  -2.768 0.005648 ** 
+StrikeBatsmanSN Khan               1.808e-01  9.603e-02   1.883 0.059766 .  
+StrikeBatsmanSN Thakur            -2.103e-01  3.827e-01  -0.550 0.582561    
+StrikeBatsmanSohail Tanvir        -2.046e-01  1.771e-01  -1.155 0.247917    
+StrikeBatsmanSP Fleming           -2.164e-01  9.314e-02  -2.324 0.020149 *  
+StrikeBatsmanSP Goswami           -4.364e-01  8.787e-02  -4.966 6.84e-07 ***
+StrikeBatsmanSP Narine            -5.634e-01  1.576e-01  -3.574 0.000352 ***
+StrikeBatsmanSPD Smith            -6.764e-02  6.617e-02  -1.022 0.306686    
+StrikeBatsmanSR Tendulkar         -2.227e-01  6.325e-02  -3.522 0.000429 ***
+StrikeBatsmanSR Watson            -4.187e-02  6.297e-02  -0.665 0.506112    
+StrikeBatsmanSS Iyer              -2.124e-01  7.552e-02  -2.812 0.004923 ** 
+StrikeBatsmanSS Shaikh            -4.996e-01  4.126e-01  -1.211 0.225927    
+StrikeBatsmanSS Tiwary            -2.152e-01  6.625e-02  -3.249 0.001160 ** 
+StrikeBatsmanST Jayasuriya        -5.499e-02  6.996e-02  -0.786 0.431870    
+StrikeBatsmanSTR Binny            -1.159e-01  7.089e-02  -1.636 0.101927    
+StrikeBatsmanSunny Gupta          -1.165e+01  1.727e+02  -0.067 0.946212    
+StrikeBatsmanSunny Singh          -2.505e-02  1.638e-01  -0.153 0.878427    
+StrikeBatsmanSV Samson            -1.971e-01  6.733e-02  -2.928 0.003415 ** 
+StrikeBatsmanSW Billings          -7.423e-02  1.222e-01  -0.607 0.543608    
+StrikeBatsmanSW Tait              -4.784e-01  2.169e-01  -2.205 0.027430 *  
+StrikeBatsmanSwapnil Singh        -1.165e+01  1.727e+02  -0.067 0.946212    
+StrikeBatsmanT Henderson          -7.214e-01  3.074e-01  -2.347 0.018936 *  
+StrikeBatsmanT Kohli              -9.110e-01  3.074e-01  -2.964 0.003039 ** 
+StrikeBatsmanT Taibu              -1.886e-01  1.893e-01  -0.996 0.319121    
+StrikeBatsmanT Thushara           -8.181e-01  2.948e-01  -2.775 0.005521 ** 
+StrikeBatsmanTD Paine             -1.416e+00  3.218e-01  -4.400 1.08e-05 ***
+StrikeBatsmanTG Southee           -5.249e-04  1.576e-01  -0.003 0.997343    
+StrikeBatsmanTL Suman             -2.110e-01  7.111e-02  -2.968 0.003001 ** 
+StrikeBatsmanTM Dilshan           -2.587e-01  6.663e-02  -3.883 0.000103 ***
+StrikeBatsmanTM Head              -1.091e-01  1.486e-01  -0.734 0.462816    
+StrikeBatsmanTM Srivastava        -6.657e-01  3.586e-01  -1.856 0.063389 .  
+StrikeBatsmanTR Birt              -1.146e-01  1.300e-01  -0.881 0.378119    
+StrikeBatsmanU Kaul               -1.165e+01  1.727e+02  -0.067 0.946212    
+StrikeBatsmanUA Birla             -1.108e+00  3.827e-01  -2.894 0.003798 ** 
+StrikeBatsmanUBT Chand            -3.963e-01  8.310e-02  -4.769 1.85e-06 ***
+StrikeBatsmanUmar Gul              3.676e-01  1.709e-01   2.151 0.031501 *  
+StrikeBatsmanUT Khawaja           -1.595e-01  1.070e-01  -1.490 0.136171    
+StrikeBatsmanUT Yadav             -3.251e-01  1.244e-01  -2.613 0.008972 ** 
+StrikeBatsmanV Kohli              -1.132e-01  6.176e-02  -1.833 0.066778 .  
+StrikeBatsmanV Pratap Singh       -1.167e+01  1.727e+02  -0.068 0.946124    
+StrikeBatsmanV Sehwag              4.027e-02  6.277e-02   0.642 0.521171    
+StrikeBatsmanVH Zol               -2.553e-01  1.951e-01  -1.309 0.190681    
+StrikeBatsmanVR Aaron             -4.225e-01  1.655e-01  -2.554 0.010664 *  
+StrikeBatsmanVRV Singh            -7.051e-02  5.036e-01  -0.140 0.888645    
+StrikeBatsmanVS Malik             -3.591e-01  3.827e-01  -0.938 0.348036    
+StrikeBatsmanVS Yeligati          -3.455e-01  7.096e-01  -0.487 0.626364    
+StrikeBatsmanVVS Laxman           -3.160e-01  8.437e-02  -3.745 0.000180 ***
+StrikeBatsmanVY Mahesh            -9.737e-01  2.650e-01  -3.674 0.000239 ***
+StrikeBatsmanW Jaffer             -3.374e-01  1.061e-01  -3.179 0.001476 ** 
+StrikeBatsmanWA Mota              -6.664e-01  1.464e-01  -4.552 5.31e-06 ***
+StrikeBatsmanWD Parnell           -5.975e-01  1.394e-01  -4.285 1.83e-05 ***
+StrikeBatsmanWP Saha              -1.010e-01  6.580e-02  -1.534 0.124965    
+StrikeBatsmanWPUJC Vaas           -2.566e-01  1.262e-01  -2.034 0.041957 *  
+StrikeBatsmanX Thalaivan Sargunam -8.951e-01  3.218e-01  -2.781 0.005414 ** 
+StrikeBatsmanY Gnaneswara Rao     -2.914e-01  2.371e-01  -1.229 0.219017    
+StrikeBatsmanY Nagar              -3.068e-01  8.414e-02  -3.646 0.000266 ***
+StrikeBatsmanY Venugopal Rao      -2.261e-01  6.773e-02  -3.338 0.000844 ***
+StrikeBatsmanYA Abdulla           -1.167e+01  1.727e+02  -0.068 0.946124    
+StrikeBatsmanYashpal Singh        -7.060e-01  1.576e-01  -4.479 7.51e-06 ***
+StrikeBatsmanYK Pathan            -1.754e-03  6.271e-02  -0.028 0.977680    
+StrikeBatsmanYounis Khan          -1.193e+00  5.804e-01  -2.055 0.039883 *  
+StrikeBatsmanYS Chahal            -7.573e-01  7.096e-01  -1.067 0.285877    
+StrikeBatsmanYuvraj Singh         -1.269e-01  6.324e-02  -2.006 0.044842 *  
+StrikeBatsmanYV Takawale          -2.983e-01  9.371e-02  -3.183 0.001456 ** 
+StrikeBatsmanZ Khan               -4.785e-01  1.115e-01  -4.293 1.76e-05 ***
+Inning                            -1.900e-02  5.012e-03  -3.790 0.000151 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 258478  on 136020  degrees of freedom
+Residual deviance: 255498  on 135584  degrees of freedom
+AIC: 452428
+
+Number of Fisher Scoring iterations: 9

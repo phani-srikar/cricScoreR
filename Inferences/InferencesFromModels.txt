@@ -1,0 +1,84 @@
+1 . Model1 (RunsScored ~ StrikeBatsmen):
+
+    (a) 382 Factor variables  i.e. unique batsmen in IPL .
+    (b) AIC - 328909
+    (c)Most batsmen were significant as p value of them were quite small stating that Null hypothesis to have their coefficient as 0 can be rejected and 
+       alternate hypothesis to take their coefficients as significant can be considered.
+    (d)Coming to the measure of Overdispersion -:
+       * (Residual Deviance)/(Degree of Freedom) = 1.866463
+       * dispersiontest using AER package, we can state that overdispersion is there.Alpha is greater than 0 and p value for NULL Hypothesis is also very small.Alpha = 1.026016 
+    (e)Median is also not zero.
+
+2.Model2 (RunsScored~Bowler)
+
+    (a) 286 Factor Variables i.e. unique bowlers in IPL.
+    (b) AIC - 329534
+    (c) Most Bowler were significant but significant bowlers were less than batsmen
+    (d)Overdispersion test-:
+       * (Residual Deviance)/(Degree of Freedom) = 1.872864
+       * Dispersion test using AER package, we can state that overdispersion is there as p value for NUll hypothesis is significantly less and value of alpha is greater than 0. Alpha = 1.04918
+    (e) Median is also not zero .Median = -0.2324 
+
+3.Model3 ( RunsScored~StrikeBatsmen+Bowler)
+
+
+
+
+
+
+
+
+
+4.Model4 ( RunsScored ~ Team)
+     (a) 10 Factor Variables i.e. unique teams in IPL.
+     (b) AIC - 330445
+     (c) Most teams were significant as 8 teams were having their probability of significance upto 100 %.
+     (d)Measure of overdispersion -:
+          * (Residual Deviance)/(Degree of Freedom) = 1.882327
+          * Using dispersion test of package AER, we get Alpha to be 1.065022 stating that overdispersion is there as p value for NULL hypothesis was also significantly low.
+     (e) Median is also not zero and is equal to -0.21
+
+(5)Model5 ( RunsScored ~ Inning)
+     (a) 4 Factor variables i.e. unique Innings in IPL.
+     (b) AIC - 330510
+     (c) All the innings are significant and their significance probability is 100%.
+     (d)Overdispersion test-:
+         * (Resdiual Deviance)/(Degree of Freedom) = 1.882987
+         * Alpha value is equal to 1.066587.Alpha = 1.066587 and p value is significantly low.
+
+(6)Model6 ( Runs Scored ~ Extras)
+     (a) No factor variable is there. Extra column is treated as an integer column.
+     (b) AIC - 320903
+     (c) Extras are considered to be significant as probability of significance is 100%.
+     (d)Measure of overdispersion-:
+          * (Residual Deviance )/(Degree of Freedom) = 1.786913
+          * Dispersion test summary -: Alpha value = 1.066088 ,p value - significantly small.
+
+(7)Model7 (RunsScored~ NonStrikeBatsmen)
+      (a) 437 factor variables i.e. 381 Non Strike Batsmen.
+      (b) AIC - 329708
+      (c) Mix behavior for significance probability was there.Most of them were having 95 %  probability of significance.
+      (d)Measure of Overdispersion-:
+           * (Residual Deviance)/(Degree of Freedom) = 1.874492
+
+           * Dispersion test summary -:  Alpha value = 1.048914 and p value for NULL Hypothesis was significantly small.
+
+
+(8) Model8 ( Runs Scored ~ Over)
+        (a) 20 Factor variables i.e. 20 overs are unique.
+        (b) AIC - 328253
+        (c) As expected , last overs are having higher coefficients than initial overs.
+        (d)  As p values were quite low for all the overs, each over is significant.
+        (e) Measure of Overdispersion -:
+             *( Residual Deviance)/(Degree of Freedom) = 1.860386
+             *Alpha is 1.046739,thus dispersion is there rejecting the assumption of Poisson that mean and variance are equal.
+
+(9) Model9 ( RunsScored ~ StrikeBatsman + Bowler + Team + Inning)
+        (a) 784 factor variables are there and 784 coefficients have been given in model.
+        (b) AIC-451255
+        (c) According to the coefficients sorted in descending order Bowlers were having higher coefficients than Strike Batsman.
+        (d) Half the number of teams were significant as their p values were too low.
+        (e) All the innings were Significant. 
+        (f) Measure of Overdispersion -:
+                *(ResdidualDeviance)/(Degree of Freedom) = 1.875452
+                * Dispersion test summary -: Alpha value - 1.025961 Dispersion is there as alpha is greater than 1 and p value is also significantly small.

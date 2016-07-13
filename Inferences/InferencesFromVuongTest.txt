@@ -1,0 +1,50 @@
+1.Vuong test on glmipl4 and zeroinfl4 with formula (RunsScored ~ Team)
+    
+ Vuong Non-Nested Hypothesis Test-Statistic: 
+(test-statistic is asymptotically distributed N(0,1) under the
+ null that the models are indistinguishible)
+-------------------------------------------------------------
+              Vuong z-statistic             H_A    p-value
+Raw                   -43.17644 model2 > model1 < 2.22e-16
+AIC-corrected         -43.09765 model2 > model1 < 2.22e-16
+BIC-corrected         -42.72286 model2 > model1 < 2.22e-16
+
+2.Vuong test on glmipl5 and zeroinfl5 with formula (RunsScored ~ Inning)
+       
+       *From the results below, we can clearly state that zeroinfl5 i.e. with zero inflated model is more closer to true data generating process.
+
+Vuong Non-Nested Hypothesis Test-Statistic: 
+(test-statistic is asymptotically distributed N(0,1) under the
+ null that the models are indistinguishible)
+-------------------------------------------------------------
+              Vuong z-statistic             H_A    p-value
+Raw                   -43.05993 model2 > model1 < 2.22e-16
+AIC-corrected         -43.03124 model2 > model1 < 2.22e-16
+BIC-corrected         -42.89479 model2 > model1 < 2.22e-16
+
+3.Vuong test on glmipl6 and zeroinfl6 with formula (RunsScored ~ Extras)
+       
+       *From the results below, we can clearly state that zeroinfl6 i.e. with zero inflated model is more closer to true data generating process.
+
+Vuong Non-Nested Hypothesis Test-Statistic: 
+(test-statistic is asymptotically distributed N(0,1) under the
+ null that the models are indistinguishible)
+-------------------------------------------------------------
+              Vuong z-statistic             H_A    p-value
+Raw                   -35.70471 model2 > model1 < 2.22e-16
+AIC-corrected         -35.69076 model2 > model1 < 2.22e-16
+BIC-corrected         -35.62439 model2 > model1 < 2.22e-16
+
+4.Vuong test on glmipl8 and zeroinfl8 with formula (RunsScored ~ Over)
+       
+       *From the results below, we can clearly state that zeroinfl8 i.e. with zero inflated model is more closer to true data generating process
+
+
+Vuong Non-Nested Hypothesis Test-Statistic: 
+(test-statistic is asymptotically distributed N(0,1) under the
+ null that the models are indistinguishible)
+-------------------------------------------------------------
+              Vuong z-statistic             H_A    p-value
+Raw                   -51.57827 model2 > model1 < 2.22e-16
+AIC-corrected         -51.44767 model2 > model1 < 2.22e-16
+BIC-corrected         -50.82647 model2 > model1 < 2.22e-16
